@@ -59,7 +59,9 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
   themeConfig: {
+    deploymentBranch: "gh-pages",
     docs: {
       sidebar: {
         hideable: true,
@@ -82,39 +84,16 @@ const config: Config = {
         { to: "/blog", label: "Blog", position: "left" },
         { type: "localeDropdown", position: "right" },
         {
+          href: "https://www.linkedin.com/in/tchez/",
+          label: "LinkedIn",
+          position: "right",
+        },
+        {
           href: "https://github.com/tchez/brain-blog",
           label: "GitHub",
           position: "right",
         },
       ],
-    },
-    footer: {
-      style: "dark",
-      links: [
-        {
-          title: "Topics",
-          items: [
-            { label: "Foundations", to: "/docs/foundations/intro" },
-            { label: "Learning AI", to: "/docs/jorneys/learning-ai/overview" },
-            { label: "Tutorials", to: "/docs/tutorials/intro" },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            { label: "GitHub", href: "https://github.com/tchez/brain-blog" },
-            {
-              label: "LinkedIn",
-              href: "https://www.linkedin.com/in/tchez/",
-            },
-            {
-              label: "Issues",
-              href: "https://github.com/tchez/brain-blog/issues",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} Brain Blog. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -18,14 +18,14 @@ function HeroSection() {
         </Heading>
         <p className="hero__subtitle">
           {isPT
-            ? 'Meu segundo cérebro digital, bilíngue e aberto.'
-            : 'My open, bilingual second brain.'}
+            ? 'Esse blog é um backup do meu cérebro, com anotações e tutoriais sobre assuntos que estou aprendendo.'
+            : 'This blog is a backup of my brain, with notes and tutorials on topics I am learning.'}
         </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/jorneys/learning-ai/overview">
-            {isPT ? '📘 Acesse a Jornada: IA' : '📘 Start the AI Journey'}
+            to="/docs/about">
+            {isPT ? 'Entenda o projeto' : 'Understand the project'}
           </Link>
         </div>
       </div>
