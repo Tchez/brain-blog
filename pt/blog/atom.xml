@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tchez.github.io/brain-blog/pt/blog</id>
+    <title>Brain Blog Blog</title>
+    <updated>2025-05-03T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tchez.github.io/brain-blog/pt/blog"/>
+    <subtitle>Brain Blog Blog</subtitle>
+    <icon>https://tchez.github.io/brain-blog/pt/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Brain Blog]]></title>
+        <id>https://tchez.github.io/brain-blog/pt/blog/2025/05/03/welcome</id>
+        <link href="https://tchez.github.io/brain-blog/pt/blog/2025/05/03/welcome"/>
+        <updated>2025-05-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why I’m dumping my brain publicly.]]></summary>
+        <content type="html"><![CDATA[<p>First post! Here I explain the idea behind the <strong>Brain&nbsp;Blog</strong> saga system&nbsp;…</p>]]></content>
+        <category label="meta" term="meta"/>
+    </entry>
+</feed>
