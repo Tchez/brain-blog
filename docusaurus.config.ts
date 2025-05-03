@@ -71,11 +71,11 @@ const config: Config = {
     },
     navbar: {
       title: "Brain Blog",
-      logo: { alt: "Brain Blog Logo", src: "img/logo.svg" },
+      logo: { alt: "Brain Blog Logo", src: "img/logo.png" },
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar", // <- corrigido
+          sidebarId: "tutorialSidebar",
           position: "left",
           label: "Docs",
         },
@@ -92,7 +92,7 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "Learn",
+          title: "Topics",
           items: [
             { label: "Foundations", to: "/docs/foundations/intro" },
             { label: "Learning AI", to: "/docs/jorneys/learning-ai/overview" },
@@ -103,6 +103,10 @@ const config: Config = {
           title: "Community",
           items: [
             { label: "GitHub", href: "https://github.com/tchez/brain-blog" },
+            {
+              label: "LinkedIn",
+              href: "https://www.linkedin.com/in/tchez/",
+            },
             {
               label: "Issues",
               href: "https://github.com/tchez/brain-blog/issues",
