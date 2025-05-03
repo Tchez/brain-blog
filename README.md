@@ -1,41 +1,9 @@
-# Website
+# Brain Blog
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to my personal knowledge vault. I use this repository to capture and organize everything I'm learning, starting with the **Learning AI** saga, starting with the book _Why Machines Learn?_. Content is always published in **English first**, then translated to **Portuguese**.
 
-### Installation
+---
 
-```
-$ yarn
-```
+## Brain Blog (PT‑BR)
 
-### Local Development
-
-```
-$ yarn start
-```
-
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Bem‑vindo ao meu repositório de conhecimento. Aqui faço um _dump_ estruturado do meu cérebro — começando pela saga **Aprendendo IA**, iniciando com o livro _Why Machines Learn?_. Todo conteúdo é publicado primeiro em **inglês** e depois traduzido para **português**.
