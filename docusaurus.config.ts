@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Brain Blog",
-  tagline: "Structured brain‑dump, EN + PT",
+  tagline: "Structured brain‑dump",
   favicon: "img/favicon.ico",
 
   /* GitHub Pages */
