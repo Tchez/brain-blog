@@ -26,5 +26,9 @@
   "sidebar.notesSidebar.category.Projects.link.generated-index.title": {
     "message": "Projetos",
     "description": "The generated-index page title for category Projects in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.learning-ai": {
+    "message": "learning-ai",
+    "description": "The label for category learning-ai in sidebar notesSidebar"
   }
 }
