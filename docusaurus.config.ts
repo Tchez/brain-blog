@@ -4,7 +4,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "Brain Blog",
-  tagline: "Structured brain‑dump",
+  tagline: "Blog to document my learning journey",
   favicon: "img/favicon.ico",
 
   /* GitHub Pages */
@@ -20,9 +20,22 @@ const config: Config = {
   i18n: {
     defaultLocale: "en",
     locales: ["en", "pt"],
+    path: "i18n",
     localeConfigs: {
-      en: { label: "English", htmlLang: "en" },
-      pt: { label: "Português", htmlLang: "pt-BR" },
+      en: {
+        label: "English",
+        direction: "ltr",
+        htmlLang: "en",
+        calendar: "gregory",
+        path: "en",
+      },
+      pt: {
+        label: "Português",
+        direction: "ltr",
+        htmlLang: "pt-BR",
+        calendar: "gregory",
+        path: "pt",
+      },
     },
   },
 
@@ -46,16 +59,23 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
-
   themeConfig: {
-    image: "img/docusaurus-social-card.jpg",
+    docs: {
+      sidebar: {
+        hideable: true,
+      },
+    },
+    colorMode: {
+      defaultMode: "dark",
+      respectPrefersColorScheme: true,
+    },
     navbar: {
-      title: "Brain Blog",
-      logo: { alt: "Brain Blog", src: "img/logo.svg" },
+      title: "Brain Blog",
+      logo: { alt: "Brain Blog Logo", src: "img/logo.svg" },
       items: [
         {
           type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          sidebarId: "tutorialSidebar", // <- corrigido
           position: "left",
           label: "Docs",
         },
@@ -69,7 +89,28 @@ const config: Config = {
       ],
     },
     footer: {
-      /* //TODO: Personalise later */
+      style: "dark",
+      links: [
+        {
+          title: "Learn",
+          items: [
+            { label: "Foundations", to: "/docs/foundations/intro" },
+            { label: "Learning AI", to: "/docs/jorneys/learning-ai/overview" },
+            { label: "Tutorials", to: "/docs/tutorials/intro" },
+          ],
+        },
+        {
+          title: "Community",
+          items: [
+            { label: "GitHub", href: "https://github.com/tchez/brain-blog" },
+            {
+              label: "Issues",
+              href: "https://github.com/tchez/brain-blog/issues",
+            },
+          ],
+        },
+      ],
+      copyright: `Copyright © ${new Date().getFullYear()} Brain Blog. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
