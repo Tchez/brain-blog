@@ -30,8 +30,11 @@ export default function Home(): ReactNode {
           <div className={styles.ctaRow}>
             <Link
               className="button button--primary button--lg"
-              to="/notes/jorneys/learning-ai/overview">
-              {t('Current Journey', 'Jornada Atual')}
+              to="/blog/welcome">
+              {t(
+                'Welcome Post',
+                'Post de Boas-Vindas'
+              )}
             </Link>
             <Link
               className="button button--outline button--lg"

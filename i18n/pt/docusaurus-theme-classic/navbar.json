@@ -8,11 +8,11 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.About Brain Blog": {
-    "message": "About Brain Blog",
+    "message": "Sobre o Brain Blog",
     "description": "Navbar item with label About Brain Blog"
   },
   "item.label.Foundations": {
-    "message": "Foundations",
+    "message": "Fundamentos",
     "description": "Navbar item with label Foundations"
   },
   "item.label.Jornadas": {
