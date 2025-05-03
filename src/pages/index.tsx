@@ -7,20 +7,27 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
+  const { siteConfig, i18n } = useDocusaurusContext();
+  const isEnglish = i18n.currentLocale === 'en';
+
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          {isEnglish ? 'Welcome to Brain Blog!' : 'Bem-vindo ao Brain Blog!'}
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          {isEnglish
+            ? 'My structured second brain'
+            : 'Meu segundo cérebro estruturado'}
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/about"
-          >
-            About the Blog
+            to="/docs/jorneys/learning-ai/overview">
+            {isEnglish
+              ? 'Start following my learning journey'
+              : 'Comece a acompanhar minha jornada de aprendizado'}
           </Link>
         </div>
       </div>
@@ -29,44 +36,40 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactNode {
+  const { siteConfig } = useDocusaurusContext();
+
   return (
     <Layout
-      title="Brain Blog"
-      description="A structured brain-dump — bilingual (EN / PT‑BR)">
+      title={siteConfig.title}
+      description="Brain Blog – structured learning, in English and Portuguese.">
       <HomepageHeader />
       <main className="container margin-vert--xl">
         <div className="row">
           <div className="col col--6">
             <Heading as="h2">🧠 What is Brain Blog?</Heading>
             <p>
-              Brain Blog is my public, structured brain-dump. I use it to record
-              notes, learning journeys (called <strong>sagas</strong>),
-              tutorials, and code demos.
+              Brain Blog is where I organize everything I learn — from reusable
+              concepts to thematic jorneys and technical tutorials.
             </p>
-            <p>
-              Everything is written in English first, then translated to
-              Portuguese. The idea is to learn by teaching — and share as I go.
-            </p>
-            <p>
-              My first saga is <strong>Learning AI</strong>, starting with the
-              book <em>Why Machines Learn?</em>
-            </p>
+            <p>Everything is bilingual: English first, then Portuguese.</p>
+            <ul>
+              <li><strong>Foundations</strong> – key building blocks</li>
+              <li><strong>Jorneys</strong> – learning paths (like Learning AI)</li>
+              <li><strong>Tutorials</strong> – standalone how-to guides</li>
+            </ul>
           </div>
           <div className="col col--6">
-            <Heading as="h2">🧠 O que é o Brain Blog?</Heading>
+            <Heading as="h2">🧠 O que é o Brain Blog?</Heading>
             <p>
-              O Brain Blog é meu “segundo cérebro” público. Uso para registrar
-              anotações, jornadas de estudo (as <strong>sagas</strong>),
-              tutoriais e exemplos de código.
+              O Brain Blog é onde organizo tudo o que aprendo — de conceitos
+              reutilizáveis a jornadas temáticas e tutoriais técnicos.
             </p>
-            <p>
-              Tudo é escrito primeiro em inglês e depois traduzido para o
-              português. A ideia é aprender ensinando — e compartilhar no caminho.
-            </p>
-            <p>
-              A primeira saga é <strong>Learning AI</strong>, começando pelo
-              livro <em>Why Machines Learn?</em>
-            </p>
+            <p>Todo o conteúdo é bilíngue: inglês primeiro, depois português.</p>
+            <ul>
+              <li><strong>Fundamentos</strong> – blocos essenciais</li>
+              <li><strong>Jornadas</strong> – caminhos de estudo (ex: IA)</li>
+              <li><strong>Tutoriais</strong> – guias práticos e objetivos</li>
+            </ul>
           </div>
         </div>
       </main>
