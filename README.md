@@ -13,7 +13,6 @@ The Brain Blog is organized into:
 
 - **Foundations** – reusable concepts and fundamentals (math, ML, protocols, etc.)
 - **Jorneys** – thematic deep dives like _Learning AI_ (starting with the book _Why Machines Learn?_)
-- **Tutorials** – practical and focused guides based on what I study and build
 
 ---
 

@@ -43,23 +43,28 @@ const config: Config = {
     [
       "classic",
       {
-        docs: {
-          sidebarPath: "./sidebars.ts",
-          editUrl: "https://github.com/tchez/brain-blog/edit/main/",
-        },
+        docs: false,
         blog: {
           showReadingTime: true,
           feedOptions: { type: ["rss", "atom"], xslt: true },
           editUrl: "https://github.com/tchez/brain-blog/edit/main/",
-          onInlineTags: "warn",
-          onInlineAuthors: "warn",
-          onUntruncatedBlogPosts: "warn",
         },
         theme: { customCss: "./src/css/custom.css" },
       } satisfies Preset.Options,
     ],
   ],
-
+  plugins: [
+    [
+      "@docusaurus/plugin-content-docs",
+      {
+        id: "notes",
+        path: "notes",
+        routeBasePath: "notes",
+        sidebarPath: "./sidebars-notes.ts",
+        editUrl: "https://github.com/tchez/brain-blog/edit/main/",
+      },
+    ],
+  ],
   themeConfig: {
     deploymentBranch: "gh-pages",
     docs: {
@@ -75,13 +80,16 @@ const config: Config = {
       title: "Brain Blog",
       logo: { alt: "Brain Blog Logo", src: "img/logo.png" },
       items: [
+        { to: "/blog/welcome", label: "About Brain Blog", position: "left" },
         {
-          type: "docSidebar",
-          sidebarId: "tutorialSidebar",
+          to: "/notes/foundations/intro",
+          label: "Foundations",
           position: "left",
-          label: "Docs",
         },
+        { to: "/notes/jorneys/intro", label: "Jornadas", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
+
+        /* idioma + redes */
         { type: "localeDropdown", position: "right" },
         {
           href: "https://www.linkedin.com/in/tchez/",

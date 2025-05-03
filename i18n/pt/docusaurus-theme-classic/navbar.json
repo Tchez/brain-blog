@@ -1,0 +1,34 @@
+{
+  "title": {
+    "message": "Brain Blog",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Brain Blog Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.About Brain Blog": {
+    "message": "About Brain Blog",
+    "description": "Navbar item with label About Brain Blog"
+  },
+  "item.label.Foundations": {
+    "message": "Foundations",
+    "description": "Navbar item with label Foundations"
+  },
+  "item.label.Jornadas": {
+    "message": "Jornadas",
+    "description": "Navbar item with label Jornadas"
+  },
+  "item.label.Blog": {
+    "message": "Blog",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.LinkedIn": {
+    "message": "LinkedIn",
+    "description": "Navbar item with label LinkedIn"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

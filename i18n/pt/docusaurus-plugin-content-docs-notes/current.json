@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.notesSidebar.category.Foundations": {
+    "message": "Foundations",
+    "description": "The label for category Foundations in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Foundations.link.generated-index.title": {
+    "message": "Foundations",
+    "description": "The generated-index page title for category Foundations in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Jorneys": {
+    "message": "Jorneys",
+    "description": "The label for category Jorneys in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Jorneys.link.generated-index.title": {
+    "message": "Jorneys",
+    "description": "The generated-index page title for category Jorneys in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Projects": {
+    "message": "Projects",
+    "description": "The label for category Projects in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Projects.link.generated-index.title": {
+    "message": "Projects",
+    "description": "The generated-index page title for category Projects in sidebar notesSidebar"
+  }
+}

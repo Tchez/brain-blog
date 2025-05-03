@@ -1,8 +1,68 @@
-.heroBanner {
-  padding: 4rem 0;
-  text-align: center;
+/* src/pages/index.module.css */
+
+/* ========== HERO ========== */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6rem 1rem 5rem;
+  gap: 3.5rem;
+  flex-wrap: wrap;
+  background: var(--ifm-background-color);
 }
 
-.buttons {
-  margin-top: 2rem;
+.inner {
+  max-width: 480px;
+  text-align: left;
+}
+
+.title {
+  font-size: 2.6rem;
+  font-weight: 700;
+  margin-bottom: 0.8rem;
+}
+
+.subtitle {
+  font-size: 1.15rem;
+  opacity: 0.85;
+  margin-bottom: 2.2rem;
+}
+
+.ctaRow {
+  display: flex;
+  gap: 0.8rem;
+}
+
+/* Button hover animations */
+.ctaRow .button {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.ctaRow .button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+}
+
+.avatar {
+  width: 210px;
+  height: 210px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+  transition: transform 0.3s ease;
+}
+.avatar:hover {
+  transform: scale(1.05);
+}
+
+/* Small‑screen tweaks */
+@media (max-width: 720px) {
+  .title {
+    text-align: center;
+  }
+  .subtitle {
+    text-align: center;
+  }
+  .inner {
+    text-align: center;
+  }
 }
