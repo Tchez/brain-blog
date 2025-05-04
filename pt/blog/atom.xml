@@ -2,18 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tchez.github.io/brain-blog/pt/blog</id>
     <title>Brain Blog Blog</title>
-    <updated>2025-05-03T00:00:00.000Z</updated>
+    <updated>2025-05-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tchez.github.io/brain-blog/pt/blog"/>
     <subtitle>Brain Blog Blog</subtitle>
     <icon>https://tchez.github.io/brain-blog/pt/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome to Brain Blog]]></title>
-        <id>https://tchez.github.io/brain-blog/pt/blog/2025/05/03/welcome</id>
-        <link href="https://tchez.github.io/brain-blog/pt/blog/2025/05/03/welcome"/>
-        <updated>2025-05-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Why I’m dumping my brain publicly.]]></summary>
-        <content type="html"><![CDATA[<p>First post! Here I explain the idea behind the <strong>Brain&nbsp;Blog</strong> saga system&nbsp;…</p>]]></content>
+        <title type="html"><![CDATA[Bem‑vindo ao Brain Blog 🎉]]></title>
+        <id>https://tchez.github.io/brain-blog/pt/blog/welcome</id>
+        <link href="https://tchez.github.io/brain-blog/pt/blog/welcome"/>
+        <updated>2025-05-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Meu espaço pessoal para compartilhar ideias e despejar conhecimento estruturado.]]></summary>
+        <content type="html"><![CDATA[<p>Olá, mundo! 👋<br>
+<!-- -->Sou <a href="https://www.linkedin.com/in/tchez" target="_blank" rel="noopener noreferrer">Marco&nbsp;Antônio</a> e este é o meu <strong>Brain&nbsp;Blog</strong>.
+Esta publicação é uma explicação do que você vai encontrar por aqui.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="por-que-brainblog">Por que “Brain&nbsp;Blog”?<a href="https://tchez.github.io/brain-blog/pt/blog/welcome#por-que-brainblog" class="hash-link" aria-label="Link direto para Por que “Brain&nbsp;Blog”?" title="Link direto para Por que “Brain&nbsp;Blog”?">​</a></h3>
+<blockquote>
+<p><em>“Quem ensina aprende ao ensinar. E quem aprende ensina ao aprender.”</em>
+— Paulo Freire</p>
+</blockquote>
+<p>A ideia do Brain&nbsp;Blog é fazer um 'backup' do meu cérebro, onde anoto meus estudos, organizo referências e documento minhas jornadas de aprendizado.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="estrutura-do-conteúdo">Estrutura do conteúdo<a href="https://tchez.github.io/brain-blog/pt/blog/welcome#estrutura-do-conte%C3%BAdo" class="hash-link" aria-label="Link direto para Estrutura do conteúdo" title="Link direto para Estrutura do conteúdo">​</a></h3>
+<!-- -->
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Blog</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Notas</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><br><blockquote>
+<p>Meu espaço pessoal para compartilhar ideias e conhecimento.</p>
+</blockquote><p>Aqui você encontrará artigos, tutoriais e reflexões sobre temas que me interessam. Compartilharei também experiências e aprendizados que considero relevantes.</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><br><blockquote>
+<p>Meu espaço pessoal para organizar conhecimento.</p>
+</blockquote><p>Aqui você encontrará anotações, resumos e referências sobre temas que estou estudando. O objetivo é criar um repositório de conhecimento que possa ser útil para mim e para outras pessoas.</p><p>As notas estão divididas em três categorias:</p><ul>
+<li><strong><a href="https://tchez.github.io/brain-blog/pt/notes/foundations/intro">Fundamentos</a></strong>: explicações de fundamentos de programação, como algoritmos, protocolos, linguagens, etc.</li>
+<li><strong><a href="https://tchez.github.io/brain-blog/pt/notes/projects/intro">Projetos</a></strong>: anotações sobre projetos que estou desenvolvendo ou ideias que estou explorando.</li>
+<li><strong><a href="https://tchez.github.io/brain-blog/pt/notes/jorneys/intro">Jornadas</a></strong>: cada jornada documenta o processo de aprendizado de um tema específico, com links para referências e anotações dos materiais estudados.</li>
+</ul></div></div></div>]]></content>
+        <author>
+            <name>Marco Antônio Martins Porto Netto</name>
+            <uri>https://github.com/tchez</uri>
+        </author>
         <category label="meta" term="meta"/>
+        <category label="blog" term="blog"/>
     </entry>
 </feed>

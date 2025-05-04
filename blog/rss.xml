@@ -4,18 +4,41 @@
         <title>Brain Blog Blog</title>
         <link>https://tchez.github.io/brain-blog/blog</link>
         <description>Brain Blog Blog</description>
-        <lastBuildDate>Sat, 03 May 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 May 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Welcome to Brain Blog]]></title>
-            <link>https://tchez.github.io/brain-blog/blog/2025/05/03/welcome</link>
-            <guid>https://tchez.github.io/brain-blog/blog/2025/05/03/welcome</guid>
-            <pubDate>Sat, 03 May 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Why I’m dumping my brain publicly.]]></description>
-            <content:encoded><![CDATA[<p>First post! Here I explain the idea behind the <strong>Brain&nbsp;Blog</strong> saga system&nbsp;…</p>]]></content:encoded>
+            <title><![CDATA[Welcome to Brain Blog 🎉]]></title>
+            <link>https://tchez.github.io/brain-blog/blog/welcome</link>
+            <guid>https://tchez.github.io/brain-blog/blog/welcome</guid>
+            <pubDate>Sun, 04 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[My personal place to share ideas and dump structured knowledge.]]></description>
+            <content:encoded><![CDATA[<p>Hello, world! 👋<br>
+<!-- -->I’m <strong><a href="https://www.linkedin.com/in/tchez" target="_blank" rel="noopener noreferrer">Marco&nbsp;Antônio</a></strong> and this is my <strong>Brain&nbsp;Blog</strong>.<br>
+<!-- -->This first post is a quick tour of what you’ll find here.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-brainblog">Why “Brain&nbsp;Blog”?<a href="https://tchez.github.io/brain-blog/blog/welcome#why-brainblog" class="hash-link" aria-label="Direct link to Why “Brain&nbsp;Blog”?" title="Direct link to Why “Brain&nbsp;Blog”?">​</a></h3>
+<blockquote>
+<p><em>“When we teach, we learn twice.”</em><br>
+<!-- -->— Translated from Paulo Freire</p>
+</blockquote>
+<p>Brain&nbsp;Blog is a public backup of my brain where I capture study notes,
+organise references and document learning journeys.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="content-structure">Content structure<a href="https://tchez.github.io/brain-blog/blog/welcome#content-structure" class="hash-link" aria-label="Direct link to Content structure" title="Direct link to Content structure">​</a></h3>
+<!-- -->
+<div class="tabs-container tabList__CuJ"><ul role="tablist" aria-orientation="horizontal" class="tabs"><li role="tab" tabindex="0" aria-selected="true" class="tabs__item tabItem_LNqP tabs__item--active">Blog</li><li role="tab" tabindex="-1" aria-selected="false" class="tabs__item tabItem_LNqP">Notes</li></ul><div class="margin-top--md"><div role="tabpanel" class="tabItem_Ymn6"><br><blockquote>
+<p>My personal stream of ideas and experience.</p>
+</blockquote><p>You’ll read articles, tutorials and reflections on topics that excite me,
+plus lessons learned from real‑world projects.</p></div><div role="tabpanel" class="tabItem_Ymn6" hidden=""><br><blockquote>
+<p>A structured knowledge vault.</p>
+</blockquote><p>I publish notes, summaries and references from everything I study,
+turning them into a reusable base.</p><p>Notes are split into three sections:</p><ul>
+<li><strong><a href="https://tchez.github.io/brain-blog/notes/foundations/intro">Foundations</a></strong> – core explanations of fundamentals (math, algorithms, protocols…).</li>
+<li><strong><a href="https://tchez.github.io/brain-blog/notes/projects/intro">Projects</a></strong> – write‑ups of things I’m building or ideas I’m exploring.</li>
+<li><strong><a href="https://tchez.github.io/brain-blog/notes/jorneys/intro">Jorneys</a></strong> – step‑by‑step road‑maps of mastering a specific topic, linking to resources and notes.</li>
+</ul></div></div></div>]]></content:encoded>
             <category>meta</category>
+            <category>blog</category>
         </item>
     </channel>
 </rss>
