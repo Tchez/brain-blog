@@ -12,7 +12,7 @@ Everything is written in **English first**, and then translated to **Portuguese 
 The Brain Blog is organized into:
 
 - **Foundations** – reusable concepts and fundamentals (math, ML, protocols, etc.)
-- **Jorneys** – thematic deep dives like _Learning AI_ (starting with the book _Why Machines Learn?_)
+- **Journeys** – thematic deep dives like _Learning AI_ (starting with the book _Why Machines Learn?_)
 
 ---
 

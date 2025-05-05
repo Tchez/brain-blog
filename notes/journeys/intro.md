@@ -1,8 +1,8 @@
 ---
-title: Jorneys Intro
+title: Journeys Intro
 sidebar_position: 0
 ---
 
-# Jorneys
+# Journeys
 
 Learning road‑maps where I log progress on books, papers and courses.

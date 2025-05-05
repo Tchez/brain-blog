@@ -11,13 +11,13 @@
     "message": "Fundamentos",
     "description": "The generated-index page title for category Foundations in sidebar notesSidebar"
   },
-  "sidebar.notesSidebar.category.Jorneys": {
+  "sidebar.notesSidebar.category.Journeys": {
     "message": "Jornadas",
-    "description": "The label for category Jorneys in sidebar notesSidebar"
+    "description": "The label for category Journeys in sidebar notesSidebar"
   },
-  "sidebar.notesSidebar.category.Jorneys.link.generated-index.title": {
+  "sidebar.notesSidebar.category.Journeys.link.generated-index.title": {
     "message": "Jornadas",
-    "description": "The generated-index page title for category Jorneys in sidebar notesSidebar"
+    "description": "The generated-index page title for category Journeys in sidebar notesSidebar"
   },
   "sidebar.notesSidebar.category.Projects": {
     "message": "Projetos",

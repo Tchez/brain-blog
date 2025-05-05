@@ -11,14 +11,6 @@
     "message": "Sobre o Brain Blog",
     "description": "Navbar item with label About Brain Blog"
   },
-  "item.label.Foundations": {
-    "message": "Fundamentos",
-    "description": "Navbar item with label Foundations"
-  },
-  "item.label.Jornadas": {
-    "message": "Jornadas",
-    "description": "Navbar item with label Jornadas"
-  },
   "item.label.Blog": {
     "message": "Blog",
     "description": "Navbar item with label Blog"
@@ -30,5 +22,9 @@
   "item.label.GitHub": {
     "message": "GitHub",
     "description": "Navbar item with label GitHub"
+  },
+  "item.label.Notes": {
+    "message": "Notes",
+    "description": "Navbar item with label Notes"
   }
 }

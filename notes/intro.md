@@ -14,7 +14,7 @@ This is my public notebook — notes, summaries and references I find useful
   <p>Atomic concepts that power everything else: protocols, algorithms, patterns …</p>
 </a>
 
-<a className="card" href="/notes/category/jorneys">
+<a className="card" href="/notes/category/journeys">
   <h3>Journeys</h3>
   <p>Learning road‑maps with notes on books, articles and courses.</p>
 </a>

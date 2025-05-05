@@ -82,11 +82,10 @@ const config: Config = {
       items: [
         { to: "/blog/welcome", label: "About Brain Blog", position: "left" },
         {
-          to: "/notes/foundations/intro",
-          label: "Foundations",
+          to: "/notes/intro",
+          label: "Notes",
           position: "left",
         },
-        { to: "/notes/jorneys/intro", label: "Jornadas", position: "left" },
         { to: "/blog", label: "Blog", position: "left" },
 
         /* idioma + redes */

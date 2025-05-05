@@ -5,4 +5,4 @@ sidebar_position: 0
 
 # Foundations
 
-Core concepts (math, ML, protocols) reused in different jorneys.
+Core concepts (math, ML, protocols) reused in different journeys.

@@ -16,7 +16,7 @@ Use a barra lateral ou escolha uma seção abaixo.
   <p>Conceitos atômicos que sustentam tudo: protocolos, algoritmos, padrões …</p>
 </a>
 
-<a className="card" href="/notes/category/jorneys">
+<a className="card" href="/notes/category/journeys">
   <h3>Jornadas</h3>
   <p>Road‑maps de aprendizado com notas de livros, artigos e cursos.</p>
 </a>
