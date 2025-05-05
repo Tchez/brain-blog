@@ -1,25 +1,82 @@
+/* ---------- tema base ---------- */
 :root {
-  --ifm-color-primary: #6b4226;
-  --ifm-color-primary-dark: #3e2723;
-  --ifm-background-color: #fdfcfb;
+  --c-bg: #fdfcfb;
+  --c-text: #333;
+  --c-primary: #6b4226;
+  --c-primary-dark: #3e2723;
+
+  --c-border: rgba(0, 0, 0, 0.08);
+  --c-card-bg: #fff;
+  --c-card-hover: rgba(0, 0, 0, 0.06);
+
+  --ifm-background-color: var(--c-bg);
   --ifm-navbar-background-color: #ede6db;
   --ifm-footer-background-color: #c2b280;
   --ifm-font-family-base: "Georgia", serif;
+  --ifm-font-color-base: var(--c-text);
+  --ifm-color-primary: var(--c-primary);
+  --ifm-color-primary-dark: var(--c-primary-dark);
 }
 
+/* ---------- dark mode ---------- */
 [data-theme="dark"] {
-  --ifm-background-color: #121212;
+  --c-bg: #121212;
+  --c-text: #e0e0e0;
+  --c-border: rgba(255, 255, 255, 0.12);
+  --c-card-bg: #1e1e1e;
+  --c-card-hover: rgba(255, 255, 255, 0.06);
+
+  --ifm-background-color: var(--c-bg);
   --ifm-navbar-background-color: #1e1e1e;
   --ifm-footer-background-color: #2c2c2c;
-
-  --ifm-color-primary: #d7a97b; /* cobre claro */
+  --ifm-font-color-base: var(--c-text);
+  --ifm-color-primary: #d7a97b;
   --ifm-color-primary-dark: #b47e53;
-  --ifm-color-primary-darker: #a86e42;
-  --ifm-color-primary-darkest: #8c5430;
-  --ifm-color-primary-light: #e1b88f;
-  --ifm-color-primary-lighter: #efcba8;
-  --ifm-color-primary-lightest: #f6dac2;
+}
 
-  --ifm-font-family-base: "Georgia", serif;
-  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.05);
+/* ---------- cards grid ---------- */
+.cardsGrid {
+  display: grid;
+  gap: 1.2rem;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-top: 2rem;
+}
+
+.card {
+  background: var(--c-card-bg);
+  border: 1px solid var(--c-border);
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow 0.15s ease, transform 0.15s ease,
+    border-color 0.15s ease;
+}
+
+.card h3 {
+  margin: 0 0 0.5rem;
+  font-size: 1.1rem;
+  color: var(--ifm-color-primary);
+}
+
+.card p {
+  margin: 0;
+  font-size: 0.94rem;
+  line-height: 1.45;
+  opacity: 0.85;
+}
+
+/* hover apenas para dispositivos com ponteiro */
+@media (hover: hover) {
+  .card:hover {
+    box-shadow: 0 4px 14px var(--c-card-hover);
+    transform: translateY(-2px);
+    border-color: var(--ifm-color-primary);
+  }
+}
+
+/* acessibilidade: foco visível */
+.card:focus-visible {
+  outline: 2px solid var(--ifm-color-primary);
+  outline-offset: 2px;
 }
