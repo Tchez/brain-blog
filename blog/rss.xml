@@ -19,8 +19,10 @@
 <!-- -->This first post is a quick tour of what you’ll find here.</p>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="why-brainblog">Why “Brain&nbsp;Blog”?<a href="https://tchez.github.io/brain-blog/blog/welcome#why-brainblog" class="hash-link" aria-label="Direct link to Why “Brain&nbsp;Blog”?" title="Direct link to Why “Brain&nbsp;Blog”?">​</a></h3>
 <blockquote>
-<p><em>“When we teach, we learn twice.”</em><br>
-<!-- -->— Translated from Paulo Freire</p>
+<p><em>“Those who teach learn while teaching, and those who learn teach while learning.”</em></p>
+</blockquote>
+<blockquote>
+<p>— Paulo Freire (Translated from Portuguese)</p>
 </blockquote>
 <p>Brain&nbsp;Blog is a public backup of my brain where I capture study notes,
 organise references and document learning journeys.</p>
@@ -35,7 +37,7 @@ plus lessons learned from real‑world projects.</p></div><div role="tabpanel" c
 turning them into a reusable base.</p><p>Notes are split into three sections:</p><ul>
 <li><strong><a href="https://tchez.github.io/brain-blog/notes/foundations/intro">Foundations</a></strong> – core explanations of fundamentals (math, algorithms, protocols…).</li>
 <li><strong><a href="https://tchez.github.io/brain-blog/notes/projects/intro">Projects</a></strong> – write‑ups of things I’m building or ideas I’m exploring.</li>
-<li><strong><a href="https://tchez.github.io/brain-blog/notes/jorneys/intro">Jorneys</a></strong> – step‑by‑step road‑maps of mastering a specific topic, linking to resources and notes.</li>
+<li><strong><a href="https://tchez.github.io/brain-blog/notes/journeys/intro">Journeys</a></strong> – step‑by‑step road‑maps of mastering a specific topic, linking to resources and notes.</li>
 </ul></div></div></div>]]></content:encoded>
             <category>meta</category>
             <category>blog</category>
