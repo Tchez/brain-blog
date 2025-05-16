@@ -1,11 +1,15 @@
 ---
-title: Notes – Home
+title: About the Notes
 sidebar_position: 0
 ---
 
-# Notes
+# About the Notes
 
-This is my public notebook — notes, summaries and references I find useful. Use the sidebar or pick a section below.
+> Work in progress :warning:
+
+This is my public notebook — where I document my projects, learning journeys and foundations I learned along the way. The notes help me organize the knowledge I acquired and document what I'm learning and my projects.
+
+Use the sidebar or choose a section below.
 
 import Link from '@docusaurus/Link';
 

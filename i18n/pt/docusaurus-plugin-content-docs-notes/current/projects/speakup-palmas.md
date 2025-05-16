@@ -1,0 +1,99 @@
+---
+title: SpeakUp Palmas
+description: Comunidade criada para facilitar a prática do inglês.
+---
+
+<br/>
+
+**SpeakUp Palmas** é uma comunidade **sem fins lucrativos** que conecta pessoas interessadas em praticar **conversação em inglês** num ambiente leve, divertido e acolhedor.
+
+Criado em **janeiro de 2025**, o projeto promove **encontros mensais presenciais em Palmas – TO** e, mais recentemente, **eventos remotos via Discord**, permitindo a participação de qualquer lugar.
+
+---
+
+## Missão
+
+A nossa missão é promover a prática do inglês em um ambiente descontraído, acolhedor e colaborativo. Queremos ajudar as pessoas a se sentirem mais confiantes ao falar inglês, independentemente do seu nível de fluência.
+
+## Objetivos
+
+- Proporcionar um ambiente amigável, acolhedor e colaborativo para a prática do inglês.
+- Conectar pessoas com interesses semelhantes e promover a troca de experiências.
+- Oferecer encontros dinâmicos e descontraídos, visando a facilitação da prática do inglês independentemente do nível de fluência.
+
+---
+
+## Como funciona?
+
+- **Encontros presenciais:** Acontecem em Palmas-TO, uma vez por mês, em espaços definidos através de votação no grupo do WhatsApp.
+- **Encontros remotos:** via Discord, com jogos, dinâmicas e conversas livres.
+- **Comunidade ativa:** Temos um grupo no WhatsApp onde os participantes podem interagir, compartilhar dicas e informações sobre o aprendizado do inglês. Agora, também temos um servidor no Discord para facilitar a comunicação e promover eventos online.
+
+---
+
+## Vídeos dos encontros
+
+Assista alguns momentos dos encontros do SpeakUp Palmas:
+
+import Tabs from "@theme/Tabs";
+import TabItem from "@theme/TabItem";
+
+<Tabs defaultValue="video4">
+  <TabItem value="video1" label="1º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/mtzZ51Rx4tg"
+      title="1º encontro do SpeakUp Palmas"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+  <TabItem value="video2" label="2º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/vCriukRXD7s"
+      title="2º encontro do SpeakUp Palmas"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+  <TabItem value="video3" label="3º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/bZaLznhUhI0"
+      title="3º encontro do SpeakUp Palmas"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+  <TabItem value="video4" label="4º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/9xKB7x6U3r8"
+      title="4º encontro do SpeakUp Palmas"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+</Tabs>
+
+Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
+
+---
+
+## Redes e contato
+
+- Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
+- Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
+- LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
+- WhatsApp – [Grupo SpeakUp Palmas](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
+
+Deseja contribuir com o projeto? Entre em contato!
