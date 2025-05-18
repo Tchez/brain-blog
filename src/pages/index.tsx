@@ -43,8 +43,8 @@ export default function Home(): ReactNode {
           </p>
 
           <div className={styles.ctaRow}>
-            <Link className="button button--primary" to="/blog/welcome">
-              {t('Welcome post', 'Post de boas-vindas')}
+            <Link className="button button--primary" to="/notes/intro">
+              {t('Get started with notes', 'Comece com as anotações')}
             </Link>
             <Link className="button button--secondary" to="/blog">
               {t('Browse the blog', 'Ver blog')}
