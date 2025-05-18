@@ -8,46 +8,57 @@ import styles from './index.module.css';
 
 export default function Home(): ReactNode {
   const { i18n } = useDocusaurusContext();
-  const t = (en: string, pt: string) => (i18n.currentLocale === 'pt' ? pt : en);
+  const t = (en: string, pt: string) =>
+    i18n.currentLocale === 'pt' ? pt : en;
 
   return (
-    <Layout description="Brain Blog — AI, notes & portfolio">
+    <Layout description="Brain Blog – AI, notes & portfolio">
       <section className={styles.hero}>
-        <div className={styles.inner}>
-          <Heading as="h1" className={styles.title}>
-            {t(
-              'Developer & AI Enthusiast',
-              'Dev Full‑Stack & Entusiasta de IA'
-            )}
+        <div className={styles.heroInner}>
+          <Heading as="h1" className={styles.heroTitle}>
+            <a
+              href="https://linkedin.com/in/tchez"
+              target="_blank"
+              rel="noopener noreferrer"
+              className={styles.heroTitleLink}
+            >
+              Marco Antônio
+            </a>
           </Heading>
-          <p className={styles.subtitle}>
+
+          <p className={styles.heroTagline}>
             {t(
-              'Writing to learn and share — welcome to my Brain Blog.',
-              'Escrevo para aprender e compartilhar — bem‑vindo ao Brain Blog.'
+              'Full-Stack Developer • AI-focused',
+              'Desenvolvedor Full-Stack • foco em IA'
+            )}
+          </p>
+
+          <p className={styles.heroIntro}>
+            {t(
+              `Brain Blog is my public “second brain” — a place to capture what I'm
+              learning and building. Expect articles, structured notes, tutorials, and build logs.`,
+              `O Brain Blog é meu “segundo cérebro” público — aqui registro o que
+              estou aprendendo e construindo. Espere artigos, anotações estruturadas, tutoriais e diários de projeto.`
             )}
           </p>
 
           <div className={styles.ctaRow}>
-            <Link
-              className="button button--primary button--lg"
-              to="/blog/welcome">
-              {t(
-                'Welcome Post',
-                'Post de Boas-Vindas'
-              )}
+            <Link className="button button--primary" to="/blog/welcome">
+              {t('Welcome post', 'Post de boas-vindas')}
             </Link>
-            <Link
-              className="button button--outline button--lg"
-              to="/blog">
-              {t('Blog Posts', 'Posts do Blog')}
+            <Link className="button button--secondary" to="/blog">
+              {t('Browse the blog', 'Ver blog')}
             </Link>
           </div>
         </div>
 
         <img
           src="https://github.com/tchez.png"
-          alt="Avatar"
+          alt={t('Author avatar', 'Avatar do autor')}
           className={styles.avatar}
+          width={220}
+          height={220}
+          loading="lazy"
         />
       </section>
     </Layout>

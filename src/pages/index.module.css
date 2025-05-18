@@ -1,68 +1,79 @@
-/* src/pages/index.module.css */
-
-/* ========== HERO ========== */
+/* ===== HERO ===== */
 .hero {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 6rem 1rem 5rem;
-  gap: 3.5rem;
   flex-wrap: wrap;
+  gap: 3rem;
+  padding: 5rem 1rem 4rem;
   background: var(--ifm-background-color);
 }
 
-.inner {
-  max-width: 480px;
-  text-align: left;
+.heroInner {
+  max-width: 520px;
+  flex: 1 1 280px;
 }
 
-.title {
-  font-size: 2.6rem;
+.heroTitle {
+  font-size: clamp(2rem, 5vw, 2.6rem);
   font-weight: 700;
-  margin-bottom: 0.8rem;
+  margin: 0 0 0.25rem;
 }
 
-.subtitle {
+.heroTagline {
   font-size: 1.15rem;
-  opacity: 0.85;
-  margin-bottom: 2.2rem;
+  opacity: 0.8;
+  margin-bottom: 1.1rem;
+}
+
+.heroIntro {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  margin-bottom: 2rem;
 }
 
 .ctaRow {
   display: flex;
   gap: 0.8rem;
+  flex-wrap: wrap;
 }
 
-/* Button hover animations */
 .ctaRow .button {
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
+
+/* efeito hover */
 .ctaRow .button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
 }
 
 .avatar {
-  width: 210px;
-  height: 210px;
+  width: 220px;
+  height: 220px;
   border-radius: 50%;
   object-fit: cover;
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
   transition: transform 0.3s ease;
 }
+
 .avatar:hover {
   transform: scale(1.05);
 }
 
-/* Small‑screen tweaks */
-@media (max-width: 720px) {
-  .title {
+/* --- Mobile tweaks --- */
+@media (max-width: 600px) {
+  .hero {
     text-align: center;
   }
-  .subtitle {
-    text-align: center;
+
+  .ctaRow {
+    flex-direction: column;
+    align-items: center;
   }
-  .inner {
-    text-align: center;
+
+  .ctaRow .button {
+    width: 100%;
+    max-width: 260px;
   }
 }
