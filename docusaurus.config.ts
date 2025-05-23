@@ -66,6 +66,26 @@ const config: Config = {
     ],
   ],
   themeConfig: {
+    image: "img/brain-blog-og.png",
+    metadata: [
+      /* ---------- SEO base ---------- */
+      {
+        name: "keywords",
+        content:
+          "ai, full-stack, blog, tutorials, speakup palmas, marco antônio, notes, portfolio",
+      },
+      /* ---------- Open Graph base ---------- */
+      /* ---------- Twitter Cards ---------- */
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:creator", content: "@_tchez" },
+      { name: "twitter:title", content: "Brain Blog – AI, Notes & Projects" },
+      {
+        name: "twitter:description",
+        content:
+          "Articles, structured notes and project logs by Marco Antônio.",
+      },
+      { name: "twitter:image", content: "/img/brain-blog-og.png" },
+    ],
     deploymentBranch: "gh-pages",
     docs: {
       sidebar: {

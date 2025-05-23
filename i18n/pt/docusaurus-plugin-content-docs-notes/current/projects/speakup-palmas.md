@@ -1,15 +1,23 @@
 ---
 title: SpeakUp Palmas
-description: Comunidade criada para facilitar a prática do inglês.
+description: Comunidade gratuita que conecta pessoas para praticar conversação em inglês,presencialmente e on-line.
+slug: speakup-palmas
+image: /img/speakup/speakup-og.png
+keywords:
+  [palmas, speakup, comunidade, inglês, conversação, speak up, speakup palmas]
 ---
 
+import Link from '@docusaurus/Link';
+
 <br/>
+
+<p align="center">
+  <img src="/brain-blog/img/speakup/speakup-round.png" alt="Logotipo SpeakUp Palmas" width="180" height="180" loading="lazy"/>
+</p>
 
 **SpeakUp Palmas** é uma comunidade **sem fins lucrativos** que conecta pessoas interessadas em praticar **conversação em inglês** num ambiente leve, divertido e acolhedor.
 
 Criado em **janeiro de 2025**, o projeto promove **encontros mensais presenciais em Palmas – TO** e, mais recentemente, **eventos remotos via Discord**, permitindo a participação de qualquer lugar.
-
----
 
 ## Missão
 
@@ -20,8 +28,6 @@ A nossa missão é promover a prática do inglês em um ambiente descontraído, 
 - Proporcionar um ambiente amigável, acolhedor e colaborativo para a prática do inglês.
 - Conectar pessoas com interesses semelhantes e promover a troca de experiências.
 - Oferecer encontros dinâmicos e descontraídos, visando a facilitação da prática do inglês independentemente do nível de fluência.
-
----
 
 ## Como funciona?
 
@@ -89,11 +95,13 @@ Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
 
 ---
 
-## Redes e contato
+## Redes & contato
 
 - Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
 - Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
 - LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
 - WhatsApp – [Grupo SpeakUp Palmas](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
-Deseja contribuir com o projeto? Entre em contato!
+<br/>
+
+<div className="alert alert--secondary" role="alert">Deseja contribuir com o projeto? Entre em contato!</div>
