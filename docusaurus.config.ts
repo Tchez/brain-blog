@@ -16,6 +16,12 @@ const config: Config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
+  markdown: {
+    mermaid: true,
+  },
+
+  themes: ["@docusaurus/theme-mermaid"],
+
   /* ── i18n ─────────────────────────────── */
   i18n: {
     defaultLocale: "en",
@@ -53,6 +59,7 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+
   plugins: [
     [
       "@docusaurus/plugin-content-docs",
@@ -65,6 +72,7 @@ const config: Config = {
       },
     ],
   ],
+
   themeConfig: {
     image: "img/logo-og.png",
     metadata: [
