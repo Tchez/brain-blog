@@ -12,7 +12,7 @@ export default function Home(): ReactNode {
 
   /* --- SEO helpers --- */
   const siteUrl = 'https://tchez.github.io/brain-blog';
-  const ogImage = `${siteUrl}/img/brain-blog-og.png`;
+  const ogImage = `${siteUrl}/img/logo-og.png`;
   const locale = i18n.currentLocale === 'pt' ? 'pt_BR' : 'en_US';
 
   return (

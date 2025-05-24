@@ -66,7 +66,7 @@ const config: Config = {
     ],
   ],
   themeConfig: {
-    image: "img/brain-blog-og.png",
+    image: "img/logo-og.png",
     metadata: [
       /* ---------- SEO base ---------- */
       {
@@ -84,7 +84,7 @@ const config: Config = {
         content:
           "Articles, structured notes and project logs by Marco Antônio.",
       },
-      { name: "twitter:image", content: "/img/brain-blog-og.png" },
+      { name: "twitter:image", content: "/img/logo-og.png" },
     ],
     deploymentBranch: "gh-pages",
     docs: {
