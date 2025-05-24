@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrain_blog=self.webpackChunkbrain_blog||[]).push([[7318],{2232:t=>{t.exports=JSON.parse('{"authors":[{"name":"Marco Ant\xf4nio Martins Porto Netto","title":"Full\u2011Stack Dev & AI\xa0Enthusiast","url":"https://github.com/tchez","imageURL":"https://github.com/tchez.png","key":"tchez","page":null,"count":1}]}')}}]);
