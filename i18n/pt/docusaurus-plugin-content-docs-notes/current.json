@@ -34,5 +34,33 @@
   "sidebar.notesSidebar.category.Learning AI.link.generated-index.title": {
     "message": "Learning AI",
     "description": "The generated-index page title for category Learning AI in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.SpeakUp Palmas": {
+    "message": "SpeakUp Palmas",
+    "description": "The label for category SpeakUp Palmas in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Remote": {
+    "message": "Remoto",
+    "description": "The label for category Remote in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Remote.link.generated-index.title": {
+    "message": "Organização do Remoto",
+    "description": "The generated-index page title for category Remote in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.Remote.link.generated-index.description": {
+    "message": "Aqui você pode encontrar informações sobre a organização dos encontros remotos.",
+    "description": "The generated-index page description for category Remote in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.In-person": {
+    "message": "Presencial",
+    "description": "The label for category In-person in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.In-person.link.generated-index.title": {
+    "message": "Organização do Presencial",
+    "description": "The generated-index page title for category In-person in sidebar notesSidebar"
+  },
+  "sidebar.notesSidebar.category.In-person.link.generated-index.description": {
+    "message": "Aqui você pode encontrar informações sobre a organização dos encontros presenciais.",
+    "description": "The generated-index page description for category In-person in sidebar notesSidebar"
   }
 }

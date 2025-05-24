@@ -1,0 +1,9 @@
+{
+  "label": "Presencial",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "Organização Presencial",
+    "description": "Aqui você vai encontrar informações sobre a organização dos encontros presenciais."
+  }
+}
