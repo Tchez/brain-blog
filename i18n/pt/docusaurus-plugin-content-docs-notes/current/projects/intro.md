@@ -25,7 +25,8 @@ import Link from '@docusaurus/Link';
     <Link to="/blog/welcome">Brain Blog</Link> – um blog e caderno de anotações público, com jornadas de aprendizado, notas de estudos e projetos.
   </li>
   <li>
-    <Link to="/notes/projects/speakup-palmas">SpeakUp Palmas</Link> – grupo voltado à prática de conversação em inglês.
+    <!-- Remover comentário do link pós correção da estrutura para o padrão do projeto novo -->
+    <!-- <Link to="/notes/projects/speakup-palmas">SpeakUp Palmas</Link> – grupo voltado à prática de conversação em inglês. -->
   </li>
 </ul>
 

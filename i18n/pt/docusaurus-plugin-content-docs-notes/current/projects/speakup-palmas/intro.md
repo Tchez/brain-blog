@@ -1,7 +1,6 @@
 ---
 title: SpeakUp Palmas
 description: Comunidade gratuita que conecta pessoas para praticar conversação em inglês,presencialmente e on-line.
-slug: speakup-palmas
 image: /img/speakup/speakup-og.png
 keywords:
   [palmas, speakup, comunidade, inglês, conversação, speak up, speakup palmas]
@@ -9,10 +8,14 @@ keywords:
 
 import Link from '@docusaurus/Link';
 
-<br/>
-
 <p align="center">
-  <img src="/brain-blog/img/speakup/speakup-round.png" alt="Logotipo SpeakUp Palmas" width="180" height="180" loading="lazy"/>
+  <img 
+    src="/brain-blog/img/speakup/speakup-round.png"
+    alt="Logotipo SpeakUp Palmas"
+    width="180"
+    height="180"
+    loading="lazy"
+  />
 </p>
 
 **SpeakUp Palmas** é uma comunidade **sem fins lucrativos** que conecta pessoas interessadas em praticar **conversação em inglês** num ambiente leve, divertido e acolhedor.
@@ -33,7 +36,7 @@ A nossa missão é promover a prática do inglês em um ambiente descontraído, 
 
 - **Encontros presenciais:** Acontecem em Palmas-TO, uma vez por mês, em espaços definidos através de votação no grupo do WhatsApp.
 - **Encontros remotos:** via Discord, com jogos, dinâmicas e conversas livres.
-- **Comunidade ativa:** Temos um grupo no WhatsApp onde os participantes podem interagir, compartilhar dicas e informações sobre o aprendizado do inglês. Agora, também temos um servidor no Discord para facilitar a comunicação e promover eventos online.
+- **Comunidade ativa:** Grupo no WhatsApp para troca de mensagens diárias e um servidor no Discord para eventos online e interação contínua.
 
 ---
 
@@ -92,6 +95,17 @@ import TabItem from "@theme/TabItem";
 </Tabs>
 
 Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
+
+---
+
+## Documentação do projeto
+
+A organização do SpeakUp Palmas é documentada em duas seções:
+
+- <Link to="/notes/category/remote">Remoto</Link>: papéis, tarefas, templates e ideias para a organização dos eventos online.
+- <Link to="/notes/category/in-person">Presencial</Link>: papéis, tarefas, templates e ideias para a organização dos eventos presenciais.
+
+Cada seção contém exemplos, sugestões e templates para ajudar na organização dos encontros e continuidade do projeto.
 
 ---
 

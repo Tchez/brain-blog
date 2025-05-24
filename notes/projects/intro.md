@@ -25,7 +25,7 @@ import Link from '@docusaurus/Link';
     <Link to="/blog/welcome">Brain Blog</Link> – a public brain-dump with learning journeys, study notes and project logs.
   </li>
   <li>
-    <Link to="/notes/projects/speakup-palmas">SpeakUp Palmas</Link> – a local community for English conversation practice.
+    <Link to="/notes/projects/speakup-palmas/intro">SpeakUp Palmas</Link> – a local community for English conversation practice.
   </li>
 </ul>
 

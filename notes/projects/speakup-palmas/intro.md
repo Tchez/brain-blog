@@ -1,7 +1,6 @@
 ---
-title: SpeakUp Palmas
-description: A free community that connects people to practise English conversation, in-person and online.
-slug: speakup-palmas
+title: About SpeakUp Palmas
+description: A free community that connects people to practice English conversation, in-person and online.
 image: /img/speakup/speakup-og.png
 keywords:
   [palmas, speakup, community, english, conversation, speak up, speakup palmas]
@@ -19,7 +18,7 @@ import Link from '@docusaurus/Link';
   />
 </p>
 
-**SpeakUp Palmas** is a **non-profit** community that brings together people who want to **practise spoken English** in a friendly, fun and welcoming environment.
+**SpeakUp Palmas** is a **non-profit** community that brings together people who want to **practice spoken English** in a friendly, fun and welcoming environment.
 
 Founded in **January 2025**, the project runs **monthly in-person meet-ups in Palmas – TO** and, more recently, **online events on Discord**, so anyone can join from anywhere.
 
@@ -32,15 +31,13 @@ multicultural networking.
 
 - Provide an **inclusive, welcoming space** for all fluency levels
 - Connect people with similar interests and encourage knowledge exchange
-- Host **dynamic sessions** (games, debates, role-plays) that make practice
-  enjoyable for every participant
+- Host **dynamic sessions** (games, debates, role-plays) that make practice enjoyable for every participant
 
 ## How it works
 
 - **In-person meet-ups:** once a month in Palmas-TO (venue chosen by WhatsApp poll)
 - **Online meet-ups:** twice a month on Discord, with games, ice-breakers and open chat
-- **Active community:** WhatsApp group for daily exchange and a Discord server
-  for online events and continuous interaction
+- **Active community:** WhatsApp group for daily exchange and a Discord server for online events and continuous interaction
 
 ---
 
@@ -91,6 +88,17 @@ import TabItem from "@theme/TabItem";
 </Tabs>
 
 More videos on our <Link to="https://www.youtube.com/@SpeakUpPalmas">YouTube channel</Link>.
+
+---
+
+## Project documentation
+
+The organization of SpeakUp Palmas is documented in two sections:
+
+- <Link to="/notes/category/remote">Remote</Link>: roles, tasks, templates, and ideas for the online events organization.
+- <Link to="/notes/category/in-person">In-person</Link>: roles, tasks, templates, and ideas for the in-person events organization.
+
+Each section brings examples, suggestions, and templates to facilitate collaboration and project continuity.
 
 ---
 

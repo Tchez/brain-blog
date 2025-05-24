@@ -1,0 +1,9 @@
+{
+  "label": "Remote",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "title": "Remote Organization",
+    "description": "Here you can find information about the organization of the remote meetings."
+  }
+}

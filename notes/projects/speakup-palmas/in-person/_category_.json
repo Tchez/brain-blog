@@ -1,0 +1,9 @@
+{
+  "label": "In-person",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "title": "In-person Organization",
+    "description": "Here you can find information about the organization of the in-person meetings."
+  }
+}
