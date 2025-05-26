@@ -74,7 +74,7 @@ export default function Home(): ReactNode {
 
           <p className={styles.heroTagline}>
             {t('Full-Stack Developer • AI-focused',
-              'Desenvolvedor Full-Stack • foco em IA')}
+              'Desenvolvedor Full-Stack • focado em IA')}
           </p>
 
           <p className={styles.heroIntro}>
@@ -89,23 +89,71 @@ export default function Home(): ReactNode {
           </p>
 
           <div className={styles.ctaRow}>
-            <Link className="button button--primary" to="/notes/intro">
-              {t('Explore the notes', 'Ver anotações')}
+            <Link className="button button--primary" to="/blog/welcome">
+              {t('About Brain Blog', 'Sobre o Brain Blog')}
             </Link>
-            <Link className="button button--secondary" to="/blog">
-              {t('Browse the blog', 'Ver blog')}
+            {/* TODO: Criar about me */}
+            <Link className="button button--secondary" to="https://www.linkedin.com/in/tchez/">
+              {t('About me', 'Sobre mim')}
             </Link>
           </div>
         </div>
 
-        <img
-          src="https://github.com/tchez.png"
-          alt={t('Author avatar', 'Avatar do autor')}
-          className={styles.avatar}
-          width={220}
-          height={220}
-          loading="lazy"
-        />
+        <Link
+          className={styles.heroLogoLink}
+          to="https://www.linkedin.com/in/tchez/"
+          target="_blank">
+          <img
+            src="https://github.com/tchez.png"
+            alt={t('Author avatar', 'Avatar do autor')}
+            className={styles.avatar}
+            width={220}
+            height={220}
+            loading="lazy"
+          />
+        </Link>
+      </section>
+
+      <hr className={styles.sectionDivider} />
+
+      {/* ---------- FEATURED PROJECTS ---------- */}
+      <section className={styles.projectSection}>
+        <h2 className={styles.projectSectionTitle}
+        >{t('Featured Projects', 'Projetos de Destaque')}</h2>
+        <div className={styles.projectGrid}>
+          <div className={styles.projectCard}>
+            <h3 className={styles.projectCardTitle}>{t('SpeakUp Palmas', 'SpeakUp Palmas')}</h3>
+            <p className={styles.projectCardDescription}>
+              {t('A free community that connects people to practice English conversation, online or in person.',
+                'Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.')}
+            </p>
+            <Link className="button button--primary" to="/notes/projects/speakup-palmas/intro">
+              {t('Learn more', 'Saiba mais')}
+            </Link>
+          </div>
+          <div className={styles.projectCard}>
+            <h3 className={styles.projectCardTitle}>{t('Brain Blog', 'Brain Blog')}</h3>
+            <p className={styles.projectCardDescription}>
+              {t('My personal blog where I share articles, tutorials, structured notes, and project logs.',
+                'Meu blog pessoal, onde compartilho artigos, tutoriais, notas estruturadas e diários de projeto.')}
+            </p>
+            <Link className="button button--primary" to="/blog">
+              {t('Learn more', 'Saiba mais')}
+            </Link>
+          </div>
+          <div className={styles.projectCard}>
+            <h3 className={styles.projectCardTitle}>{t('AI Learning Journey', 'Jornada de Aprendizado em IA')}</h3>
+            <p className={styles.projectCardDescription}>
+              {t(
+                'Follow my journey learning and building AI projects. With roadmaps, structured notes, and tutorials.',
+                'Acompanhe minha jornada aprendendo e construindo projetos de IA. Com roadmaps, notas estruturadas e tutoriais.',
+              )}
+            </p>
+            <Link className="button button--primary" to="/notes/journeys/learning-ai/intro">
+              {t('Learn more', 'Saiba mais')}
+            </Link>
+          </div>
+        </div>
       </section>
     </Layout>
   );

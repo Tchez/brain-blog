@@ -61,6 +61,73 @@
   transform: scale(1.05);
 }
 
+/* ===== PROJECT CARDS ===== */
+.projectCard {
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.projectCard:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.projectCardTitle {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.projectCardDescription {
+  font-size: 1rem;
+  color: var(--ifm-color-content-secondary);
+}
+
+/* ===== PROJECT SECTION ===== */
+.projectSection {
+  padding: 1rem;
+  background: var(--ifm-background-alt);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.projectSectionTitle {
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.projectGrid {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.projectCard {
+  flex: 1 1 calc(33.333% - 1.5rem);
+  max-width: calc(33.333% - 1.5rem);
+  box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+  .projectGrid {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .projectCard {
+    width: 100%;
+    max-width: 100%;
+    padding: 1rem;
+  }
+}
+
 /* --- Mobile tweaks --- */
 @media (max-width: 600px) {
   .hero {
@@ -76,4 +143,11 @@
     width: 100%;
     max-width: 260px;
   }
+}
+
+.sectionDivider {
+  border: 0;
+  height: 1px;
+  background: var(--ifm-color-emphasis-300);
+  margin: 2rem 0;
 }
