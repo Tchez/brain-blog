@@ -12,24 +12,33 @@ Documentar meus projetos e ideias futuras, relacionados ou não à tecnologia. O
 
 ## Como está organizado
 
-- **Em andamento:** projetos com log frequente de progresso
-- **Concluídos:** finalizados, com retrospectiva
-- **Ideias:** rabiscos e provas de conceito
+- **[Em andamento](#ongoing)** projetos em andamento, com documentação e atualizações regulares
+- **[Concluídos](#completed)** projetos finalizados, com retrospectiva e lições aprendidas
+- **[Ideias](#ideas)** espaço para sugestões, rabiscos e provas de conceito
 
-## Projetos em andamento
+## Projetos em andamento {#ongoing}
 
 import Link from '@docusaurus/Link';
 
-<ul>
-  <li>
-    <Link to="/blog/welcome">Brain Blog</Link> – um blog e caderno de anotações público, com jornadas de aprendizado, notas de estudos e projetos.
-  </li>
-  <li>
-    <!-- Remover comentário do link pós correção da estrutura para o padrão do projeto novo -->
-    <!-- <Link to="/notes/projects/speakup-palmas">SpeakUp Palmas</Link> – grupo voltado à prática de conversação em inglês. -->
-  </li>
-</ul>
+<div className="cardsGrid">
+  <Link className="card" to="/blog/welcome">
+    <h3>Brain Blog</h3>
+    <p>Um blog e caderno de anotações público, com jornadas de aprendizado, notas de estudos e documentação de projetos.</p>
+  </Link>
+  <Link className="card" to="/notes/projects/speakup-palmas/intro">
+    <h3>SpeakUp Palmas</h3>
+    <p>Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.</p>
+  </Link>
+</div>
 
-## Como contribuir
+## Projetos concluídos {#completed}
 
-Abra issues com sugestões ou envie pull-request se quiser melhorar algo.
+<div class="alert alert--info"><strong>Em breve!</strong> Em breve, irei documentar projetos que já finalizei.</div>
+
+<!-- TODO: Criar documentação para projetos concluídos -->
+
+## Ideias {#ideas}
+
+<div class="alert alert--info"><strong>Em breve!</strong> Em breve, irei documentar ideias e sugestões para projetos futuros.</div>
+
+<!-- TODO: Criar documentação para ideias e sugestões -->

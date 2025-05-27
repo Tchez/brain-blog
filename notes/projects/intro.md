@@ -8,27 +8,33 @@ sidebar_position: 0
 
 ## Purpose
 
-Capture the details of my personal projects — how they work, lessons learned, challenges, solutions and inevitable mistakes.
+This section documents my projects, both ongoing and completed, as well as ideas for future endeavors. It serves as a portfolio of my work and a space to share insights and learning experiences.
 
 ## How it is organized
 
-- **Ongoing:** projects with frequent progress logs
-- **Completed:** finished projects with retrospectives
-- **Ideas:** sketches and proof-of-concepts
+- **[Ongoing projects](#ongoing)** ongoing projects with documentation and regular updates
+- **[Completed projects](#completed)** completed projects with retrospectives and lessons learned
+- **[Ideas](#ideas)** space for suggestions, sketches, and proofs of concept
 
-## Ongoing projects
+## Ongoing projects {#ongoing}
 
 import Link from '@docusaurus/Link';
 
-<ul>
-  <li>
-    <Link to="/blog/welcome">Brain Blog</Link> – a public brain-dump with learning journeys, study notes and project logs.
-  </li>
-  <li>
-    <Link to="/notes/projects/speakup-palmas/intro">SpeakUp Palmas</Link> – a local community for English conversation practice.
-  </li>
-</ul>
+<div className="cardsGrid">
+  <Link className="card" to="/blog/welcome">
+    <h3>Brain Blog</h3>
+    <p>A public blog and notebook with learning journeys, study notes, and project documentation.</p>
+  </Link>
+  <Link className="card" to="/notes/projects/speakup-palmas/intro">
+    <h3>SpeakUp Palmas</h3>
+    <p>A free community connecting people to practice English conversation, online or in-person.</p>
+  </Link>
+</div>
 
-## How to contribute
+## Completed projects {#completed}
 
-Open an issue with suggestions or send a pull request if you’d like to improve something.
+<div class="alert alert--info"><strong>Coming soon!</strong> I will document completed projects in the future.</div>
+
+## Ideas {#ideas}
+
+<div class="alert alert--info"><strong>Coming soon!</strong> I will document ideas and suggestions for future projects.</div>

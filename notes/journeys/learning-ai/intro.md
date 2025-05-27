@@ -8,12 +8,13 @@ import Link from '@docusaurus/Link';
 
 # Learning AI
 
-> **Status:** in progress (last update: 15 May 2025)
+<!-- > **Status:** in progress (last update: 15 May 2025) -->
 
+<br/>
 Welcome to my ongoing **Artificial Intelligence** journey!  
 Here you can track **what** I study, **why** I study it, and **how** I put it into practice.
 
-## Journey structure
+<!-- ## Journey structure
 
 - **Road-map:** high-level stages with progress links (`roadmap.md`)
 - **References:** books, courses and papers in dedicated sub-folders
@@ -54,10 +55,12 @@ Here you can track **what** I study, **why** I study it, and **how** I put it in
 </Link>
 
 </div>
--->
 
 ---
 
 <div className="alert alert--secondary" role="alert">
 Have suggestions or corrections? Open an issue or send a pull request.
 </div>
+-->
+
+<div className="alert alert--secondary" role="alert">Journey not documented yet. Process in progress...</div>

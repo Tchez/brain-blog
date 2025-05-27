@@ -8,11 +8,13 @@ import Link from '@docusaurus/Link';
 
 # Learning AI
 
-> **Status:** em andamento (última atualização: 15/05/2025)
+<!-- > **Status:** em andamento (última atualização: 15/05/2025) -->
+
+<br/>
 
 Bem-vindo à minha jornada contínua de aprendizado em **Inteligência Artificial**! Aqui você acompanha **o que**, **por que** e **como** estou estudando IA.
 
-## Estrutura da jornada
+<!-- ## Estrutura da jornada
 
 - **Road-map** geral: etapas + links de progresso (`roadmap.md`)
 - **Referências** (livros, cursos, papers) em sub-pastas dedicadas
@@ -31,7 +33,7 @@ Bem-vindo à minha jornada contínua de aprendizado em **Inteligência Artificia
 
 ## Material já vinculado
 
-> **Nota:** Ainda não há material vinculado nesta jornada. Abaixo estão alguns exemplos de como o conteúdo será organizado.
+> **Nota:** Ainda não há material vinculado nesta jornada. Abaixo estão alguns exemplos de como o conteúdo será organizado. -->
 
 <!--
 <div className="cardsGrid">
@@ -56,4 +58,5 @@ Bem-vindo à minha jornada contínua de aprendizado em **Inteligência Artificia
 
 ---
 
-<div className="alert alert--secondary" role="alert">Sugestões de leitura ou correções? Abra uma issue ou envie um pull-request.</div>
+<!-- <div className="alert alert--secondary" role="alert">Sugestões de leitura ou correções? Abra uma issue ou envie um pull-request.</div> -->
+<div className="alert alert--secondary" role="alert">Jornada ainda não documentada. Processo em andamento...</div>
