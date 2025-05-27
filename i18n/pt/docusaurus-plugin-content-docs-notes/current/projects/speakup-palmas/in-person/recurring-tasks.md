@@ -144,11 +144,11 @@ Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
 <!------------------------- Semana 2 ------------------------->
 <TabItem value="w2" label="Semana 2">
 
+<br/>
+
 ### Confirmação & marketing
 
 _Objetivo: definir dinâmica/recursos e divulgar oficialmente._
-
-<br/>
 
 <details id="w2-t1">
 <summary><strong>Formalizar cronograma e dinâmicas + checklist de materiais · #2.1</strong></summary>
@@ -215,6 +215,12 @@ Sempre definir pelo menos 2 ADMs pra chegar mais cedo e garantir que tudo esteja
 
 <!------------------------- Semana 3 ------------------------->
 <TabItem value="w3" label="Semana 3">
+
+<br/>
+
+### Semana do encontro
+
+_Objetivo: divulgar com contagem regressiva e garantir avisos e registros durante o evento._
 
 <details id="w3-t1">
 <summary><strong>Postar Story com contagem regressiva · #3.1</strong></summary>
@@ -291,6 +297,12 @@ Postar um Story com a foto do grupo após o encontro, para agradecer a presença
 
 <!------------------------- Semana 4 ------------------------->
 <TabItem value="w4" label="Semana 4">
+
+<br/>
+
+### Pós-evento & feedback
+
+_Objetivo: organizar o drive, coletar feedbacks e analisar insights._
 
 <details id="w4-t1">
 <summary><strong>Organizar o drive + planilha de feedbacks · #4.1</strong></summary>

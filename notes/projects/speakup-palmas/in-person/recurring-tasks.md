@@ -41,6 +41,7 @@ To make organization easier, we’ve divided activities into four weeks, each wi
 <TabItem value="w1" label="Week 1">
 <div>
 <br/>
+
 ### Definition & organization
 
 _**Goal:** define the date and location of the event + initial community engagement._
@@ -144,11 +145,11 @@ Depends on task <strong>#3.3</strong> (initial announcements during the event).
 <!------------------------- Week 2 ------------------------->
 <TabItem value="w2" label="Week 2">
 
+<br/>
+
 ### Confirmation & marketing
 
 _Goal: define activities/resources and announce officially._
-
-<br/>
 
 <details id="w2-t1">
 <summary><strong>Formalize schedule and activities + material checklist · #2.1</strong></summary>
@@ -215,6 +216,12 @@ Always assign at least 2 admins to arrive early and make sure everything is read
 
 <!------------------------- Week 3 ------------------------->
 <TabItem value="w3" label="Week 3">
+
+<br/>
+
+### Event week
+
+_Goal: ensure everything is ready for the event and engage the community with countdown posts._
 
 <details id="w3-t1">
 <summary><strong>Post countdown Stories · #3.1</strong></summary>
@@ -291,6 +298,12 @@ Post a group photo Story after the event to thank attendees and engage the commu
 
 <!------------------------- Week 4 ------------------------->
 <TabItem value="w4" label="Week 4">
+
+<br/>
+
+### Post-event & feedback
+
+_Goal: organize drive, share photos, analyze feedback, and keep the community engaged._
 
 <details id="w4-t1">
 <summary><strong>Organize drive + feedback spreadsheet · #4.1</strong></summary>
