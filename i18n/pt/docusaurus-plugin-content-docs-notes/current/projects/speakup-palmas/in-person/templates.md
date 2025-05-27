@@ -11,128 +11,126 @@ image: /img/speakup/speakup-og.png
 
 ---
 
-## Insta | Story salve a data {#insta-story-save-the-date}
+## Insta - Story | Salve a data! {#insta-story-save-the-date}
 
 ...
 
 ---
 
-## Whatsapp | Mensagem salve a data {#wpp-msg-save-the-date}
+## Insta - Story | Anúncio de enquete {#insta-story-poll-announce}
 
 ...
 
 ---
 
-## Insta | Story anúncio de enquete {#insta-story-poll-announce}
+## Insta - Story | Caixinha de perguntas / sugestões {#insta-story-question-box-suggestions}
 
 ...
 
 ---
 
-## Whatsapp | Mensagem enquete sobre o local {#wpp-msg-poll-local}
+## Insta - Story | Trend adesivo "Sua Vez" {#insta-story-add-yours}
 
 ...
 
 ---
 
-## Insta | Story sugestões na caixinha de perguntas {#insta-story-question-box-suggestions}
+## Insta - Story | Confirmação de encontro {#insta-story-meeting-confirmation}
 
 ...
 
 ---
 
-## wpp-msg-suggestions {#wpp-msg-suggestions}
+## Insta - Story | TBT último encontro {#insta-story-tbt}
 
 ...
 
 ---
 
-## insta-story-add-yours {#insta-story-add-yours}
+## Insta - Story | Contagem regressiva para o encontro {#insta-story-countdown}
 
 ...
 
 ---
 
-## insta-post-meeting-confirmation {#insta-post-meeting-confirmation}
+## Insta - Story | Aviso {#insta-story-notice}
 
 ...
 
 ---
 
-## insta-story-meeting-confirmation {#insta-story-meeting-confirmation}
+## Insta - Post | Confirmação do encontro {#insta-post-meeting-confirmation}
 
 ...
 
 ---
 
-## linkedin-post-meeting-confirmation {#linkedin-post-meeting-confirmation}
+## Insta - Mensagem | Descrição para reels do encontro {#insta-msg-video-description}
 
 ...
 
 ---
 
-## wpp-msg-meeting-confirmation {#wpp-msg-meeting-confirmation}
+## WhatsApp - Mensagem | Salve a data! {#wpp-msg-save-the-date}
 
 ...
 
 ---
 
-## insta-story-tbt {#insta-story-tbt}
+## WhatsApp - Mensagem | Enquete no grupo {#wpp-msg-poll-local}
 
 ...
 
 ---
 
-## insta-story-countdown {#insta-story-countdown}
+## WhatsApp - Mensagem | Sugestões de local {#wpp-msg-suggestions}
 
 ...
 
 ---
 
-## wpp-msg-photos-drive {#wpp-msg-photos-drive}
+## WhatsApp - Mensagem | Confirmação do encontro {#wpp-msg-meeting-confirmation}
 
 ...
 
 ---
 
-## wpp-msg-feedback-form {#wpp-msg-feedback-form}
+## WhatsApp - Mensagem | Fotos do encontro {#wpp-msg-photos-drive}
 
 ...
 
 ---
 
-## insta-message-video-description {#insta-message-video-description}
+## WhatsApp - Mensagem | Formulário de feedback {#wpp-msg-feedback-form}
 
 ...
 
 ---
 
-## linkedin-message-video-description {#linkedin-message-video-description}
+## WhatsApp - Mensagem | Definição de nova data {#wpp-msg-new-date}
 
 ...
 
 ---
 
-## youtube-message-video-description {#youtube-message-video-description}
+## LinkedIn - Mensagem | Confirmação do encontro {#linkedin-msg-meeting-confirmation}
 
 ...
 
 ---
 
-## tiktok-message-video-description {#tiktok-message-video-description}
+## LinkedIn - Mensagem | Descrição para vídeos do encontro {#linkedin-msg-video-description}
 
 ...
 
 ---
 
-## insta-story-notice {#insta-story-notice}
+## YouTube - Mensagem | Descrição para vídeos do encontro {#youtube-msg-video-description}
 
 ...
 
 ---
 
-## wpp-msg-new-date {#wpp-msg-new-date}
+## TikTok - Mensagem | Descrição para vídeos do encontro {#tiktok-msg-video-description}
 
 ...
-
----

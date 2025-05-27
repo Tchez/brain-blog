@@ -180,7 +180,7 @@ Depends on task <strong>#1.2</strong> (location and time already defined).
 
 - <Link to="./templates#insta-post-meeting-confirmation">Post | Event Confirmation</Link>
 - <Link to="./templates#insta-story-meeting-confirmation">Story | Event Confirmation</Link>
-- <Link to="./templates#linkedin-post-meeting-confirmation">LinkedIn | Event Confirmation</Link>
+- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn | Event Confirmation</Link>
 - <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp | Event Confirmation</Link>
 
 </details>
@@ -344,10 +344,10 @@ Do this for all platforms: [Instagram](https://instagram.com/speakup_palmas), [L
 
 **Templates used:**
 
-- <Link to="./templates#insta-message-video-description">Instagram | Video Caption</Link>
-- <Link to="./templates#linkedin-message-video-description">LinkedIn | Video Caption</Link>
-- <Link to="./templates#youtube-message-video-description">YouTube | Video Caption</Link>
-- <Link to="./templates#tiktok-message-video-description">TikTok | Video Caption</Link>
+- <Link to="./templates#insta-msg-video-description">Instagram | Video Caption</Link>
+- <Link to="./templates#linkedin-msg-video-description">LinkedIn | Video Caption</Link>
+- <Link to="./templates#youtube-msg-video-description">YouTube | Video Caption</Link>
+- <Link to="./templates#tiktok-msg-video-description">TikTok | Video Caption</Link>
 
 </details>
 

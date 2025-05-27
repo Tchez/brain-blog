@@ -179,7 +179,7 @@ Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro j
 
 - <Link to="./templates#insta-post-meeting-confirmation">Post | Confirmação do Encontro</Link>
 - <Link to="./templates#insta-story-meeting-confirmation">Story | Confirmação do Encontro</Link>
-- <Link to="./templates#linkedin-post-meeting-confirmation">LinkedIn | Confirmação do Encontro</Link>
+- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn | Confirmação do Encontro</Link>
 - <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp | Confirmação do Encontro</Link>
 
 </details>
@@ -341,10 +341,10 @@ Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_pal
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-message-video-description">Instagram | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#linkedin-message-video-description">LinkedIn | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#youtube-message-video-description">YouTube | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#tiktok-message-video-description">TikTok | Texto para a publicação do vídeo</Link>
+- <Link to="./templates#insta-msg-video-description">Instagram | Texto para a publicação do vídeo</Link>
+- <Link to="./templates#linkedin-msg-video-description">LinkedIn | Texto para a publicação do vídeo</Link>
+- <Link to="./templates#youtube-msg-video-description">YouTube | Texto para a publicação do vídeo</Link>
+- <Link to="./templates#tiktok-msg-video-description">TikTok | Texto para a publicação do vídeo</Link>
 
 </details>
 

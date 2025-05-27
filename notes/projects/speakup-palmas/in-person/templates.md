@@ -1,144 +1,136 @@
 ---
 title: "Templates"
-description: "Standardized messages, posts, and communication templates."
+description: "Standardized templates for messages, posts, and communications."
 sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 
-# Templates (In-person)
+# Templates (In-Person)
 
-> Working in progress
+> Work in progress
 
 ---
 
-## Story Save The Date {#insta-story-save-the-date}
+## Insta - Story | Save the Date! {#insta-story-save-the-date}
 
 ...
 
 ---
 
-## insta-story-save-the-date {#insta-story-save-the-date}
+## Insta - Story | Poll Announcement {#insta-story-poll-announce}
 
 ...
 
 ---
 
-## wpp-msg-save-the-date {#wpp-msg-save-the-date}
+## Insta - Story | Question Box / Suggestions {#insta-story-question-box-suggestions}
 
 ...
 
 ---
 
-## insta-story-poll-announce {#insta-story-poll-announce}
+## Insta - Story | "Add Yours" Sticker Trend {#insta-story-add-yours}
 
 ...
 
 ---
 
-## wpp-msg-poll-local {#wpp-msg-poll-local}
+## Insta - Story | Meeting Confirmation {#insta-story-meeting-confirmation}
 
 ...
 
 ---
 
-## insta-story-question-box-suggestions {#insta-story-question-box-suggestions}
+## Insta - Story | TBT Last Meeting {#insta-story-tbt}
 
 ...
 
 ---
 
-## wpp-msg-suggestions {#wpp-msg-suggestions}
+## Insta - Story | Countdown to Meeting {#insta-story-countdown}
 
 ...
 
 ---
 
-## insta-story-add-yours {#insta-story-add-yours}
+## Insta - Story | Notice {#insta-story-notice}
 
 ...
 
 ---
 
-## insta-post-meeting-confirmation {#insta-post-meeting-confirmation}
+## Insta - Post | Meeting Confirmation {#insta-post-meeting-confirmation}
 
 ...
 
 ---
 
-## insta-story-meeting-confirmation {#insta-story-meeting-confirmation}
+## Insta - Message | Description for Meeting Reels {#insta-msg-video-description}
 
 ...
 
 ---
 
-## linkedin-post-meeting-confirmation {#linkedin-post-meeting-confirmation}
+## WhatsApp - Message | Save the Date! {#wpp-msg-save-the-date}
 
 ...
 
 ---
 
-## wpp-msg-meeting-confirmation {#wpp-msg-meeting-confirmation}
+## WhatsApp - Message | Group Poll {#wpp-msg-poll-local}
 
 ...
 
 ---
 
-## insta-story-tbt {#insta-story-tbt}
+## WhatsApp - Message | Location Suggestions {#wpp-msg-suggestions}
 
 ...
 
 ---
 
-## insta-story-countdown {#insta-story-countdown}
+## WhatsApp - Message | Meeting Confirmation {#wpp-msg-meeting-confirmation}
 
 ...
 
 ---
 
-## wpp-msg-photos-drive {#wpp-msg-photos-drive}
+## WhatsApp - Message | Meeting Photos {#wpp-msg-photos-drive}
 
 ...
 
 ---
 
-## wpp-msg-feedback-form {#wpp-msg-feedback-form}
+## WhatsApp - Message | Feedback Form {#wpp-msg-feedback-form}
 
 ...
 
 ---
 
-## insta-message-video-description {#insta-message-video-description}
+## WhatsApp - Message | New Date Definition {#wpp-msg-new-date}
 
 ...
 
 ---
 
-## linkedin-message-video-description {#linkedin-message-video-description}
+## LinkedIn - Message | Meeting Confirmation {#linkedin-msg-meeting-confirmation}
 
 ...
 
 ---
 
-## youtube-message-video-description {#youtube-message-video-description}
+## LinkedIn - Message | Description for Meeting Videos {#linkedin-msg-video-description}
 
 ...
 
 ---
 
-## tiktok-message-video-description {#tiktok-message-video-description}
+## YouTube - Message | Description for Meeting Videos {#youtube-msg-video-description}
 
 ...
 
 ---
 
-## insta-story-notice {#insta-story-notice}
+## TikTok - Message | Description for Meeting Videos {#tiktok-msg-video-description}
 
 ...
-
----
-
-## wpp-msg-new-date {#wpp-msg-new-date}
-
-...
-
----
