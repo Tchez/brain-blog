@@ -5,13 +5,13 @@ sidebar_position: 1
 image: /img/speakup/speakup-og.png
 ---
 
-# Tarefas recorrentes (Presencial)
+# Tarefas recorrentes
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 import Link from '@docusaurus/Link';
 
-> Última revisão — **15 mai 2025**
+> Última revisão — **28 mai 2025**
 
 <br/>
 
@@ -320,7 +320,7 @@ _Objetivo: organizar o drive, coletar feedbacks e analisar insights._
 Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
 
 ```
-📂 X° Encontro
+📂 X° Meetup
    ├── 📂 Videos
    │   ├── 📂 Raw      -> vídeos brutos gravados pelos ADMs
    │   └── 📂 Edited   -> vídeos editados

@@ -5,6 +5,6 @@ sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 
-# Templates (Remote)
+# Templates
 
 ...

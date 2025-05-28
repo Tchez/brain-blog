@@ -5,6 +5,6 @@ sidebar_position: 1
 image: /img/speakup/speakup-og.png
 ---
 
-# Tarefas recorrentes (Remoto)
+# Tarefas recorrentes
 
 ...

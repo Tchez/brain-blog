@@ -5,6 +5,6 @@ sidebar_position: 0
 image: /img/speakup/speakup-og.png
 ---
 
-# Cargos e responsabilidades (Remoto)
+# Cargos e responsabilidades
 
 ...
