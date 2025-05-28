@@ -26,7 +26,7 @@ Para facilitar a organização, dividimos as atividades em quatro semanas, cada 
 | Semana | Foco                    | Resumo das atividades                                                                 |
 | -----: | ----------------------- | ------------------------------------------------------------------------------------- |
 |  **1** | Definição & organização | Definição e validação da data e local do próximo encontro · Engajamento da comunidade |
-|  **2** | Confirmação & marketing | Divulgação oficial do encontro · Formalização das dinâmicas e atividades planejadas   |
+|  **2** | Confirmação & marketing | Divulgação do local e horário definidos · Formalização das dinâmicas e atividades     |
 |  **3** | Semana do encontro      | Divulgações com contagem regressiva · Garantir avisos e registros durante o evento    |
 |  **4** | Pós-evento & feedback   | Organização do drive · Compartilhamento de fotos · Análise de feedbacks e insights    |
 
@@ -58,8 +58,8 @@ Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-save-the-date">Story | Salve a Data</Link>
-- <Link to="./templates#wpp-msg-save-the-date">WhatsApp | Salve a Data</Link>
+- <Link to="./templates#insta-story-save-the-date">Insta - Story | Salve a data!</Link>
+- <Link to="./templates#wpp-msg-save-the-date">WhatsApp - Mensagem | Salve a data!</Link>
 
 </details>
 
@@ -94,8 +94,8 @@ Criar Story de aviso no Instagram, informando que haverá uma votação no Whats
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-poll-announce">Story | Aviso de Enquete</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp | Enquete para definir local</Link>
+- <Link to="./templates#insta-story-poll-announce">Insta - Story | Anúncio de enquete</Link>
+- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
 
 </details>
 
@@ -106,8 +106,8 @@ Criar uma caixinha de sugestões no Instagram e WhatsApp para que a comunidade p
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Story | Sugestões de Local</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp | Sugestões de Local</Link>
+- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
 
 </details>
 
@@ -123,6 +123,8 @@ Anotar as boas ideias no drive.
 </div>
 <br/>
 
+<!-- TODO: Padronizar drive (como deve ser anotadas as ideias e feedbacks, tanto para atividade quanto local) -->
+
 </details>
 
 <details id="w1-t4">
@@ -135,7 +137,7 @@ Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-add-yours">Story | Sua vez</Link>
+- <Link to="./templates#insta-story-add-yours">Insta - Story | Trend adesivo "Sua Vez"</Link>
 
 </details>
 
@@ -149,7 +151,7 @@ Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
 
 ### Confirmação & marketing
 
-_Objetivo: definir dinâmica/recursos e divulgar oficialmente._
+_Objetivo: definir local/horário/dinâmica/recursos e divulgar oficialmente._
 
 <details id="w2-t1">
 <summary><strong>Formalizar cronograma e dinâmicas + checklist de materiais · #2.1</strong></summary>
@@ -162,6 +164,13 @@ Anotar tudo no drive e estar preparado para diferentes quantidades de participan
 <br/>
 
 Pra preparação de algumas dinâmicas pode ser preciso a opinião ou ajuda dos integrantes do grupo. Para esses casos, é recomendado fazer uma enquete no WhatsApp, caixinha de sugestões no Instagram ou até um formulário no Google Forms.
+
+**Templates úteis:**
+
+- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
+- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
+- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
 
 </details>
 
@@ -177,10 +186,10 @@ Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro j
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-post-meeting-confirmation">Post | Confirmação do Encontro</Link>
-- <Link to="./templates#insta-story-meeting-confirmation">Story | Confirmação do Encontro</Link>
-- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn | Confirmação do Encontro</Link>
-- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp | Confirmação do Encontro</Link>
+- <Link to="./templates#insta-post-meeting-confirmation">Insta - Post | Confirmação do encontro</Link>
+- <Link to="./templates#insta-story-meeting-confirmation">Insta - Story | Confirmação de encontro</Link>
+- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn - Mensagem | Confirmação do encontro</Link>
+- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp - Mensagem | Confirmação do encontro</Link>
 
 </details>
 
@@ -196,7 +205,7 @@ Depende da tarefa <strong>#4.2</strong> (video editado do último encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-tbt">Story | TBT do Último Encontro</Link>
+- <Link to="./templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
 
 </details>
 
@@ -252,7 +261,7 @@ Postar um Story com contagem regressiva no dia do encontro.
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-countdown">Story | Contagem Regressiva</Link>
+- <Link to="./templates#insta-story-countdown">Insta - Story | Contagem regressiva para o encontro</Link>
 
 </details>
 
@@ -268,7 +277,7 @@ Não esquecer de fazer a foto com todos os participantes no final do encontro.
 <br/>
 
 <div className="alert alert--info" role="alert">
-Lembrar de gravar o trecho inicial do vídeo, com o 'Está acontecendo nosso x° encontro do SpeakUp, vem conferir com a gente o que está acontecendo por aqui!'
+Lembrar de gravar o trecho inicial do vídeo, com o 'Está acontecendo nosso x° encontro do SpeakUp, vem conferir com a gente o que está acontecendo por aqui!'. [Exemplo de formato de vídeo](https://www.youtube.com/shorts/9xKB7x6U3r8).
 </div>
 <br/>
 
@@ -321,12 +330,15 @@ Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
       └── Respostas do formulário  -> respostas do formulário de feedback
 ```
 
+<!-- TODO: Deixar modelo de planilha público -->
+<!-- TODO: Organizar drive atual para essa estrutura -->
+
 Após criada a estrutura, compartilhar o link da pasta de fotos e da planilha de feedbacks com os participantes do encontro, para que possam enviar suas fotos e preencher o formulário.
 
 **Templates utilizados:**
 
-- <Link to="./templates#wpp-msg-photos-drive">WhatsApp | Link para submissão de fotos</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp | Formulário de Feedback</Link>
+- <Link to="./templates#wpp-msg-photos-drive">WhatsApp - Mensagem | Fotos do encontro</Link>
+- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
 
 </details>
 
@@ -339,12 +351,16 @@ Editar e postar os vídeos do encontro nas redes sociais, para engajar a comunid
 Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_palmas), [LinkedIn](https://linkedin.com/company/speakup-palmas), [YouTube](https://youtube.com/@SpeakUpPalmas) e [TikTok](https://tiktok.com/@speakup.palmas).
 </div>
 
+<br/>
+
 **Templates utilizados:**
 
-- <Link to="./templates#insta-msg-video-description">Instagram | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#linkedin-msg-video-description">LinkedIn | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#youtube-msg-video-description">YouTube | Texto para a publicação do vídeo</Link>
-- <Link to="./templates#tiktok-msg-video-description">TikTok | Texto para a publicação do vídeo</Link>
+- <Link to="./templates#insta-msg-video-description">Insta - Mensagem | Descrição para reels do encontro</Link>
+- <Link to="./templates#linkedin-msg-video-description">LinkedIn - Mensagem | Descrição para vídeos do encontro</Link>
+- <Link to="./templates#youtube-msg-video-description">YouTube - Mensagem | Descrição para vídeos do encontro</Link>
+- <Link to="./templates#tiktok-msg-video-description">TikTok - Mensagem | Descrição para vídeos do encontro</Link>
+
+<!-- TODO: Criar template de video editado -->
 
 </details>
 
@@ -353,15 +369,20 @@ Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_pal
 
 Garantir que a data do próximo encontro (3° domingo do mês) não seja um feriado ou data importante, para que todos possam participar.
 
-<div className="alert alert--info" role="alert">
-Caso seja necessário, fazer um aviso no Instagram e uma enquete no WhatsApp para definir uma nova data.
-</div>
-<br/>
+<details id="w4-t3.1">
+<summary><strong>Caso seja necessário alterar a data · #4.3.1</strong></summary>
+
+Caso a data do próximo encontro coincida com um feriado ou evento importante, realizar as seguintes ações:
+
+1. Fazer um aviso sobre a mudança de data no Instagram utilizando o template de aviso. (explicar motivo, caso seja necessário)
+2. Criar uma enquete no WhatsApp para definir uma nova data.
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-notice">Story | Template de aviso, explicando sobre a mudança de data e chamando a comunidade para participar da votação no WhatsApp</Link>
-- <Link to="./templates#wpp-msg-new-date">WhatsApp | Enquete para definir nova data</Link>
+- <Link to="./templates#insta-story-notice">Insta - Story | Aviso</Link>
+- <Link to="./templates#wpp-msg-new-date">WhatsApp - Mensagem | Definição de nova data</Link>
+
+</details>
 
 </details>
 
@@ -386,7 +407,7 @@ Depende da tarefa <strong>#4.2</strong> (video editado do último encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-tbt">Story | TBT do Último Encontro</Link>
+- <Link to="./templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
 
 </details>
 

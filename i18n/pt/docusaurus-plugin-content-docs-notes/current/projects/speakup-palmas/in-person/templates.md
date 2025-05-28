@@ -13,9 +13,9 @@ image: /img/speakup/speakup-og.png
 
 ## Insta - Story | Salve a data! {#insta-story-save-the-date}
 
-**Descrição:** Um template de story para anunciar a data do próximo encontro.
+**Descrição:** Um modelo de story para anunciar a data do próximo encontro.
 
-**Objetivo:** Informar seguidores sobre a data do próximo encontro, visando engajamento inicial e reservas na agenda.
+**Objetivo:** Informar seguidores sobre a data do próximo encontro, incentivando o engajamento inicial e reservas na agenda.
 
 ![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
 
@@ -23,9 +23,9 @@ image: /img/speakup/speakup-og.png
 
 ## Insta - Story | Anúncio de enquete {#insta-story-poll-announce}
 
-**Descrição:** Um modelo de story para anunciar uma enquete no WhatsApp.
+**Descrição:** Um modelo de story para anunciar uma enquete interativa, que acontecerá no grupo do WhatsApp.
 
-**Objetivo:** Chamar os seguidores para o grupo do WhatsApp, onde acontecerá a enquete.
+**Objetivo:** "Call to action" para que os seguidores entrem no grupo do WhatsApp e participem da enquete.
 
 ![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
 
@@ -108,15 +108,21 @@ image: /img/speakup/speakup-og.png
 **Objetivo:** Padronizar a descrição e hashtags dos vídeos.
 
 ```plaintext
-🎥 Confira os melhores momentos do nosso último encontro! 💬
+O [INSERIR NÚMERO DO ENCONTRO]º Encontro do SpeakUp Palmas foi um sucesso.
 
-📅 Próximo evento: [INSERIR DATA]
-📍 Local: [INSERIR LOCAL]
+🎥 Confira os melhores momentos!
 
-Participe e faça parte dessa experiência incrível! 🌟
+Agradecemos de coração a todos que participaram e tornaram esse encontro tão especial.
+Se você não pôde estar presente, não se preocupe, nossos encontros acontecem mensalmente.
+
+Let’s SpeakUp!
 ```
 
-<!-- TODO: Atualizar mensagem -->
+Hashtags sugeridas:
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
 
 ---
 
@@ -127,15 +133,13 @@ Participe e faça parte dessa experiência incrível! 🌟
 **Objetivo:** Garantir que os participantes reservem a data em seus calendários.
 
 ```plaintext
-Olá, pessoal! 🌟
+Olá, pessoal!
 
-Salvem a data para nosso próximo encontro:
+Nosso próximo encontro já tem data marcada:
 📅 Data: [INSERIR DATA]
 
-Mais detalhes em breve. Contamos com vocês! 💬
+Mais detalhes em breve. Contamos com a presença de vocês!
 ```
-
-<!-- TODO: Atualizar mensagem -->
 
 ---
 
@@ -146,7 +150,7 @@ Mais detalhes em breve. Contamos com vocês! 💬
 **Objetivo:** Coletar sugestões de locais ou temas para o evento.
 
 ```plaintext
-Olá, pessoal! 👋
+Olá, pessoal!
 
 Estamos decidindo o local do próximo encontro. Qual opção vocês preferem?
 
@@ -154,10 +158,14 @@ Estamos decidindo o local do próximo encontro. Qual opção vocês preferem?
 2️⃣ [OPÇÃO 2]
 3️⃣ [OPÇÃO 3]
 
-Responda com o número da sua escolha! 🗳️
 ```
 
-<!-- TODO: Atualizar mensagem -->
+<div className="alert alert--warning" role="alert">
+🚨 Utilizar o recurso de enquete do WhatsApp, utilizando a opção de <strong>múltipla escolha</strong>.
+</div>
+
+<!-- TODO: Entender motivo do espaçamento estranho nesse alert -->
+<br/>
 
 ---
 
@@ -168,20 +176,18 @@ Responda com o número da sua escolha! 🗳️
 **Objetivo:** Envolver os participantes na escolha do local.
 
 ```plaintext
-Olá, pessoal! 👋
+Olá, pessoal!
 
 Estamos planejando nosso próximo encontro e gostaríamos de ouvir suas sugestões de locais.
 
-Por favor, envie suas ideias aqui no grupo! 🗺️
+Por favor, envie suas ideias aqui no grupo!
 ```
-
-<!-- TODO: Atualizar mensagem -->
 
 ---
 
 ## WhatsApp - Mensagem | Confirmação do encontro {#wpp-msg-meeting-confirmation}
 
-**Descrição:** Um modelo de mensagem para confirmar os detalhes do encontro no WhatsApp, incluindo data, local e hora definidos.
+**Descrição:** Um modelo de mensagem para confirmar os detalhes do próximo encontro no WhatsApp, incluindo data, local e hora definidos.
 
 **Objetivo:** Garantir que todos os participantes estejam informados sobre o evento.
 
@@ -190,11 +196,10 @@ Por favor, envie suas ideias aqui no grupo! 🗺️
 
 📅 Data: [INSERIR DATA]
 📍 Local: [INSERIR LOCAL]
+🕒 Hora: [INSERIR HORA]
 
-Esperamos todos vocês lá! 🌟
+Esperamos você lá, Let’s SpeakUp!
 ```
-
-<!-- TODO: Atualizar mensagem -->
 
 ---
 
@@ -205,34 +210,32 @@ Esperamos todos vocês lá! 🌟
 **Objetivo:** Permitir que os participantes acessem as fotos e adicionem as suas próprias.
 
 ```plaintext
-Olá, pessoal! 📸
+Olá, pessoal!
 
-As fotos do nosso último encontro já estão disponíveis!
-Confira o álbum e sinta-se à vontade para adicionar as suas fotos também: [INSERIR LINK DO ÁLBUM]
-Agradecemos a todos que participaram! 🌟
+Estamos compartilhando o link para as fotos do nosso último encontro, sintam-se à vontade para adicionar as suas também!
+
+[INSERIR LINK DO DRIVE]
 ```
-
-<!-- TODO: Atualizar mensagem -->
 
 ---
 
 ## WhatsApp - Mensagem | Formulário de feedback {#wpp-msg-feedback-form}
 
-**Descrição:** Um modelo de mensagem para solicitar feedback dos participantes sobre o encontro.
+**Descrição:** Um modelo de mensagem para compartilhar o formulário de feedback do encontro.
 
 **Objetivo:** Coletar opiniões e sugestões para melhorar eventos futuros.
 
 ```plaintext
-Olá, pessoal! 🙌
+Olá, pessoal!
 
-Gostaríamos de ouvir a opinião de vocês sobre o nosso último encontro.
+Criamos um formulário bem rapidinho (menos de 5 minutos) pra coletar o feedback de vocês sobre o nosso último encontro e ajudar a melhorar os próximos eventos.
 
-Por favor, preencham este formulário de feedback: [INSERIR LINK DO FORMULÁRIO]
+É só clicar no link abaixo para responder:
 
-Agradecemos a colaboração de todos! 🌟
+[INSERIR LINK DO FORMULÁRIO]
+
+Let’s SpeakUp!
 ```
-
-<!-- TODO: Atualizar mensagem -->
 
 ---
 
@@ -240,92 +243,117 @@ Agradecemos a colaboração de todos! 🌟
 
 **Descrição:** Um modelo de mensagem para definir uma nova data para o encontro.
 
-**Objetivo:** Reprogramar o evento e garantir a presença de todos.
+**Objetivo:** Agendar uma nova data de forma colaborativa.
 
 ```plaintext
-Olá, pessoal! 📅
+Olá, pessoal!
 
-Devido a imprevistos, precisamos mudar a data do nosso encontro.
+Devido a imprevistos [INSERIR MOTIVO SE NECESSÁRIO], precisamos mudar a data do nosso encontro.
 
-A nova data é: [INSERIR NOVA DATA]
+Temos algumas opções de datas, por favor, votem na que preferirem:
 
-Contamos com a presença de todos! 🌟
+1️⃣ [OPÇÃO 1]
+2️⃣ [OPÇÃO 2]
+3️⃣ [OPÇÃO 3]
 ```
 
-<!-- TODO: Atualizar mensagem -->
+<div className="alert alert--warning" role="alert">
+🚨 Utilizar o recurso de enquete do WhatsApp, utilizando a opção de <strong>múltipla escolha</strong>.
+</div>
+
+<br/>
 
 ---
 
 ## LinkedIn - Mensagem | Confirmação do encontro {#linkedin-msg-meeting-confirmation}
 
-**Descrição:** Um modelo de mensagem para LinkedIn, confirmando os detalhes do encontro, incluindo data, local e hora definidos.
+**Descrição:** Um modelo de mensagem para LinkedIn, confirmando os detalhes do encontro.
 
 **Objetivo:** Alcançar profissionais e interessados no evento.
 
 ```plaintext
-📢 Confirmado! Nosso próximo encontro está marcado:
+📢 Confirmado! Nosso próximo encontro presencial está marcado:
 
 📅 Data: [INSERIR DATA]
 📍 Local: [INSERIR LOCAL]
+🕒 Hora: [INSERIR HORA]
 
-Será uma oportunidade incrível para networking e aprendizado. Não perca! 🌟
+Será uma oportunidade incrível para networking e aprendizado. Não perca!
+
+Caso tenha interesse em participar mas não seja de Palmas, entre no nosso canal do Discord, lá acontecerão os encontros remotos!
+
+Let’s SpeakUp!
 ```
 
-<!-- TODO: Atualizar mensagem -->
+Hashtags sugeridas:
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
 
 ---
 
 ## LinkedIn - Mensagem | Descrição para vídeos do encontro {#linkedin-msg-video-description}
 
-**Descrição:** Um modelo de mensagem para descrever vídeos do encontro no LinkedIn.
+**Descrição:** Um modelo de mensagem para a descrição dos vídeos do encontro no LinkedIn.
 
-**Objetivo:** Destacar os principais aprendizados e networking do evento.
+**Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
 
 ```plaintext
-🎥 Momentos marcantes do nosso último encontro! 💬
+🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
 
-📅 Próximo evento: [INSERIR DATA]
-📍 Local: [INSERIR LOCAL]
-
-Junte-se a nós e amplie sua rede de contatos! 🌟
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
+Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 ```
 
-<!-- TODO: Atualizar mensagem -->
+Hashtags sugeridas:
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
 
 ---
 
 ## YouTube - Mensagem | Descrição para vídeos do encontro {#youtube-msg-video-description}
 
-**Descrição:** Um modelo de descrição para vídeos do encontro no YouTube.
+**Descrição:** Um modelo de mensagem para a descrição dos vídeos do encontro no YouTube.
 
-**Objetivo:** Aumentar a visibilidade e engajamento dos vídeos do evento.
+**Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
 
 ```plaintext
-🎬 Não perca os melhores momentos do nosso último encontro! 💡
+🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
 
-📅 Próximo evento: [INSERIR DATA]
-📍 Local: [INSERIR LOCAL]
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
+Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
-Inscreva-se no canal e ative as notificações para mais novidades! 🌟
+Let’s SpeakUp!
 ```
 
-<!-- TODO: Atualizar mensagem -->
+Hashtags sugeridas:
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
 
 ---
 
 ## TikTok - Mensagem | Descrição para vídeos do encontro {#tiktok-msg-video-description}
 
-**Descrição:** Um modelo de descrição para vídeos do TikTok sobre o encontro.
+**Descrição:** Um modelo de mensagem para a descrição dos vídeos do encontro no TikTok.
 
-**Objetivo:** Aumentar o alcance e engajamento do evento.
+**Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
 
 ```plaintext
-🎥 Highlights do nosso último encontro! 💬
+🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
 
-📅 Próximo evento: [INSERIR DATA]
-📍 Local: [INSERIR LOCAL]
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
+Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
-Não fique de fora! 🌟 #Networking #Comunicação
+Let’s SpeakUp!
 ```
 
-<!-- TODO: Atualizar mensagem -->
+Hashtags sugeridas:
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
