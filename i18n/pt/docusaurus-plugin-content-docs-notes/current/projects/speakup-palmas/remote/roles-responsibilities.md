@@ -5,7 +5,7 @@ sidebar_position: 0
 image: /img/speakup/speakup-og.png
 ---
 
-# Cargos e responsabilidades (Remoto)
+# Cargos e responsabilidades
 
 <div className="alert alert--secondary" role="alert">Pra quem curte contribuir, aprender e estar junto, no seu tempo e do seu jeitinho.</div>
 
