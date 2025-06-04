@@ -1,40 +1,41 @@
 ---
 title: "Recurring Tasks"
-description: "List of tasks that need to be done regularly."
+description: "List of tasks that must be done on a monthly basis."
 sidebar_position: 1
 image: /img/speakup/speakup-og.png
 ---
 
-# Recurring Tasks (In-person)
+# Recurring Tasks
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 import Link from '@docusaurus/Link';
 
-> Last reviewed — **May 15, 2025**
+> Last review — **28 May 2025**
 
 <br/>
 
-SpeakUp Palmas holds monthly in-person meetings, and to ensure everything goes smoothly, it's important to follow a schedule of recurring tasks.
+_SpeakUp Palmas_ hosts a **monthly in-person meetup**.  
+To keep everything running smoothly we follow a four-week task schedule.
 
 ## Weekly breakdown
 
-To make organization easier, we’ve divided activities into four weeks, each with a specific focus. The goal is to ensure all aspects of the event are covered, from setting the date to collecting post-event feedback.
+Each week has a clear focus to ensure all aspects are covered – from date confirmation to post-event feedback.
 
 <br/>
 
-|  Week | Focus                     | Summary of activities                                                         |
-| ----: | ------------------------- | ----------------------------------------------------------------------------- |
-| **1** | Definition & organization | Set and validate date and location of next event · Community engagement       |
-| **2** | Confirmation & marketing  | Official event announcement · Finalization of dynamics and planned activities |
-| **3** | Event week                | Countdown posts · Ensure in-event announcements and media coverage            |
-| **4** | Post-event & feedback     | Organize drive · Share photos · Analyze feedback and insights                 |
+|  Week | Focus                    | Activity summary                                                            |
+| ----: | ------------------------ | --------------------------------------------------------------------------- |
+| **1** | Planning & setup         | Date/location validation · Initial community engagement                     |
+| **2** | Confirmation & marketing | Official announcement (date + venue) · Finalise activities & resources      |
+| **3** | Meetup week              | Countdown posts · On-site reminders & media capture                         |
+| **4** | Post-event & feedback    | Drive organisation · Media sharing · Feedback collection & insight analysis |
 
-> Below you’ll find a weekly breakdown with specific tasks to be completed.
+> Detailed tasks for each week are available below.
 
 ---
 
-## Weekly breakdown
+## Week-by-week details
 
 <Tabs groupId="weeks" defaultValue="w1">
 
@@ -43,100 +44,94 @@ To make organization easier, we’ve divided activities into four weeks, each wi
 <div>
 <br/>
 
-### Definition & organization
+### Planning & setup
 
-_**Goal:** define the date and location of the event + initial community engagement._
+_**Goal:** lock date + venue • kick-off engagement._
 
 <details id="w1-t1">
-<summary><strong>Announce date of next event · #1.1</strong></summary>
+<summary><strong>Announce next meetup date · #1.1</strong></summary>
 
-Announce the date of the next event on Instagram and WhatsApp to engage the community and ensure everyone is aware of the upcoming meeting so they can plan to attend.
+Post a **save-the-date** on Instagram Stories and WhatsApp to let everyone plan ahead.
 
 <div className="alert alert--info" role="alert">
-Depends on task <strong>#4.3</strong> (validate date of the next event).
+Depends on task <strong>#4.3</strong> (next date already validated).
 </div>
 <br/>
 
-**Templates used:**
+**Templates**
 
-- <Link to="./templates#insta-story-save-the-date">Story | Save the Date</Link>
-- <Link to="./templates#wpp-msg-save-the-date">WhatsApp | Save the Date</Link>
+- <Link to="./templates#insta-story-save-the-date">Insta – Story | Save the date</Link>
+- <Link to="./templates#wpp-msg-save-the-date">WhatsApp – Msg | Save the date</Link>
 
 </details>
 
 <details id="w1-t2">
-<summary><strong>Define location and time of the next event · #1.2</strong></summary>
+<summary><strong>Choose venue & time · #1.2</strong></summary>
 
-Seek partnerships and possible locations for the event, aiming for a suitable and accessible space for all participants.
+Look for partnerships/places that are convenient and accessible.
 
 <div className="alert alert--info" role="alert">
-If it's an open-air location, check the weather forecast and have a backup plan.
+If venue is outdoors, double-check the weather and have a plan B.
 </div>
 <br/>
 
-**Subtasks:**
+#### Sub-tasks
 
 <details id="w1-t2.1">
-<summary><strong>If location is already defined, notify other admins · #1.2.1</strong></summary>
-
-Validate the location and time with other project admins to ensure everyone is aware and agrees with the choice.
-
+<summary><strong>Venue already fixed? Notify admins · #1.2.1</strong></summary>
+Confirm with the admin team so everyone is aligned.
 </details>
 
 <details id="w1-t2.2">
-<summary><strong>If there are multiple location options, create a WhatsApp poll for community voting · #1.2.2</strong></summary>
+<summary><strong>Multiple options? Run a WhatsApp poll · #1.2.2</strong></summary>
 
 <div className="alert alert--info" role="alert">
-Before the poll, post a Story on Instagram inviting the community to join the WhatsApp group and participate.
+Before polling, post a Story inviting followers to vote (extra reach for the WhatsApp group).
 </div>
 <br/>
 
-Create an announcement Story on Instagram about the upcoming WhatsApp poll to choose the next event’s location. After a few hours, create the poll on WhatsApp.
+**Templates**
 
-**Templates used:**
-
-- <Link to="./templates#insta-story-poll-announce">Story | Poll Announcement</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp | Poll to choose location</Link>
+- <Link to="./templates#insta-story-poll-announce">Insta – Story | Poll announcement</Link>
+- <Link to="./templates#wpp-msg-poll-local">WhatsApp – Msg | Venue poll</Link>
 
 </details>
 
 <details id="w1-t2.3">
-<summary><strong>If there are no location options, create suggestion boxes on Instagram and WhatsApp · #1.2.3</strong></summary>
+<summary><strong>No venue ideas? Ask the community · #1.2.3</strong></summary>
 
-Post a suggestion box on Instagram and WhatsApp so the community can suggest venues for the next event. After a few hours, analyze the suggestions and create a poll if needed.
+Open a question box on Instagram and WhatsApp for suggestions.  
+Analyse answers and create a poll if needed.
 
-**Templates used:**
+**Templates**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Story | Location Suggestions</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp | Location Suggestions</Link>
+- <Link to="./templates#insta-story-question-box-suggestions">Insta – Story | Suggest a venue</Link>
+- <Link to="./templates#wpp-msg-suggestions">WhatsApp – Msg | Venue suggestions</Link>
 
 </details>
-
 </details>
 
 <details id="w1-t3">
-<summary><strong>Brainstorming for activities · #1.3</strong></summary>
+<summary><strong>Brainstorm activities · #1.3</strong></summary>
 
-Discuss ideas for activities and filter the best ones for the upcoming event.
+Collect and rank activity ideas.
 
 <div className="alert alert--info" role="alert">
-Note down good ideas in the drive.
+Log the best ideas in Drive.
 </div>
-<br/>
-
 </details>
 
 <details id="w1-t4">
-<summary><strong>Engage the community with Instagram 'Add Yours' · #1.4</strong></summary>
+<summary><strong>“Add Yours” IG trend · #1.4</strong></summary>
 
 <div className="alert alert--info" role="alert">
-Depends on task <strong>#3.3</strong> (initial announcements during the event).
+Depends on task <strong>#3.3</strong> (on-site opening announcements).
 </div>
 <br/>
 
-**Templates used:**
+**Template**
 
-- <Link to="./templates#insta-story-add-yours">Story | Add Yours</Link>
+- <Link to="./templates#insta-story-add-yours">Insta – Story | Add Yours sticker</Link>
 
 </details>
 
@@ -145,253 +140,220 @@ Depends on task <strong>#3.3</strong> (initial announcements during the event).
 
 <!------------------------- Week 2 ------------------------->
 <TabItem value="w2" label="Week 2">
-
+<div>
 <br/>
 
 ### Confirmation & marketing
 
-_Goal: define activities/resources and announce officially._
+_Goal: lock agenda/resources and launch the official promo._
 
 <details id="w2-t1">
-<summary><strong>Formalize schedule and activities + material checklist · #2.1</strong></summary>
+<summary><strong>Finalize agenda & materials checklist · #2.1</strong></summary>
 
-Define the event’s schedule, activities to be carried out, and create a checklist of materials needed for the event.
+Create a full run-of-show plus a materials checklist.
 
 <div className="alert alert--info" role="alert">
-Record everything in the drive and be prepared for varying numbers of participants.
+Store everything in Drive; prepare fall-back options for varying head-counts.
 </div>
 <br/>
 
-For some activities, input or help from group members may be needed. In these cases, consider creating a WhatsApp poll, an Instagram suggestion box, or a Google Form.
+**Helpful templates**
+
+- <Link to="./templates#insta-story-question-box-suggestions">Story | Question box</Link>
+- <Link to="./templates#wpp-msg-suggestions">WhatsApp | Suggestions</Link>
+- <Link to="./templates#wpp-msg-feedback-form">WhatsApp | Feedback form</Link>
 
 </details>
 
 <details id="w2-t2">
-<summary><strong>Post event confirmation artwork on social media · #2.2</strong></summary>
-
-Post confirmation art on Instagram, LinkedIn, and WhatsApp, stating the confirmed date, location, and time.
+<summary><strong>Publish confirmation artwork · #2.2</strong></summary>
 
 <div className="alert alert--info" role="alert">
-Depends on task <strong>#1.2</strong> (location and time already defined).
+Depends on task <strong>#1.2</strong> (venue & time confirmed).
 </div>
 <br/>
 
-**Templates used:**
+**Templates**
 
-- <Link to="./templates#insta-post-meeting-confirmation">Post | Event Confirmation</Link>
-- <Link to="./templates#insta-story-meeting-confirmation">Story | Event Confirmation</Link>
-- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn | Event Confirmation</Link>
-- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp | Event Confirmation</Link>
+- <Link to="./templates#insta-post-meeting-confirmation">Insta – Feed | Confirmation</Link>
+- <Link to="./templates#insta-story-meeting-confirmation">Insta – Story | Confirmation</Link>
+- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn – Msg | Confirmation</Link>
+- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp – Msg | Confirmation</Link>
 
 </details>
 
 <details id="w2-t3">
-<summary><strong>Post a TBT Story of the last event · #2.3</strong></summary>
-
-Post a TBT Story of the last event to engage the community.
+<summary><strong>Throwback Story from last meetup · #2.3</strong></summary>
 
 <div className="alert alert--info" role="alert">
-Depends on task <strong>#4.2</strong> (edited video of the last event).
+Depends on task <strong>#4.2</strong> (edited video ready).
 </div>
 <br/>
 
-**Templates used:**
+Template
 
-- <Link to="./templates#insta-story-tbt">Story | TBT of Last Event</Link>
+- <Link to="./templates#insta-story-tbt">Story | TBT</Link>
 
 </details>
 
 <details id="w2-t4">
-<summary><strong>Ensure basic structure for the event · #2.4</strong></summary>
+<summary><strong>Ensure basic logistics · #2.4</strong></summary>
 
-Check for necessary structure such as tables, chairs, water...
-
-<div className="alert alert--info" role="alert">
-Always assign at least 2 admins to arrive early and make sure everything is ready.
-</div>
-<br/>
+Check tables, chairs, water, etc.  
+Allocate **2 admins** to arrive early and set everything up.
 
 </details>
 
+</div>
 </TabItem>
 
 <!------------------------- Week 3 ------------------------->
 <TabItem value="w3" label="Week 3">
-
+<div>
 <br/>
 
-### Event week
+### Meetup week
 
-_Goal: ensure everything is ready for the event and engage the community with countdown posts._
+_Goal: countdown, reminders and live media capture._
 
 <details id="w3-t1">
-<summary><strong>Post countdown Stories · #3.1</strong></summary>
+<summary><strong>Countdown Stories · #3.1</strong></summary>
 
-Post countdown Stories leading up to the event to engage and remind the community.
+#### Sub-tasks
 
-**Subtasks:**
+<details id="w3-t1.1"><summary>Story — early week · #3.1.1</summary></details>
+<details id="w3-t1.2"><summary>Story — the day before · #3.1.2</summary></details>
+<details id="w3-t1.3"><summary>Story — event morning · #3.1.3</summary></details>
 
-<details id="w3-t1.1">
-<summary><strong>Countdown Story during event week · #3.1.1</strong></summary>
-
-Post a countdown Story during the week of the event.
-
-</details>
-
-<details id="w3-t1.2">
-<summary><strong>Countdown Story the day before the event · #3.1.2</strong></summary>
-
-Post a countdown Story the day before the event.
-
-</details>
-<details id="w3-t1.3">
-<summary><strong>Countdown Story on event day · #3.1.3</strong></summary>
-
-Post a countdown Story on the event day.
-
-</details>
-
-**Templates used:**
+Template
 
 - <Link to="./templates#insta-story-countdown">Story | Countdown</Link>
 
 </details>
 
 <details id="w3-t2">
-<summary><strong>Capture media during the event · #3.2</strong></summary>
+<summary><strong>Media capture on-site · #3.2</strong></summary>
 
-Record short videos and take photos during the event to capture key moments and create content for social media.
-Whenever possible, also record casual content like TikTok trends, challenges, etc., to boost engagement.
-
-<div className="alert alert--info" role="alert">
-Don’t forget to take a group photo at the end of the event.
-</div>
-<br/>
+Shoot short videos + photos; try TikTok trends for extra reach.
 
 <div className="alert alert--info" role="alert">
-Remember to record the intro clip: "Our x° SpeakUp meeting is happening, come check out what’s going on!"
+Don’t forget the full-group photo before wrap-up.
 </div>
-<br/>
 
+<div className="alert alert--info" role="alert">
+Film a quick intro clip (“Our X-th SpeakUp meetup is happening …”) for Reels/Shorts.
+</div>
 </details>
 
 <details id="w3-t3">
-<summary><strong>Make initial announcements during the event · #3.3</strong></summary>
+<summary><strong>Opening announcements · #3.3</strong></summary>
 
-Make opening announcements during the event, such as image consent, event rules, and reminders.
-
-**Announcements**
-
-- **Image consent:** inform participants that the event will be recorded and that images may be used on the project’s social media. Anyone not wanting to appear should let the team know.
-- **Event rules:** ensure a judgment-free space with mutual respect among participants.
-- **Reminders:** encourage participants to record moments so they can join future trends, like Instagram’s 'Add Yours'.
-
+- **Image consent**
+- **Ground rules** (no judgement, mutual respect)
+- **Reminder** to capture media and join future trends
 </details>
 
 <details id="w3-t4">
-<summary><strong>Post a group photo Story after the event · #3.4</strong></summary>
-
-Post a group photo Story after the event to thank attendees and engage the community.
-
+<summary><strong>Post group photo Story · #3.4</strong></summary>
+Thank attendees right after the meetup.
 </details>
 
+</div>
 </TabItem>
 
 <!------------------------- Week 4 ------------------------->
 <TabItem value="w4" label="Week 4">
-
+<div>
 <br/>
 
 ### Post-event & feedback
 
-_Goal: organize drive, share photos, analyze feedback, and keep the community engaged._
+_Goal: organise assets, gather feedback, plan next meetup._
 
 <details id="w4-t1">
-<summary><strong>Organize drive + feedback spreadsheet · #4.1</strong></summary>
+<summary><strong>Set up Drive folder · #4.1</strong></summary>
 
-Create a folder for the event in Google Drive, using the structure below:
-
-```
-
-📂 X° Event
-├── 📂 Videos
-│ ├── 📂 Raw -> raw footage recorded by admins
-│ └── 📂 Edited -> edited videos
-├── 📂 Photos -> public folder for participants to share photos
-└── 📂 Feedbacks
-|── Feedback spreadsheet -> sheet to collect participant feedback
-└── Form responses -> responses from the feedback form
+Create
 
 ```
+📂 X° Meetup
+   ├── 📂 Videos
+   │   ├── 📂 Raw      -> raw videos recorded by ADMs
+   │   └── 📂 Edited   -> edited videos
+   ├── 📂 Photos        -> public folder for participants to share the photos
+   └── 📂 Feedbacks
+      |── Spreadsheet    -> spreadsheet to collect feedback from participants
+      └── Form responses  -> feedback form responses
+```
 
-Once the structure is created, share the photo folder and feedback sheet links with participants so they can submit their photos and fill out the form.
+Share the **Photos** folder + **Feedback** form with participants.
 
-**Templates used:**
+Templates
 
-- <Link to="./templates#wpp-msg-photos-drive">WhatsApp | Photo Submission Link</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp | Feedback Form</Link>
+- <Link to="./templates#wpp-msg-photos-drive">WhatsApp – Msg | Photos link</Link>
+- <Link to="./templates#wpp-msg-feedback-form">WhatsApp – Msg | Feedback form</Link>
 
 </details>
 
 <details id="w4-t2">
-<summary><strong>Post-engagement social media posts · #4.2</strong></summary>
+<summary><strong>Post-event social media · #4.2</strong></summary>
 
-Edit and post the event videos on social media to keep the community engaged and interested in the project.
+Edit and publish videos on all platforms.
 
 <div className="alert alert--info" role="alert">
-Do this for all platforms: [Instagram](https://instagram.com/speakup_palmas), [LinkedIn](https://linkedin.com/company/speakup-palmas), [YouTube](https://youtube.com/@SpeakUpPalmas), and [TikTok](https://tiktok.com/@speakup.palmas).
+Post on <Link to="https://instagram.com/speakup_palmas">Instagram</Link>, <Link to="https://linkedin.com/company/speakup-palmas">LinkedIn</Link>, <Link to="https://youtube.com/@SpeakUpPalmas">YouTube</Link> and <Link to="https://tiktok.com/@speakup.palmas">TikTok</Link>.
 </div>
+<br/>
 
-**Templates used:**
+**Templates**
 
-- <Link to="./templates#insta-msg-video-description">Instagram | Video Caption</Link>
-- <Link to="./templates#linkedin-msg-video-description">LinkedIn | Video Caption</Link>
-- <Link to="./templates#youtube-msg-video-description">YouTube | Video Caption</Link>
-- <Link to="./templates#tiktok-msg-video-description">TikTok | Video Caption</Link>
+- <Link to="./templates#insta-msg-video-description">Insta | Video caption</Link>
+- <Link to="./templates#linkedin-msg-video-description">LinkedIn | Video caption</Link>
+- <Link to="./templates#youtube-msg-video-description">YouTube | Video description</Link>
+- <Link to="./templates#tiktok-msg-video-description">TikTok | Video caption</Link>
 
 </details>
 
 <details id="w4-t3">
-<summary><strong>Validate next event date · #4.3</strong></summary>
+<summary><strong>Validate next meetup date · #4.3</strong></summary>
 
-Ensure the next event date (3rd Sunday of the month) is not a holiday or conflict date so everyone can attend.
+Ensure the default “3rd Sunday” is not a holiday.
 
-<div className="alert alert--info" role="alert">
-If needed, post an announcement on Instagram and a WhatsApp poll to choose a new date.
-</div>
-<br/>
+<details id="w4-t3.1">
+<summary><strong>Date clash? Reschedule flow · #4.3.1</strong></summary>
 
-**Templates used:**
+1. Story notice (explain reason).
+2. WhatsApp poll for a new date.
 
-- <Link to="./templates#insta-story-notice">Story | Date Change Notice</Link>
-- <Link to="./templates#wpp-msg-new-date">WhatsApp | New Date Poll</Link>
+Templates
 
+- <Link to="./templates#insta-story-notice">Story | Notice</Link>
+- <Link to="./templates#wpp-msg-new-date">WhatsApp | New-date poll</Link>
+
+</details>
 </details>
 
 <details id="w4-t4">
-<summary><strong>Analyze feedback and note insights · #4.4</strong></summary>
+<summary><strong>Analyse feedback & log insights · #4.4</strong></summary>
 
-Analyze feedback collected in the spreadsheet and note suggestions to improve future events. Include feedback on activities, event organization, and location.
-
-<!-- TODO: Standardize a template in the drive for noting feedback, both for activities and location -->
+Review spreadsheet answers — note actionable points for venue and activity.
 
 </details>
 
 <details id="w4-t5">
-<summary><strong>Post a TBT Story of the last event · #4.5</strong></summary>
-
-Post a TBT Story of the last event to re-engage the community.
+<summary><strong>Throwback Story (TBT) · #4.5</strong></summary>
 
 <div className="alert alert--info" role="alert">
-Depends on task <strong>#4.2</strong> (edited video of the last event).
+Depends on task <strong>#4.2</strong> (edited video ready).
 </div>
 <br/>
 
-**Templates used:**
+Template
 
-- <Link to="./templates#insta-story-tbt">Story | TBT of Last Event</Link>
+- <Link to="./templates#insta-story-tbt">Story | TBT</Link>
 
 </details>
 
+</div>
 </TabItem>
 </Tabs>

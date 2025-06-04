@@ -5,7 +5,7 @@ sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 
-# Templates (Presencial)
+# Templates
 
 > Trabalho em andamento
 
