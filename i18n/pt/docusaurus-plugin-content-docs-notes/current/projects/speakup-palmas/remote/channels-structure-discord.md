@@ -19,24 +19,24 @@ Esta página descreve a estrutura do servidor SpeakUp no Discord, organizada por
 
 ### Boas-vindas e informações
 
-- **info-importante** — Regras da comunidade, objetivos e links úteis.
-- **como-funciona** — Explicações sobre níveis, uso das salas e dinâmica dos encontros.
-- **apresente-se** — Canal para novos membros se apresentarem à comunidade.
-- **anúncios** — Atualizações, eventos, chamadas para voluntariado e mudanças estruturais.
+- **important-info** — Regras da comunidade, objetivos e links úteis.
+- **how-it-works** — Explicações sobre níveis, uso das salas e dinâmica dos encontros.
+- **introduce-yourself** — Canal para novos membros se apresentarem à comunidade.
+- **announcements** — Atualizações, eventos, chamadas para voluntariado e mudanças estruturais.
 
 ### Convívio geral
 
 - **hangout** — Conversa livre e informal entre os membros.
 - **gifs-memes** — Espaço para humor e leveza, compartilhamento de memes e stickers.
-- **vida-real-e-fotos** — Canal para compartilhar fotos do dia a dia, pets, comidas e momentos especiais.
-- **games-e-passatempos** — Jogos interativos, desafios e sugestões de atividades.
-- **devs room chat** — Canal de texto para compartilhar assuntos da área tech.
+- **real-life-and-photos** — Canal para compartilhar fotos do dia a dia, pets, comidas e momentos especiais.
+- **games-and-hobbies** — Jogos interativos, desafios e sugestões de atividades.
+- **devs-room-chat** — Canal de texto para compartilhar assuntos da área tech.
 
 ### Estudo e prática
 
 - **shared-resources** — Materiais, links, vídeos e dicas de estudo compartilhadas pelos membros.
-- **salas-de-escrita** — Espaço para escrita criativa, diários e prática livre de escrita em inglês.
-- **conversas-livres** — Conversa em texto em inglês, com tópicos diversos.
+- **writing-rooms** — Espaço para escrita criativa, diários e prática livre de escrita em inglês.
+- **free-conversations** — Conversa em texto em inglês, com tópicos diversos.
 
 ---
 
@@ -63,19 +63,19 @@ Esses canais estarão disponíveis de acordo com o nível do membro:
 
 ## Canais de voz abertos
 
-- **Lounge** — Sala geral e livre para conversas espontâneas.
-- **Events** — Sala para realização dos encontros principais.
-- **Games** — Canal de voz voltado a jogos e dinâmicas.
+- **lounge** — Sala geral e livre para conversas espontâneas.
+- **events** — Sala para realização dos encontros principais.
+- **games** — Canal de voz voltado a jogos e dinâmicas.
 - **conversation-1** — Sala fixa para prática de conversação.
 - **conversation-2** — Sala alternativa para conversas paralelas.
-- **devs room** — Sala para quem trabalha com tecnologia.
+- **devs-room** — Sala para quem trabalha com tecnologia.
 
 ---
 
 ## Canais privados (somente equipe)
 
 - **staff-room** — Coordenação da equipe geral e decisões organizacionais.
-- **host-e-agendamentos** — Organização de eventos e definição de hosts.
-- **painel-de-voluntários** — Gestão de voluntários, ações em andamento e registros.
+- **hosts-and-scheduling** — Organização de eventos e definição de hosts.
+- **volunteer-panel** — Gestão de voluntários, ações em andamento e registros.
 
 ---

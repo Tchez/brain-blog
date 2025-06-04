@@ -1,81 +1,81 @@
 ---
-title: "Canais e Estrutura do Discord"
-description: "Organização e estrutura dos canais do servidor SpeakUp no Discord."
+title: "Discord Channels and Structure"
+description: "Organization and structure of the SpeakUp server on Discord."
 sidebar_position: 4
 image: /img/speakup/speakup-og.png
 ---
 
-# Organização do Servidor SpeakUp
+# SpeakUp Server Organization
 
-> Última revisão — **03 jun 2025**
+> Last reviewed — **Jun 3, 2025**
 
 <br/>
 
-Esta página descreve a estrutura do servidor SpeakUp no Discord, organizada por categorias de canais com foco em acolhimento, prática de inglês e organização da comunidade.
+This page describes the structure of the SpeakUp Discord server, organized by channel categories focused on a hospitable reception, English practice, and community organization.
 
 ---
 
-## Canais abertos ao público
+## Public Channels
 
-### Boas-vindas e informações
+### Welcome and Information
 
-- **info-importante** — Regras da comunidade, objetivos e links úteis.
-- **como-funciona** — Explicações sobre níveis, uso das salas e dinâmica dos encontros.
-- **apresente-se** — Canal para novos membros se apresentarem à comunidade.
-- **anúncios** — Atualizações, eventos, chamadas para voluntariado e mudanças estruturais.
+- **important-info** — Community rules, goals, and useful links.
+- **how-it-works** — Explanations about levels, room usage, and meetup dynamics.
+- **introduce-yourself** — Channel for new members to introduce themselves to the community.
+- **announcements** — Updates, events, volunteer calls, and structural changes.
 
-### Convívio geral
+### General Socializing
 
-- **hangout** — Conversa livre e informal entre os membros.
-- **gifs-memes** — Espaço para humor e leveza, compartilhamento de memes e stickers.
-- **vida-real-e-fotos** — Canal para compartilhar fotos do dia a dia, pets, comidas e momentos especiais.
-- **games-e-passatempos** — Jogos interativos, desafios e sugestões de atividades.
-- **devs room chat** — Canal de texto para compartilhar assuntos da área tech.
+- **hangout** — Open and informal conversations among members.
+- **gifs-memes** — A space for humor and light-hearted sharing of memes and stickers.
+- **real-life-and-photos** — Channel to share day-to-day photos, pets, food, and special moments.
+- **games-and-hobbies** — Interactive games, challenges, and activity suggestions.
+- **devs-room-chat** — Text channel for sharing tech-related topics.
 
-### Estudo e prática
+### Study and Practice
 
-- **shared-resources** — Materiais, links, vídeos e dicas de estudo compartilhadas pelos membros.
-- **salas-de-escrita** — Espaço para escrita criativa, diários e prática livre de escrita em inglês.
-- **conversas-livres** — Conversa em texto em inglês, com tópicos diversos.
+- **shared-resources** — Materials, links, videos, and study tips shared by members.
+- **writing-rooms** — A space for creative writing, journals, and free writing practice in English.
+- **free-conversations** — Text-based conversations in English on various topics.
 
 ---
 
-## Canais por nível de inglês
+## Channels by proficiency
 
-Esses canais estarão disponíveis de acordo com o nível do membro:
+These channels will be available based on the member’s level according to CEFR standards of proficiency:
 
 ### Beginner (A1–A2)
 
-- **beginner-chat** — Conversas em texto para iniciantes.
-- **beginner-voice** — Sala de voz com apoio e temas simples.
+- **beginner-chat** — Text conversations for beginners.
+- **beginner-voice** — Voice room with support and simple themes.
 
 ### Intermediate (B1–B2)
 
-- **intermediate-chat** — Conversas de nível intermediário.
-- **intermediate-voice** — Sala de voz para prática mais fluente.
+- **intermediate-chat** — Intermediate-level conversations.
+- **intermediate-voice** — Voice room for more fluent practice.
 
 ### Advanced (C1–C2)
 
-- **advanced-chat** — Conversas mais livres e avançadas.
-- **advanced-voice** — Sala de voz para debates, temas mais complexos e fluência avançada.
+- **advanced-chat** — More open and advanced conversations.
+- **advanced-voice** — Voice room for debates, complex topics, and advanced fluency.
 
 ---
 
-## Canais de voz abertos
+## Open Voice Channels
 
-- **Lounge** — Sala geral e livre para conversas espontâneas.
-- **Events** — Sala para realização dos encontros principais.
-- **Games** — Canal de voz voltado a jogos e dinâmicas.
-- **conversation-1** — Sala fixa para prática de conversação.
-- **conversation-2** — Sala alternativa para conversas paralelas.
-- **devs room** — Sala para quem trabalha com tecnologia.
+- **lounge** — General and open room for general conversations.
+- **events** — Room for hosting main events.
+- **games** — Voice channel for games and group dynamics.
+- **conversation-1** — Fixed room for conversation practice.
+- **conversation-2** — Alternate room for parallel conversations.
+- **devs-room** — Room for people working in tech.
 
 ---
 
-## Canais privados (somente equipe)
+## Private Channels (Staff Only)
 
-- **staff-room** — Coordenação da equipe geral e decisões organizacionais.
-- **host-e-agendamentos** — Organização de eventos e definição de hosts.
-- **painel-de-voluntários** — Gestão de voluntários, ações em andamento e registros.
+- **staff-room** — General team coordination and organizational decisions.
+- **hosts-and-scheduling** — Event planning and host assignment.
+- **volunteer-panel** — Volunteer management, active tasks, and logs.
 
 ---
