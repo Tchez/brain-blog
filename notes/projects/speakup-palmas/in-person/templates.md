@@ -162,11 +162,27 @@ Estamos decidindo o local do próximo encontro. Qual opção vocês preferem?
 
 ```
 
-<div className="alert alert--warning" role="alert">
-🚨 Utilizar o recurso de enquete do WhatsApp, utilizando a opção de <strong>múltipla escolha</strong>.
-</div>
+<div className="alert alert--warning" role="alert">🚨 Utilizar o recurso de enquete do WhatsApp, utilizando a opção de <strong>múltipla escolha</strong>.</div>
 
-<!-- TODO: Entender motivo do espaçamento estranho nesse alert -->
+<br/>
+
+---
+
+## WhatsApp - Mensagem | Enquete de presença {#wpp-msg-poll-attendance}
+
+**Descrição:** Um modelo de mensagem para criar uma enquete de presença no grupo do WhatsApp.
+**Objetivo:** Confirmar a presença dos participantes no próximo encontro, facilitando o planejamento do evento.
+
+```plaintext
+Para definirmos o melhor local e horário, precisamos saber quantas pessoas irão. Com qual opção você se identifica?
+
+1️⃣ Participarei 🥳
+2️⃣ Talvez 😅
+3️⃣ Não poderei ir 🥺
+```
+
+<div className="alert alert--warning" role="alert">🚨 Utilizar o recurso de enquete do WhatsApp, utilizando a opção de <strong>múltipla escolha</strong>.</div>
+
 <br/>
 
 ---

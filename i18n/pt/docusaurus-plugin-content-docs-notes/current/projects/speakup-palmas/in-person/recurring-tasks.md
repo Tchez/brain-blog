@@ -51,6 +51,8 @@ _**Objetivo:** definir data e local do encontro + engajamento inicial._
 
 Divulgar a data do próximo encontro no Instagram e WhatsApp para engajar a comunidade e garantir que todos estejam cientes do próximo evento, para que possam se programar e participar.
 
+Fazer votação de presença no WhatsApp, para ter uma ideia de quantas pessoas irão participar do próximo encontro.
+
 <div className="alert alert--info" role="alert">
 Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 </div>
@@ -60,6 +62,7 @@ Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 
 - <Link to="./templates#insta-story-save-the-date">Insta - Story | Salve a data!</Link>
 - <Link to="./templates#wpp-msg-save-the-date">WhatsApp - Mensagem | Salve a data!</Link>
+- <Link to="./templates#wpp-msg-poll-attendance">WhatsApp - Mensagem | Votação de presença</Link>
 
 </details>
 
@@ -374,8 +377,9 @@ Garantir que a data do próximo encontro (3° domingo do mês) não seja um feri
 
 Caso a data do próximo encontro coincida com um feriado ou evento importante, realizar as seguintes ações:
 
-1. Fazer um aviso sobre a mudança de data no Instagram utilizando o template de aviso. (explicar motivo, caso seja necessário)
+1. Fazer um aviso sobre a mudança de data no Instagram utilizando o template de aviso. (explicar motivo, caso seja necessário e avisar sobre a votação no WhatsApp).
 2. Criar uma enquete no WhatsApp para definir uma nova data.
+3. Divulgar a nova data no Instagram e WhatsApp, utilizando o template de aviso.
 
 **Templates utilizados:**
 

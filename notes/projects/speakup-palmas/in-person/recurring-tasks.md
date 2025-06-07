@@ -53,6 +53,8 @@ _**Goal:** lock date + venue • kick-off engagement._
 
 Post a **save-the-date** on Instagram Stories and WhatsApp to let everyone plan ahead.
 
+Create a WhatsApp poll to estimate how many people will attend.
+
 <div className="alert alert--info" role="alert">
 Depends on task <strong>#4.3</strong> (next date already validated).
 </div>
@@ -62,6 +64,7 @@ Depends on task <strong>#4.3</strong> (next date already validated).
 
 - <Link to="./templates#insta-story-save-the-date">Insta – Story | Save the date</Link>
 - <Link to="./templates#wpp-msg-save-the-date">WhatsApp – Msg | Save the date</Link>
+- <Link to="./templates#wpp-msg-poll-attendance">WhatsApp – Msg | Attendance poll</Link>
 
 </details>
 
@@ -322,8 +325,9 @@ Ensure the default “3rd Sunday” is not a holiday.
 <details id="w4-t3.1">
 <summary><strong>Date clash? Reschedule flow · #4.3.1</strong></summary>
 
-1. Story notice (explain reason).
-2. WhatsApp poll for a new date.
+1. Post a Notice Story using the Notice template. (explain reason, if necessary, and warn about the WhatsApp poll)
+2. Create a WhatsApp poll with the new date options.
+3. Post the new date on Instagram Stories and WhatsApp, using the notice template.
 
 Templates
 
