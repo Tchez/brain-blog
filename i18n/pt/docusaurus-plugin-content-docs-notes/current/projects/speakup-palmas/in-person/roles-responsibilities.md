@@ -11,7 +11,7 @@ image: /img/speakup/speakup-og.png
 
 <br/>
 
-## Marketing e Redes Sociais
+## Marketing e Redes Sociais {#marketing}
 
 <div className="alert alert--info" role="alert">Promove o SpeakUp Palmas nas redes sociais e engaja a comunidade online.</div>
 
@@ -32,7 +32,7 @@ image: /img/speakup/speakup-og.png
 
 ---
 
-## Atividades e Dinâmicas
+## Atividades e Dinâmicas {#activities}
 
 <div className="alert alert--info" role="alert">Garante que os encontros sejam dinâmicos, inovadores e participativos.</div>
 
@@ -50,7 +50,7 @@ image: /img/speakup/speakup-og.png
 
 ---
 
-## Organização e Logística
+## Organização e Logística {#organization}
 
 <div className="alert alert--info" role="alert">Cuida de toda a estrutura e funcionamento dos encontros presenciais.</div>
 
@@ -68,7 +68,7 @@ image: /img/speakup/speakup-og.png
 
 ---
 
-## Liderança de Área
+## Liderança de Área {#leadership}
 
 <div className="alert alert--info" role="alert">Responsável por coordenar e garantir o andamento das tarefas da sua área.</div>
 
@@ -87,7 +87,7 @@ image: /img/speakup/speakup-og.png
 
 ---
 
-## Voluntário(a)
+## Voluntário(a) {#volunteer}
 
 <div className="alert alert--info" role="alert">Apoia quando e como puder.</div>
 

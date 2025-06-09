@@ -11,7 +11,7 @@ image: /img/speakup/speakup-og.png
 
 <br/>
 
-## Marketing & Social Media
+## Marketing & Social Media {#marketing}
 
 <div className="alert alert--info" role="alert">Promotes SpeakUp Palmas online and keeps the community engaged.</div>
 
@@ -33,7 +33,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 ---
 
-## Activities & Dynamics
+## Activities & Dynamics {#activities}
 
 <div className="alert alert--info" role="alert">Ensures each meetup is dynamic, innovative and participative.</div>
 
@@ -51,7 +51,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 ---
 
-## Operations & Logistics
+## Operations & Logistics {#organization}
 
 <div className="alert alert--info" role="alert">Takes care of the whole structure and smooth running of in-person meetups.</div>
 
@@ -69,7 +69,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 ---
 
-## Area Lead
+## Area Lead {#leadership}
 
 <div className="alert alert--info" role="alert">Coordinates and makes sure the tasks of their area move forward.</div>
 
@@ -88,7 +88,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 ---
 
-## Volunteer
+## Volunteer {#volunteer}
 
 <div className="alert alert--info" role="alert">Helps whenever and however possible.</div>
 

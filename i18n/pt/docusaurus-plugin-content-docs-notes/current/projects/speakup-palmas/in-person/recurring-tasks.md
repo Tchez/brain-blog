@@ -10,14 +10,20 @@ image: /img/speakup/speakup-og.png
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 import Link from '@docusaurus/Link';
+import Badge from '@site/src/components/Badge';
 
-> Última revisão — **28 mai 2025**
+> Última revisão — **09 jun 2025**
 
 <br/>
 
-O SpeakUp Palmas realiza encontros presenciais mensais, e para garantir que tudo ocorra bem, é importante seguir um cronograma de tarefas recorrentes.
+O _SpeakUp Palmas_ realiza **encontros presenciais mensais**.  
+Para garantir que tudo ocorra bem, é importante seguir um cronograma de tarefas recorrentes.
 
 ## Divisão semanal
+
+<div className="alert alert--info" role="alert">Cada tarefa possui um ou mais responsáveis, esses são indicados por botões coloridos ao lado do título da tarefa. Os botões indicam a área de atuação do responsável, como Marketing, Logística, Dinâmicas, etc.</div>
+
+<br/>
 
 Para facilitar a organização, dividimos as atividades em quatro semanas, cada uma com um foco específico. O objetivo é garantir que todos os aspectos do evento sejam cobertos, desde a definição da data até o feedback pós-evento.
 
@@ -47,7 +53,7 @@ Para facilitar a organização, dividimos as atividades em quatro semanas, cada 
 _**Objetivo:** definir data e local do encontro + engajamento inicial._
 
 <details id="w1-t1">
-<summary><strong>Divulgar data do próximo encontro · #1.1</strong></summary>
+<summary><strong>Divulgar data do próximo encontro · #1.1</strong> <Badge type="marketing" /></summary>
 
 Divulgar a data do próximo encontro no Instagram e WhatsApp para engajar a comunidade e garantir que todos estejam cientes do próximo evento, para que possam se programar e participar.
 
@@ -67,7 +73,7 @@ Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 </details>
 
 <details id="w1-t2">
-<summary><strong>Definir local e horário do próximo encontro · #1.2</strong></summary>
+<summary><strong>Definir local e horário do próximo encontro · #1.2</strong> <Badge type="logistics" /></summary>
 
 Procurar parcerias e possíveis locais para o encontro, visando um espaço adequado e acessível para todos os participantes.
 
@@ -79,14 +85,14 @@ Caso seja local aberto, verificar previsão do tempo e ter plano B.
 **Sub-tarefas:**
 
 <details id="w1-t2.1">
-<summary><strong>Caso já tenha o local definido, avisar os demais administradores · #1.2.1</strong></summary>
+<summary><strong>Caso já tenha o local definido, avisar os demais administradores · #1.2.1</strong> <Badge type="logistics" /> </summary>
 
 Validar o local e horário do próximo encontro com os demais administradores do projeto, garantindo que todos estejam cientes e de acordo com a escolha.
 
 </details>
 
 <details id="w1-t2.2">
-<summary><strong>Caso tenha mais de uma opção de local, criar enquete no WhatsApp para votação da comunidade · #1.2.2</strong></summary>
+<summary><strong>Caso tenha mais de uma opção de local, criar enquete no WhatsApp para votação da comunidade · #1.2.2</strong> <Badge type="logistics" /> <Badge type="marketing" /></summary>
 
 <div className="alert alert--info" role="alert">
 Antes de fazer a votação, é recomendado fazer um Story no Instagram chamando a comunidade para participar da votação (visando trazer mais integrantes para o grupo do WhatsApp).
@@ -103,7 +109,7 @@ Criar Story de aviso no Instagram, informando que haverá uma votação no Whats
 </details>
 
 <details id="w1-t2.3">
-<summary><strong>Caso não tenha opções de local, fazer uma caixinha de sugestões no Instagram e WhatsApp · #1.2.3</strong></summary>
+<summary><strong>Caso não tenha opções de local, fazer uma caixinha de sugestões no Instagram e WhatsApp · #1.2.3</strong> <Badge type="logistics" /> <Badge type="marketing" /></summary>
 
 Criar uma caixinha de sugestões no Instagram e WhatsApp para que a comunidade possa sugerir locais para o próximo encontro. Após algumas horas, analisar as sugestões e, se necessário, criar uma enquete para votação.
 
@@ -117,7 +123,7 @@ Criar uma caixinha de sugestões no Instagram e WhatsApp para que a comunidade p
 </details>
 
 <details id="w1-t3">
-<summary><strong>Brainstorming de dinâmicas · #1.3</strong></summary>
+<summary><strong>Brainstorming de dinâmicas · #1.3</strong> <Badge type="activities" /></summary>
 
 Discutir ideias de dinâmicas e filtrar as melhores opções para o próximo encontro.
 
@@ -131,7 +137,7 @@ Anotar as boas ideias no drive.
 </details>
 
 <details id="w1-t4">
-<summary><strong>Engajar a comunidade com o 'Sua vez' do Instagram · #1.4</strong></summary>
+<summary><strong>Engajar a comunidade com o 'Sua vez' do Instagram · #1.4</strong> <Badge type="marketing" /></summary>
 
 <div className="alert alert--info" role="alert">
 Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
@@ -157,7 +163,7 @@ Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
 _Objetivo: definir local/horário/dinâmica/recursos e divulgar oficialmente._
 
 <details id="w2-t1">
-<summary><strong>Formalizar cronograma e dinâmicas + checklist de materiais · #2.1</strong></summary>
+<summary><strong>Formalizar cronograma e dinâmicas + checklist de materiais · #2.1</strong> <Badge type="activities" /></summary>
 
 Definir o cronograma do encontro, as dinâmicas que serão realizadas e criar um checklist de materiais necessários para o evento.
 
@@ -178,7 +184,7 @@ Pra preparação de algumas dinâmicas pode ser preciso a opinião ou ajuda dos 
 </details>
 
 <details id="w2-t2">
-<summary><strong>Postar a arte de confirmação do encontro nas redes sociais · #2.2</strong></summary>
+<summary><strong>Postar a arte de confirmação do encontro nas redes sociais · #2.2</strong> <Badge type="marketing" /></summary>
 
 Postar a arte de confirmação do encontro no Instagram, LinkedIn e WhatsApp, informando a data, local e horário definidos.
 
@@ -197,7 +203,7 @@ Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro j
 </details>
 
 <details id="w2-t3">
-<summary><strong>Postar Story de TBT do último encontro · #2.3</strong></summary>
+<summary><strong>Postar Story de TBT do último encontro · #2.3</strong> <Badge type="marketing" /></summary>
 
 Postar um Story de TBT do último encontro, para engajar a comunidade.
 
@@ -213,7 +219,7 @@ Depende da tarefa <strong>#4.2</strong> (video editado do último encontro).
 </details>
 
 <details id="w2-t4">
-<summary><strong>Garantir estrutura básica para o encontro · #2.4</strong></summary>
+<summary><strong>Garantir estrutura básica para o encontro · #2.4</strong> <Badge type="logistics" /></summary>
 
 Verificar a estrutura básica necessária para o encontro, como mesas, cadeiras, água...
 
@@ -223,7 +229,6 @@ Sempre definir pelo menos 2 ADMs pra chegar mais cedo e garantir que tudo esteja
 <br/>
 
 </details>
-
 </TabItem>
 
 <!------------------------- Semana 3 ------------------------->
@@ -236,27 +241,27 @@ Sempre definir pelo menos 2 ADMs pra chegar mais cedo e garantir que tudo esteja
 _Objetivo: divulgar com contagem regressiva e garantir avisos e registros durante o evento._
 
 <details id="w3-t1">
-<summary><strong>Postar Story com contagem regressiva · #3.1</strong></summary>
+<summary><strong>Postar Story com contagem regressiva · #3.1</strong> <Badge type="marketing" /></summary>
 
 Fazer postagens com contagem regressiva antes do encontro, para engajar a comunidade e lembrá-los do evento.
 
 **Sub-tarefas:**
 
 <details id="w3-t1.1">
-<summary><strong>Story com contagem regressiva na semana do encontro · #3.1.1</strong></summary>
+<summary><strong>Story com contagem regressiva na semana do encontro · #3.1.1</strong> <Badge type="marketing" /></summary>
 
 Postar um Story com contagem regressiva na semana do encontro.
 
 </details>
 
 <details id="w3-t1.2">
-<summary><strong>Story com contagem regressiva no dia anterior ao encontro · #3.1.2</strong></summary>
+<summary><strong>Story com contagem regressiva no dia anterior ao encontro · #3.1.2</strong> <Badge type="marketing" /></summary>
 
 Postar um Story com contagem regressiva no dia anterior ao encontro.
 
 </details>
 <details id="w3-t1.3">
-<summary><strong>Story com contagem regressiva no dia do encontro · #3.1.3</strong></summary>
+<summary><strong>Story com contagem regressiva no dia do encontro · #3.1.3</strong> <Badge type="marketing" /></summary>
 
 Postar um Story com contagem regressiva no dia do encontro.
 
@@ -269,7 +274,7 @@ Postar um Story com contagem regressiva no dia do encontro.
 </details>
 
 <details id="w3-t2">
-<summary><strong>Garantir registros durante o encontro · #3.2</strong></summary>
+<summary><strong>Garantir registros durante o encontro · #3.2</strong> <Badge type="marketing" /> <Badge type="activities" /></summary>
 
 Gravar vídeos curtos e tirar fotos durante o encontro, para registrar os momentos importantes e criar conteúdo para as redes sociais.
 Sempre que possível, fazer alguns vídeos mais descontraídos, como trends do TikTok, desafios, etc. Visando maior engajamento.
@@ -287,7 +292,7 @@ Lembrar de gravar o trecho inicial do vídeo, com o 'Está acontecendo nosso x°
 </details>
 
 <details id="w3-t3">
-<summary><strong>Fazer avisos iniciais durante o encontro · #3.3</strong></summary>
+<summary><strong>Fazer avisos iniciais durante o encontro · #3.3</strong> <Badge type="activities" /></summary>
 
 Fazer avisos iniciais durante o encontro, como consentimento de imagem, regras do encontro, lembretes, etc.
 
@@ -300,7 +305,7 @@ Fazer avisos iniciais durante o encontro, como consentimento de imagem, regras d
 </details>
 
 <details id="w3-t4">
-<summary><strong>Após o encontro, postar Story com a foto do grupo · #3.4</strong></summary>
+<summary><strong>Após o encontro, postar Story com a foto do grupo · #3.4</strong> <Badge type="marketing" /></summary>
 
 Postar um Story com a foto do grupo após o encontro, para agradecer a presença de todos e engajar a comunidade.
 
@@ -318,11 +323,11 @@ Postar um Story com a foto do grupo após o encontro, para agradecer a presença
 _Objetivo: organizar o drive, coletar feedbacks e analisar insights._
 
 <details id="w4-t1">
-<summary><strong>Organizar o drive + planilha de feedbacks · #4.1</strong></summary>
+<summary><strong>Organizar o drive + planilha de feedbacks · #4.1</strong> <Badge type="logistics" /></summary>
 
 Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
 
-```
+```plaintext
 📂 X° Meetup
    ├── 📂 Videos
    │   ├── 📂 Raw      -> vídeos brutos gravados pelos ADMs
@@ -346,7 +351,7 @@ Após criada a estrutura, compartilhar o link da pasta de fotos e da planilha de
 </details>
 
 <details id="w4-t2">
-<summary><strong>Fazer publicações para engajamento pós encontro · #4.2</strong></summary>
+<summary><strong>Fazer publicações para engajamento pós encontro · #4.2</strong> <Badge type="marketing" /></summary>
 
 Editar e postar os vídeos do encontro nas redes sociais, para engajar a comunidade e manter o interesse pelo projeto.
 
@@ -368,12 +373,12 @@ Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_pal
 </details>
 
 <details id="w4-t3">
-<summary><strong>Validar data do próximo encontro · #4.3</strong></summary>
+<summary><strong>Validar data do próximo encontro · #4.3</strong> <Badge type="logistics" /></summary>
 
 Garantir que a data do próximo encontro (3° domingo do mês) não seja um feriado ou data importante, para que todos possam participar.
 
 <details id="w4-t3.1">
-<summary><strong>Caso seja necessário alterar a data · #4.3.1</strong></summary>
+<summary><strong>Caso seja necessário alterar a data · #4.3.1</strong> <Badge type="logistics" /> <Badge type="marketing" /></summary>
 
 Caso a data do próximo encontro coincida com um feriado ou evento importante, realizar as seguintes ações:
 
@@ -391,7 +396,7 @@ Caso a data do próximo encontro coincida com um feriado ou evento importante, r
 </details>
 
 <details id="w4-t4">
-<summary><strong>Analisar feedbacks e anotar insights · #4.4</strong></summary>
+<summary><strong>Analisar feedbacks e anotar insights · #4.4</strong> <Badge type="activities" /> <Badge type="logistics" /></summary>
 
 Analisar os feedbacks coletados na planilha e anotar os insights e sugestões para melhorar os próximos encontros. Anotar feedbacks das dinâmicas, organização do evento e local.
 
@@ -400,7 +405,7 @@ Analisar os feedbacks coletados na planilha e anotar os insights e sugestões pa
 </details>
 
 <details id="w4-t5">
-<summary><strong>Postar Story de TBT do último encontro · #4.5</strong></summary>
+<summary><strong>Postar Story de TBT do último encontro · #4.5</strong> <Badge type="marketing" /></summary>
 
 Postar um Story de TBT do último encontro, para engajar a comunidade.
 
