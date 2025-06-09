@@ -92,9 +92,27 @@ import TabItem from "@theme/TabItem";
       allowfullscreen
     ></iframe>
   </TabItem>
+  <TabItem value="video5" label="5º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/IKH8rx69kxo"
+      title="SpeakUp Palmas – 5º encontro"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
 </Tabs>
 
 Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
+
+---
+
+## Redes & contato
+
+- Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
+- Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
+- LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
+- WhatsApp – [Grupo SpeakUp Palmas](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
 ---
 
@@ -106,15 +124,6 @@ A organização do SpeakUp Palmas é documentada em duas seções:
 - <Link to="/notes/category/in-person">Presencial</Link>: papéis, tarefas, templates e ideias para a organização dos eventos presenciais.
 
 Cada seção contém exemplos, sugestões e templates para ajudar na organização dos encontros e continuidade do projeto.
-
----
-
-## Redes & contato
-
-- Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
-- Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
-- LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
-- WhatsApp – [Grupo SpeakUp Palmas](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
 <br/>
 
