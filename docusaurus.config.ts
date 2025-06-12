@@ -11,6 +11,8 @@ const config: Config = {
   url: "https://tchez.dev",
   baseUrl: "/",
 
+  trailingSlash: true,
+
   organizationName: "tchez",
   projectName: "brain-blog",
 
