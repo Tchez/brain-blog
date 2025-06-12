@@ -5,7 +5,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 const config: Config = {
   title: "Brain Blog",
   tagline: "Blog to document my learning journey",
-  favicon: "img/favicon.ico",
+  favicon: "/img/favicon.ico",
 
   /* GitHub Pages */
   url: "https://tchez.dev",
@@ -77,7 +77,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    image: "img/logo-og.png",
+    image: "/img/logo-og.png",
     metadata: [
       /* ---------- SEO base ---------- */
       {
@@ -109,7 +109,7 @@ const config: Config = {
     },
     navbar: {
       title: "Brain Blog",
-      logo: { alt: "Brain Blog Logo", src: "img/logo.png" },
+      logo: { alt: "Brain Blog Logo", src: "/img/logo.png" },
       items: [
         { to: "/blog/welcome", label: "About Brain Blog", position: "left" },
         {
