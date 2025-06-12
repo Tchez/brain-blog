@@ -10,7 +10,7 @@ import Link from '@docusaurus/Link';
 
 <p align="center">
   <img 
-    src="/brain-blog/img/speakup/speakup-round.png"
+    src="/img/speakup/speakup-round.png"
     alt="Logotipo SpeakUp Palmas"
     width="180"
     height="180"

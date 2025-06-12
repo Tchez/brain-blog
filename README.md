@@ -21,7 +21,7 @@ Content is split into two pillars:
 
 ## Quick links
 
-| **Live site**    | <https://tchez.github.io/brain-blog/>           |
+| **Live site**    | <https://tchez.dev>                             |
 | ---------------- | ----------------------------------------------- |
 | **Welcome post** | [`/blog/welcome`](./blog/2025-05-04-welcome.md) |
 | **Notes home**   | [`/notes/intro`](./notes/intro.md)              |

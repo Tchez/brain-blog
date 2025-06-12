@@ -11,7 +11,7 @@ export default function Home(): ReactNode {
   const t = (en: string, pt: string) => (i18n.currentLocale === 'pt' ? pt : en);
 
   /* --- SEO helpers --- */
-  const siteUrl = 'https://tchez.github.io/brain-blog';
+  const siteUrl = 'https://tchez.dev/brain-blog';
   const ogImage = `${siteUrl}/img/logo-og.png`;
   const locale = i18n.currentLocale === 'pt' ? 'pt_BR' : 'en_US';
 

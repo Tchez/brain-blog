@@ -21,7 +21,7 @@ O conteúdo se divide em dois pilares:
 
 ## Links rápidos
 
-| **Site ao vivo**     | <https://tchez.github.io/brain-blog/>           |
+| **Site**             | <https://tchez.dev>                             |
 | -------------------- | ----------------------------------------------- |
 | **Post inicial**     | [`/blog/welcome`](./blog/2025-05-04-welcome.md) |
 | **Início das notas** | [`/notes/intro`](./notes/intro.md)              |
