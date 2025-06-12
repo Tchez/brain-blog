@@ -8,8 +8,9 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   /* GitHub Pages */
-  url: "https://tchez.github.io",
-  baseUrl: "/brain-blog/",
+  url: "https://tchez.dev",
+  baseUrl: "/",
+
   organizationName: "tchez",
   projectName: "brain-blog",
 
