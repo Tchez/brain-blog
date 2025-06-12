@@ -67,9 +67,9 @@ Depends on task <strong>#4.3</strong> (validate next meetup date).
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-save-the-date">Insta - Story | Save the Date</Link>
-- <Link to="./templates#wpp-msg-save-the-date">WhatsApp - Message | Save the Date</Link>
-- <Link to="./templates#wpp-msg-poll-attendance">WhatsApp - Message | Attendance Poll</Link>
+- <Link to="../templates#insta-story-save-the-date">Insta - Story | Save the Date</Link>
+- <Link to="../templates#wpp-msg-save-the-date">WhatsApp - Message | Save the Date</Link>
+- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Message | Attendance Poll</Link>
 
 </details>
 
@@ -104,8 +104,8 @@ Create an Instagram Story announcing the upcoming vote, then post the poll on Wh
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-poll-announce">Insta - Story | Poll Announcement</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
+- <Link to="../templates#insta-story-poll-announce">Insta - Story | Poll Announcement</Link>
+- <Link to="../templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
 
 </details>
 
@@ -116,8 +116,8 @@ Create suggestion boxes on Instagram and WhatsApp so the community can propose v
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Message | Venue Suggestions</Link>
+- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
+- <Link to="../templates#wpp-msg-suggestions">WhatsApp - Message | Venue Suggestions</Link>
 
 </details>
 
@@ -145,7 +145,7 @@ Depends on task <strong>#3.3</strong> (initial announcements during the event).
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-add-yours">Insta - Story | “Add Yours” Sticker Trend</Link>
+- <Link to="../templates#insta-story-add-yours">Insta - Story | “Add Yours” Sticker Trend</Link>
 
 </details>
 
@@ -174,10 +174,10 @@ Some activities may require input or help from group members. In these cases, co
 
 **Useful templates:**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Message | Suggestions</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
+- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
+- <Link to="../templates#wpp-msg-suggestions">WhatsApp - Message | Suggestions</Link>
+- <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
+- <Link to="../templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
 
 </details>
 
@@ -193,10 +193,10 @@ Depends on task <strong>#1.2</strong> (venue and time already defined).
 
 **Templates used:**
 
-- <Link to="./templates#insta-post-meeting-confirmation">Insta - Post | Meetup Confirmation</Link>
-- <Link to="./templates#insta-story-meeting-confirmation">Insta - Story | Meetup Confirmation</Link>
-- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn - Message | Meetup Confirmation</Link>
-- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp - Message | Meetup Confirmation</Link>
+- <Link to="../templates#insta-post-meeting-confirmation">Insta - Post | Meetup Confirmation</Link>
+- <Link to="../templates#insta-story-meeting-confirmation">Insta - Story | Meetup Confirmation</Link>
+- <Link to="../templates#linkedin-msg-meeting-confirmation">LinkedIn - Message | Meetup Confirmation</Link>
+- <Link to="../templates#wpp-msg-meeting-confirmation">WhatsApp - Message | Meetup Confirmation</Link>
 
 </details>
 
@@ -212,7 +212,7 @@ Depends on task <strong>#4.2</strong> (edited video from the last meetup).
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-tbt">Insta - Story | TBT Last Meetup</Link>
+- <Link to="../templates#insta-story-tbt">Insta - Story | TBT Last Meetup</Link>
 
 </details>
 
@@ -267,7 +267,7 @@ Post a final countdown Story on the meetup day itself.
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-countdown">Insta - Story | Countdown</Link>
+- <Link to="../templates#insta-story-countdown">Insta - Story | Countdown</Link>
 
 </details>
 
@@ -338,8 +338,8 @@ After creating the folders, share links to the photo folder and feedback form wi
 
 **Templates used:**
 
-- <Link to="./templates#wpp-msg-photos-drive">WhatsApp - Message | Meetup Photos</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
+- <Link to="../templates#wpp-msg-photos-drive">WhatsApp - Message | Meetup Photos</Link>
+- <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
 
 </details>
 
@@ -355,10 +355,10 @@ Post across all platforms: [Instagram](https://instagram.com/speakup_palmas), [L
 
 **Templates used:**
 
-- <Link to="./templates#insta-msg-video-description">Instagram - Message | Reels Description</Link>
-- <Link to="./templates#linkedin-msg-video-description">LinkedIn - Message | Video Description</Link>
-- <Link to="./templates#youtube-msg-video-description">YouTube - Message | Video Description</Link>
-- <Link to="./templates#tiktok-msg-video-description">TikTok - Message | Video Description</Link>
+- <Link to="../templates#insta-msg-video-description">Instagram - Message | Reels Description</Link>
+- <Link to="../templates#linkedin-msg-video-description">LinkedIn - Message | Video Description</Link>
+- <Link to="../templates#youtube-msg-video-description">YouTube - Message | Video Description</Link>
+- <Link to="../templates#tiktok-msg-video-description">TikTok - Message | Video Description</Link>
 
 </details>
 
@@ -378,8 +378,8 @@ If a date change is necessary, take the following actions:
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-notice">Insta - Story | Notice</Link>
-- <Link to="./templates#wpp-msg-new-date">WhatsApp - Message | New Date</Link>
+- <Link to="../templates#insta-story-notice">Insta - Story | Notice</Link>
+- <Link to="../templates#wpp-msg-new-date">WhatsApp - Message | New Date</Link>
 
 </details>
 
@@ -404,7 +404,7 @@ Depends on task <strong>#4.2</strong> (edited video from the last meetup).
 
 **Templates used:**
 
-- <Link to="./templates#insta-story-tbt">Insta - Story | TBT Last Meetup</Link>
+- <Link to="../templates#insta-story-tbt">Insta - Story | TBT Last Meetup</Link>
 
 </details>
 

@@ -66,9 +66,9 @@ Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-save-the-date">Insta - Story | Salve a data!</Link>
-- <Link to="./templates#wpp-msg-save-the-date">WhatsApp - Mensagem | Salve a data!</Link>
-- <Link to="./templates#wpp-msg-poll-attendance">WhatsApp - Mensagem | Votação de presença</Link>
+- <Link to="../templates#insta-story-save-the-date">Insta - Story | Salve a data!</Link>
+- <Link to="../templates#wpp-msg-save-the-date">WhatsApp - Mensagem | Salve a data!</Link>
+- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Mensagem | Votação de presença</Link>
 
 </details>
 
@@ -103,8 +103,8 @@ Criar Story de aviso no Instagram, informando que haverá uma votação no Whats
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-poll-announce">Insta - Story | Anúncio de enquete</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
+- <Link to="../templates#insta-story-poll-announce">Insta - Story | Anúncio de enquete</Link>
+- <Link to="../templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
 
 </details>
 
@@ -115,8 +115,8 @@ Criar uma caixinha de sugestões no Instagram e WhatsApp para que a comunidade p
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
+- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="../templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
 
 </details>
 
@@ -146,7 +146,7 @@ Depende da tarefa <strong>#3.3</strong> (avisos iniciais durante o encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-add-yours">Insta - Story | Trend adesivo "Sua Vez"</Link>
+- <Link to="../templates#insta-story-add-yours">Insta - Story | Trend adesivo "Sua Vez"</Link>
 
 </details>
 
@@ -176,10 +176,10 @@ Pra preparação de algumas dinâmicas pode ser preciso a opinião ou ajuda dos 
 
 **Templates úteis:**
 
-- <Link to="./templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
-- <Link to="./templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
-- <Link to="./templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
+- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="../templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
+- <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
+- <Link to="../templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
 
 </details>
 
@@ -195,10 +195,10 @@ Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro j
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-post-meeting-confirmation">Insta - Post | Confirmação do encontro</Link>
-- <Link to="./templates#insta-story-meeting-confirmation">Insta - Story | Confirmação de encontro</Link>
-- <Link to="./templates#linkedin-msg-meeting-confirmation">LinkedIn - Mensagem | Confirmação do encontro</Link>
-- <Link to="./templates#wpp-msg-meeting-confirmation">WhatsApp - Mensagem | Confirmação do encontro</Link>
+- <Link to="../templates#insta-post-meeting-confirmation">Insta - Post | Confirmação do encontro</Link>
+- <Link to="../templates#insta-story-meeting-confirmation">Insta - Story | Confirmação de encontro</Link>
+- <Link to="../templates#linkedin-msg-meeting-confirmation">LinkedIn - Mensagem | Confirmação do encontro</Link>
+- <Link to="../templates#wpp-msg-meeting-confirmation">WhatsApp - Mensagem | Confirmação do encontro</Link>
 
 </details>
 
@@ -214,7 +214,7 @@ Depende da tarefa <strong>#4.2</strong> (video editado do último encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
+- <Link to="../templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
 
 </details>
 
@@ -269,7 +269,7 @@ Postar um Story com contagem regressiva no dia do encontro.
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-countdown">Insta - Story | Contagem regressiva para o encontro</Link>
+- <Link to="../templates#insta-story-countdown">Insta - Story | Contagem regressiva para o encontro</Link>
 
 </details>
 
@@ -345,8 +345,8 @@ Após criada a estrutura, compartilhar o link da pasta de fotos e da planilha de
 
 **Templates utilizados:**
 
-- <Link to="./templates#wpp-msg-photos-drive">WhatsApp - Mensagem | Fotos do encontro</Link>
-- <Link to="./templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
+- <Link to="../templates#wpp-msg-photos-drive">WhatsApp - Mensagem | Fotos do encontro</Link>
+- <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
 
 </details>
 
@@ -363,10 +363,10 @@ Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_pal
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-msg-video-description">Insta - Mensagem | Descrição para reels do encontro</Link>
-- <Link to="./templates#linkedin-msg-video-description">LinkedIn - Mensagem | Descrição para vídeos do encontro</Link>
-- <Link to="./templates#youtube-msg-video-description">YouTube - Mensagem | Descrição para vídeos do encontro</Link>
-- <Link to="./templates#tiktok-msg-video-description">TikTok - Mensagem | Descrição para vídeos do encontro</Link>
+- <Link to="../templates#insta-msg-video-description">Insta - Mensagem | Descrição para reels do encontro</Link>
+- <Link to="../templates#linkedin-msg-video-description">LinkedIn - Mensagem | Descrição para vídeos do encontro</Link>
+- <Link to="../templates#youtube-msg-video-description">YouTube - Mensagem | Descrição para vídeos do encontro</Link>
+- <Link to="../templates#tiktok-msg-video-description">TikTok - Mensagem | Descrição para vídeos do encontro</Link>
 
 <!-- TODO: Criar template de video editado -->
 
@@ -388,8 +388,8 @@ Caso a data do próximo encontro coincida com um feriado ou evento importante, r
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-notice">Insta - Story | Aviso</Link>
-- <Link to="./templates#wpp-msg-new-date">WhatsApp - Mensagem | Definição de nova data</Link>
+- <Link to="../templates#insta-story-notice">Insta - Story | Aviso</Link>
+- <Link to="../templates#wpp-msg-new-date">WhatsApp - Mensagem | Definição de nova data</Link>
 
 </details>
 
@@ -416,7 +416,7 @@ Depende da tarefa <strong>#4.2</strong> (video editado do último encontro).
 
 **Templates utilizados:**
 
-- <Link to="./templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
+- <Link to="../templates#insta-story-tbt">Insta - Story | TBT último encontro</Link>
 
 </details>
 
