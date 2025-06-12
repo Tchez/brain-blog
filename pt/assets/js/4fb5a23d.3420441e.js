@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrain_blog=self.webpackChunkbrain_blog||[]).push([[2022],{7404:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/brain-blog/pt/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

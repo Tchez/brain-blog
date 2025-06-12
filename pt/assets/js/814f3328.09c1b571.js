@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrain_blog=self.webpackChunkbrain_blog||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Publicados recentemente","items":[{"title":"Bem\u2011vindo ao Brain\xa0Blog\xa0\ud83c\udf89","permalink":"/brain-blog/pt/blog/welcome","unlisted":false,"date":"2025-05-04T00:00:00.000Z"}]}')}}]);
