@@ -74,6 +74,16 @@ const config: Config = {
         editUrl: "https://github.com/tchez/brain-blog/edit/main/",
       },
     ],
+    [
+      "@docusaurus/plugin-ideal-image",
+      {
+        quality: 100,
+        max: 1030,
+        min: 640,
+        steps: 3,
+        disableInDev: false,
+      },
+    ],
   ],
 
   themeConfig: {
