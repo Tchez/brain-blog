@@ -1,11 +1,13 @@
 ---
 title: "Você sabe o que são métodos mágicos em Python? Dica: Você usa todos os dias!"
 description: "Neste artigo, vamos explorar o fascinante mundo dos métodos mágicos em Python, seu propósito e como eles podem aprimorar sua experiência de codificação."
-slug: "/dunder-methods"
+slug: "dunder-methods"
 authors: [tchez]
 tags: [python, programação, artigo]
 image: /img/blog/dunder-methods/article-og.png
 ---
+
+> Este artigo foi originalmente publicado em [LinkedIn](https://www.linkedin.com/pulse/voc%25C3%25AA-sabe-o-que-s%25C3%25A3o-m%25C3%25A9todos-m%25C3%25A1gicos-em-python-dica-os-marco-ant%25C3%25B4nio-zcgbf)
 
 ![Dunder Methods](/img/blog/dunder-methods/article-og.png)
 

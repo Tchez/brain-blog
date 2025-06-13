@@ -1,11 +1,13 @@
 ---
 title: "Do you know what magic methods are in Python? Hint: You use them every day!"
 description: "In this article, we will explore the fascinating world of magic methods in Python, their purpose, and how they can enhance your coding experience. Let's dive in!"
-slug: "/dunder-methods"
+slug: "dunder-methods"
 authors: [tchez]
 tags: [python, programming, article]
 image: /img/blog/dunder-methods/article-og.png
 ---
+
+> This article was originally published on [LinkedIn](https://www.linkedin.com/pulse/voc%25C3%25AA-sabe-o-que-s%25C3%25A3o-m%25C3%25A9todos-m%25C3%25A1gicos-em-python-dica-os-marco-ant%25C3%25B4nio-zcgbf).
 
 ![Dunder Methods](/img/blog/dunder-methods/article-og.png)
 
