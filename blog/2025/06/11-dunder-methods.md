@@ -263,6 +263,11 @@ I hope this article has shed some light on the fascinating world of dunder metho
 
 ## References
 
+<details>
+<summary><strong>Links</strong></summary>
+
 - [Python Official Documentation - Data Model](https://docs.python.org/3/reference/datamodel.html)
 - [Dunder methods | Pydon't 🐍](https://mathspp.com/blog/pydonts/dunder-methods)
 - [Dunder methods in Python, really crazy functions](https://nitesh-yadav.medium.com/dunder-methods-in-python-really-crazy-functions-3455ecb6472d)
+
+</details>

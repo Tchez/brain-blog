@@ -78,7 +78,7 @@ const config: Config = {
       "@docusaurus/plugin-ideal-image",
       {
         quality: 100,
-        max: 1030,
+        max: 1200,
         min: 640,
         steps: 3,
         disableInDev: false,
