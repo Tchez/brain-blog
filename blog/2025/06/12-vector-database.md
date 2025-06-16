@@ -4,7 +4,7 @@ description: "In a world flooded with unstructured data, how can we store not ju
 slug: "vector-database"
 authors: [tchez]
 tags: [rag, ai, programming, article]
-image: /img/vector-database-og.png
+image: /img/blog/vector-database/article-og.png
 keywords:
   [
     vector storage,
