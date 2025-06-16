@@ -5,6 +5,16 @@ slug: "vector-database"
 authors: [tchez]
 tags: [rag, ai, programming, article]
 image: /img/blog/vector-database/article-og.png
+keywords:
+  [
+    vector storage,
+    vector database,
+    embeddings,
+    natural language processing,
+    similarity search,
+    ai applications,
+    knowledge storage,
+  ]
 ---
 
 import Image from "@theme/IdealImage";

@@ -1,10 +1,20 @@
 ---
 title: "Como armazenar conhecimento com bancos de dados vetoriais?"
 description: "Em um mundo inundado de dados não estruturados, como podemos armazenar não apenas informações, mas conhecimento? Este artigo mergulha nos bancos de dados vetoriais - uma abordagem revolucionária que permite busca baseada em similaridade e compreensão semântica. Aprenda como vetores e embeddings reformulam o armazenamento de dados, potencializam aplicações avançadas de IA e marcam uma mudança dos bancos de dados tradicionais para sistemas orientados ao conhecimento."
-slug: "vector-database"
+slug: vector-database
 authors: [tchez]
 tags: [rag, ai, programming, article]
 image: /img/blog/vector-database/article-og-pt.png
+keywords:
+  [
+    banco de dados vetorial,
+    armazenamento de conhecimento,
+    busca semântica,
+    embeddings,
+    inteligência artificial,
+    PNL,
+    recuperação aumentada por geração,
+  ]
 ---
 
 import Image from "@theme/IdealImage";

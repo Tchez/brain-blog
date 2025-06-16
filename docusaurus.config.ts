@@ -59,6 +59,11 @@ const config: Config = {
           editUrl: "https://github.com/tchez/brain-blog/edit/main/",
         },
         theme: { customCss: "./src/css/custom.css" },
+        sitemap: {
+          changefreq: "daily",
+          priority: 0.7,
+          filename: "sitemap.xml",
+        },
       } satisfies Preset.Options,
     ],
   ],
