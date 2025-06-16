@@ -4,7 +4,7 @@ description: "Em um mundo inundado de dados não estruturados, como podemos arma
 slug: vector-database
 authors: [tchez]
 tags: [rag, ai, programming, article]
-image: /img/blog/vector-database/article-og-pt.png
+image: /img/vector-database-og-pt.png
 keywords:
   [
     banco de dados vetorial,
