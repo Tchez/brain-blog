@@ -324,14 +324,14 @@ _Goal: organize files, gather feedback, and extract insights._
 Create a folder structure on Google Drive for the meetup as follows:
 
 ```plaintext
-📂 X° Meetup
-├── 📂 Videos
-│   ├── 📂 Raw      -> unedited clips from admins
-│   └── 📂 Edited   -> edited videos
-├── 📂 Photos        -> public folder for attendees to share pics
-└── 📂 Feedbacks
-├── Feedback Spreadsheet   -> collect feedback
-└── Form Responses         -> exported form answers
+📂 Xth Meetup
+    ├── 📂 Videos
+    │   ├── 📂 Raw      -> raw videos recorded by the admins
+    │   └── 📂 Edited   -> edited videos
+    ├── 📂 Xth Meetup Photos        -> public folder for participants to share their photos
+    └── 📂 Feedback
+         ├── Feedback spreadsheet   -> spreadsheet to collect participant feedback
+         └── Form responses         -> feedback form responses
 ```
 
 After creating the folders, share links to the photo folder and feedback form with attendees.

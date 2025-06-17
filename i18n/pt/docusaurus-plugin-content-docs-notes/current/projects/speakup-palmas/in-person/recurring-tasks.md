@@ -328,14 +328,14 @@ _Objetivo: organizar o drive, coletar feedbacks e analisar insights._
 Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
 
 ```plaintext
-📂 X° Meetup
+📂 Xth Meetup
    ├── 📂 Videos
    │   ├── 📂 Raw      -> vídeos brutos gravados pelos ADMs
    │   └── 📂 Edited   -> vídeos editados
-   ├── 📂 Photos        -> pasta pública, para que os participantes compartilhem as fotos
-   └── 📂 Feedbacks
-      |── Planilha de feedbacks    -> planilha para coletar feedbacks dos participantes
-      └── Respostas do formulário  -> respostas do formulário de feedback
+   ├── 📂 Xth Meetup Photos       -> pasta pública, para que os participantes compartilhem as fotos
+   └── 📂 Feedback
+       ├── Feedback spreadsheet   -> planilha para coletar feedbacks dos participantes
+       └── Form responses         -> respostas do formulário de feedback
 ```
 
 <!-- TODO: Deixar modelo de planilha público -->
