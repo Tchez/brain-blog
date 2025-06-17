@@ -108,7 +108,7 @@ image: /img/speakup/speakup-og.png
 **Objetivo:** Padronizar a descrição e hashtags dos vídeos.
 
 ```plaintext
-O [INSERIR NÚMERO DO ENCONTRO]º Encontro do SpeakUp Palmas foi um sucesso.
+O [NÚMERO DO ENCONTRO]º Encontro do SpeakUp Palmas foi um sucesso.
 
 🎥 Confira os melhores momentos!
 
@@ -316,31 +316,9 @@ Hashtags sugeridas:
 **Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
 
 ```plaintext
-🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
+🎥 Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial!
 
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
-Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
-```
-
-Hashtags sugeridas:
-
-```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
-```
-
----
-
-## YouTube - Mensagem | Descrição para vídeos do encontro {#youtube-msg-video-description}
-
-**Descrição:** Um modelo de mensagem para a descrição dos vídeos do encontro no YouTube.
-
-**Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
-
-```plaintext
-🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
-
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
-Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
 Let’s SpeakUp!
 ```
@@ -353,6 +331,43 @@ Hashtags sugeridas:
 
 ---
 
+## YouTube - Mensagem | Descrição para vídeos do encontro {#youtube-msg-video-description}
+
+**Descrição:** Template para a os vídeos curtos do encontro no YouTube.
+
+**Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
+
+> Título
+
+```plaintext
+[NÚMERO DO ENCONTRO]° Encontro Presencial do SpeakUp Palmas
+```
+
+> Descrição
+
+```plaintext
+Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
+
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+
+Let’s SpeakUp!
+```
+
+> Hashtags sugeridas
+
+```plaintext
+#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+```
+
+> Outros passos
+
+1. Preencher informações acima na criação do vídeo curto (Shorts) no YouTube.
+2. Escolher miniatura (Thumbnail) do vídeo.
+3. Adicionar o vídeo à playlist de encontros presenciais.
+4. Adicionar video do encontro anterior como video relacionado
+
+---
+
 ## TikTok - Mensagem | Descrição para vídeos do encontro {#tiktok-msg-video-description}
 
 **Descrição:** Um modelo de mensagem para a descrição dos vídeos do encontro no TikTok.
@@ -360,10 +375,9 @@ Hashtags sugeridas:
 **Objetivo:** Divulgar os vídeos do evento e aumentar o engajamento.
 
 ```plaintext
-🎥 Confira os melhores momentos do nosso [INSERIR NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
+🎥 Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial!
 
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita.
-Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
 Let’s SpeakUp!
 ```
