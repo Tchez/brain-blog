@@ -13,33 +13,85 @@ image: /img/speakup/speakup-og.png
 
 ---
 
+import ResponsiveImage from '@site/src/components/ResponsiveImage';
+
 ## Insta - Story | Salve a data! {#insta-story-save-the-date}
 
 **Descrição:** Um modelo de story para anunciar a data do próximo encontro.
 
 **Objetivo:** Informar seguidores sobre a data do próximo encontro, incentivando o engajamento inicial e reservas na agenda.
 
-![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
+<ResponsiveImage
+img='/img/speakup/templates/save-the-date-pt.png'
+alt="Modelo de story para 'salve a data'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGq_sREVXw/DKRmTXzNjoeg6W73jWKCgw/edit?utm_content=DAGq_sREVXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
 
 ---
 
-## Insta - Story | Anúncio de enquete {#insta-story-poll-announce}
+## Insta - Story | Comunicado Geral {#insta-story-general-announcement}
 
-**Descrição:** Um modelo de story para anunciar uma enquete interativa, que acontecerá no grupo do WhatsApp.
+**Descrição:** Um modelo de story para comunicados gerais, como anúncios e atualizações importantes.
+
+**Objetivo:** Chamar a atenção dos seguidores para informações importantes, por meio de um comunicado visualmente atraente.
+
+<ResponsiveImage
+img='/img/speakup/templates/story-general-announcement-pt.png'
+alt="Modelo de story para 'comunicado geral'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGrAXyRk9Q/rwp5DEVIeC-cLZ8G0vJFHg/edit?utm_content=DAGrAXyRk9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
+
+---
+
+## Insta - Story | Anúncio de enquete {#insta-story-poll-announcement}
+
+**Descrição:** Utiliza o modelo de story ["comunicado geral"](#insta-story-general-announcement) para fazer o comunicado sobre a enquete interativa que acontecerá no grupo do WhatsApp.
 
 **Objetivo:** "Call to action" para que os seguidores entrem no grupo do WhatsApp e participem da enquete.
 
-![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
+<ResponsiveImage
+img='/img/speakup/templates/story-poll-announcement-pt.png'
+alt="Modelo de story para 'anúncio de enquete'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGrAXyRk9Q/rwp5DEVIeC-cLZ8G0vJFHg/edit?utm_content=DAGrAXyRk9Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
 
 ---
 
-## Insta - Story | Caixinha de perguntas / sugestões {#insta-story-question-box-suggestions}
+## Insta - Story | Caixinha geral de perguntas / sugestões {#insta-story-general-question-box}
 
-**Descrição:** Um modelo de story com uma caixinha de perguntas para coletar perguntas ou sugestões dos seguidores.
+**Descrição:** Um modelo generalista de story para fazer caixinhas de pergunta.
 
-**Objetivo:** Aumentar a interação, obter feedback dos participantes ou coletar idéias e sugestões dos seguidores.
+**Objetivo:** Template que será utilizado para diversos tipos de caixinhas de perguntas, como sugestões de locais, temas, feedbacks, etc.
 
-![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
+<ResponsiveImage
+img='/img/speakup/templates/story-general-question-box-pt.png'
+alt="Modelo de story para 'caixinha geral de perguntas / sugestões'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGrBTT4r8c/rpJUlttquDAA5-khKbL7_A/edit?utm_content=DAGrBTT4r8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
+
+---
+
+## Insta - Story | Caixinha de sugestões de local para o próximo encontro {#insta-story-question-box-location-suggestions}
+
+**Descrição:** Utiliza o modelo de story ["caixinha geral de perguntas / sugestões"](#insta-story-general-question-box) para fazer uma caixinha de sugestões de locais para o próximo encontro.
+
+**Objetivo:** Coletar sugestões de locais para o próximo encontro, incentivando a participação dos seguidores.
+
+<ResponsiveImage
+img='/img/speakup/templates/story-question-box-location-suggestions-pt.png'
+alt="Modelo de story para 'caixinha de sugestões de local para o próximo encontro'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGrBTT4r8c/rpJUlttquDAA5-khKbL7_A/edit?utm_content=DAGrBTT4r8c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
 
 ---
 
@@ -59,7 +111,13 @@ image: /img/speakup/speakup-og.png
 
 **Objetivo:** Garantir que todos estejam cientes do local, data e hora definidos para o encontro.
 
-![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
+<ResponsiveImage
+img='/img/speakup/templates/meeting-confirmation-pt.png'
+alt="Descrição da imagem"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGq_sREVXw/DKRmTXzNjoeg6W73jWKCgw/edit?utm_content=DAGq_sREVXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
 
 ---
 
@@ -78,16 +136,6 @@ image: /img/speakup/speakup-og.png
 **Descrição:** Um modelo de story para criar expectativa antes do evento, com um adesivo de contagem regressiva.
 
 **Objetivo:** Lembrar os seguidores do evento e aumentar o engajamento.
-
-![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
-
----
-
-## Insta - Story | Aviso {#insta-story-notice}
-
-**Descrição:** Um modelo de story para comunicar informações importantes sobre o evento, para avisos diversos.
-
-**Objetivo:** Garantir que os seguidores estejam atualizados com os detalhes do evento. Deve ser chamativo e direto.
 
 ![Placeholder Image](https://placehold.co/300x500) <!-- TODO: Criar template visual para este story -->
 

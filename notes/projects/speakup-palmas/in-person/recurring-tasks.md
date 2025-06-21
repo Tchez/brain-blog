@@ -104,7 +104,7 @@ Create an Instagram Story announcing the upcoming vote, then post the poll on Wh
 
 **Templates used:**
 
-- <Link to="../templates#insta-story-poll-announce">Insta - Story | Poll Announcement</Link>
+- <Link to="../templates#insta-story-poll-announcement">Insta - Story | Poll Announcement</Link>
 - <Link to="../templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
 
 </details>
@@ -116,7 +116,7 @@ Create suggestion boxes on Instagram and WhatsApp so the community can propose v
 
 **Templates used:**
 
-- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
+- <Link to="../templates#insta-story-question-box-location-suggestions">Insta - Story | Suggestion Box</Link>
 - <Link to="../templates#wpp-msg-suggestions">WhatsApp - Message | Venue Suggestions</Link>
 
 </details>
@@ -174,7 +174,7 @@ Some activities may require input or help from group members. In these cases, co
 
 **Useful templates:**
 
-- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Suggestion Box</Link>
+- <Link to="../templates#insta-story-question-box-location-suggestions">Insta - Story | Suggestion Box</Link>
 - <Link to="../templates#wpp-msg-suggestions">WhatsApp - Message | Suggestions</Link>
 - <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
 - <Link to="../templates#wpp-msg-poll-local">WhatsApp - Message | Group Poll</Link>
@@ -372,13 +372,14 @@ Make sure the next meetup (3rd Sunday of the month) doesn’t fall on a holiday 
 
 If a date change is necessary, take the following actions:
 
-1. Post a notice on Instagram (include reason if needed and mention WhatsApp vote).
+1. Post a announcement about the date change on Instagram, using the Poll Announcement template.
+   - Example: "Due to a holiday, we need to reschedule our next meetup. To choose a new date, we'll create a poll on WhatsApp. To participate, join our WhatsApp group!"
 2. Create a WhatsApp poll to choose a new date.
 3. Announce the new date on Instagram and WhatsApp.
 
 **Templates used:**
 
-- <Link to="../templates#insta-story-notice">Insta - Story | Notice</Link>
+- <Link to="../templates#insta-story-poll-announcement">Insta - Story | Poll Announcement</Link>
 - <Link to="../templates#wpp-msg-new-date">WhatsApp - Message | New Date</Link>
 
 </details>

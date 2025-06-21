@@ -103,7 +103,7 @@ Criar Story de aviso no Instagram, informando que haverá uma votação no Whats
 
 **Templates utilizados:**
 
-- <Link to="../templates#insta-story-poll-announce">Insta - Story | Anúncio de enquete</Link>
+- <Link to="../templates#insta-story-poll-announcement">Insta - Story | Anúncio de enquete</Link>
 - <Link to="../templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
 
 </details>
@@ -115,7 +115,7 @@ Criar uma caixinha de sugestões no Instagram e WhatsApp para que a comunidade p
 
 **Templates utilizados:**
 
-- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="../templates#insta-story-question-box-location-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
 - <Link to="../templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
 
 </details>
@@ -176,7 +176,7 @@ Pra preparação de algumas dinâmicas pode ser preciso a opinião ou ajuda dos 
 
 **Templates úteis:**
 
-- <Link to="../templates#insta-story-question-box-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
+- <Link to="../templates#insta-story-question-box-location-suggestions">Insta - Story | Caixinha de perguntas / sugestões</Link>
 - <Link to="../templates#wpp-msg-suggestions">WhatsApp - Mensagem | Sugestões de local</Link>
 - <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Mensagem | Formulário de feedback</Link>
 - <Link to="../templates#wpp-msg-poll-local">WhatsApp - Mensagem | Enquete no grupo</Link>
@@ -382,13 +382,13 @@ Garantir que a data do próximo encontro (3° domingo do mês) não seja um feri
 
 Caso a data do próximo encontro coincida com um feriado ou evento importante, realizar as seguintes ações:
 
-1. Fazer um aviso sobre a mudança de data no Instagram utilizando o template de aviso. (explicar motivo, caso seja necessário e avisar sobre a votação no WhatsApp).
+1. Fazer um aviso sobre a mudança de data no Instagram utilizando o template de anúncio de enquete. (explicar motivo, caso seja necessário e avisar sobre a votação no WhatsApp).
 2. Criar uma enquete no WhatsApp para definir uma nova data.
 3. Divulgar a nova data no Instagram e WhatsApp, utilizando o template de aviso.
 
 **Templates utilizados:**
 
-- <Link to="../templates#insta-story-notice">Insta - Story | Aviso</Link>
+- <Link to="../templates#insta-story-poll-announcement">Insta - Story | Anúncio de Enquete</Link>
 - <Link to="../templates#wpp-msg-new-date">WhatsApp - Mensagem | Definição de nova data</Link>
 
 </details>

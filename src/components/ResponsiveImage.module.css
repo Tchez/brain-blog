@@ -1,0 +1,44 @@
+.imageContainer {
+  /* Removemos o 'margin: auto' daqui e mantemos apenas o espaçamento vertical */
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  display: block;
+}
+
+.imageContainer:hover {
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
+}
+
+.image {
+  display: block;
+  width: 100%;
+}
+
+.imageLink {
+  text-decoration: none;
+}
+
+/* --- NOVAS CLASSES DE ALINHAMENTO --- */
+
+/* Alinhamento à esquerda (start) */
+.align--start {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+/* Alinhamento centralizado */
+.align--center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Alinhamento à direita (end) */
+.align--end {
+  margin-left: auto;
+  margin-right: 0;
+}
