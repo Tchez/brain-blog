@@ -66,8 +66,6 @@ Esses canais estarão disponíveis de acordo com o nível do membro:
 - **lounge** — Sala geral e livre para conversas espontâneas.
 - **events** — Sala para realização dos encontros principais.
 - **games** — Canal de voz voltado a jogos e dinâmicas.
-- **conversation-1** — Sala fixa para prática de conversação.
-- **conversation-2** — Sala alternativa para conversas paralelas.
 - **devs-room** — Sala para quem trabalha com tecnologia.
 
 ---
