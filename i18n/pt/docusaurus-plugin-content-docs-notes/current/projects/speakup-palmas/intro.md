@@ -2,6 +2,7 @@
 title: SpeakUp Palmas
 description: Comunidade gratuita que conecta pessoas para praticar conversação em inglês,presencialmente e on-line.
 image: /img/speakup/speakup-og.png
+slug: /speakup-palmas
 keywords:
   [palmas, speakup, comunidade, inglês, conversação, speak up, speakup palmas]
 ---
