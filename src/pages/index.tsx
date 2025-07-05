@@ -127,7 +127,7 @@ export default function Home(): ReactNode {
               {t('A free community that connects people to practice English conversation, online or in person.',
                 'Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.')}
             </p>
-            <Link className="button button--primary" to="/notes/projects/speakup-palmas/intro">
+            <Link className="button button--primary" to="/notes/speakup-palmas">
               {t('Learn more', 'Saiba mais')}
             </Link>
           </div>
