@@ -89,6 +89,21 @@ const config: Config = {
         disableInDev: false,
       },
     ],
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        redirects: [
+          {
+            from: "/pt/notes/projects/speakup-palmas/intro",
+            to: "/notes/speakup-palmas",
+          },
+          {
+            from: "/notes/projects/speakup-palmas/intro",
+            to: "/notes/speakup-palmas",
+          },
+        ],
+      },
+    ],
   ],
 
   themeConfig: {
