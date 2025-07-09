@@ -141,18 +141,6 @@ export default function Home(): ReactNode {
               {t('Learn more', 'Saiba mais')}
             </Link>
           </div>
-          <div className={styles.projectCard}>
-            <h3 className={styles.projectCardTitle}>{t('AI Learning Journey', 'Jornada de Aprendizado em IA')}</h3>
-            <p className={styles.projectCardDescription}>
-              {t(
-                'Follow my journey learning and building AI projects. With roadmaps, structured notes, and tutorials.',
-                'Acompanhe minha jornada aprendendo e construindo projetos de IA. Com roadmaps, notas estruturadas e tutoriais.',
-              )}
-            </p>
-            <Link className="button button--primary" to="/notes/journeys/learning-ai/intro">
-              {t('Learn more', 'Saiba mais')}
-            </Link>
-          </div>
         </div>
       </section>
     </Layout>

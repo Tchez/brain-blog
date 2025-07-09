@@ -8,7 +8,7 @@ sidebar_position: 0
 
 ## Propósito
 
-Documentar meus projetos e ideias futuras, relacionados ou não à tecnologia. O objetivo é registrar os detalhes dos meus projetos pessoais, como funcionam, o que aprendi, desafios enfrentados, as soluções encontradas, os erros cometidos e aprendizados.
+O objetivo desta seção é documentar meus projetos e ideias futuras, relacionados ou não à tecnologia. Quero registrar os detalhes dos projetos, documentar como funcionam, compartilhar aprendizados e reflexões, e também manter um portfólio do meu trabalho.
 
 ## Como está organizado
 
@@ -22,23 +22,24 @@ import Link from '@docusaurus/Link';
 
 <div className="cardsGrid">
   <Link className="card" to="/blog/welcome">
+    <!-- TODO: Criar documentação para o Brain Blog e atualizar todos os /blog/welcome -->
     <h3>Brain Blog</h3>
-    <p>Um blog e caderno de anotações público, com jornadas de aprendizado, notas de estudos e documentação de projetos.</p>
+    <p>Este site! Um blog e caderno de anotações público.</p>
   </Link>
   <Link className="card" to="/notes/speakup-palmas">
     <h3>SpeakUp Palmas</h3>
-    <p>Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.</p>
+    <p>Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online e presencialmente.</p>
   </Link>
 </div>
 
 ## Projetos concluídos {#completed}
 
-<div class="alert alert--info"><strong>Em breve!</strong> Em breve, irei documentar projetos que já finalizei.</div>
+<div class="alert alert--info"><strong>Em breve</strong> irei documentar projetos que já finalizei.</div>
 
 <!-- TODO: Criar documentação para projetos concluídos -->
 
 ## Ideias {#ideas}
 
-<div class="alert alert--info"><strong>Em breve!</strong> Em breve, irei documentar ideias e sugestões para projetos futuros.</div>
+<div class="alert alert--info"><strong>Em breve!</strong> irei documentar ideias e sugestões para projetos futuros.</div>
 
 <!-- TODO: Criar documentação para ideias e sugestões -->

@@ -52,11 +52,9 @@ import TabItem from "@theme/TabItem";
 
     Aqui você encontrará anotações, resumos e referências sobre temas que estou estudando. O objetivo é criar um repositório de conhecimento que possa ser útil para mim e para outras pessoas.
 
-    As notas estão divididas em três categorias:
+    Por enquanto, esta seção inclui apenas meus projetos:
 
-    - **[Fundamentos](/notes/foundations/intro)**: explicações de fundamentos de programação, como algoritmos, protocolos, linguagens, etc.
     - **[Projetos](/notes/projects/intro)**: anotações sobre projetos que estou desenvolvendo ou ideias que estou explorando.
-    - **[Jornadas](/notes/journeys/intro)**: cada jornada documenta o processo de aprendizado de um tema específico, com links para referências e anotações dos materiais estudados.
 
   </TabItem>
 </Tabs>

@@ -8,7 +8,7 @@ sidebar_position: 0
 
 ## Purpose
 
-This section documents my projects, both ongoing and completed, as well as ideas for future endeavors. It serves as a portfolio of my work and a space to share insights and learning experiences.
+The purpose of this section is to document my projects and future ideas, whether related to technology or not. I want to record the details of the projects, document how they work, share learnings and reflections, and also maintain a portfolio of my work.
 
 ## How it is organized
 
@@ -23,11 +23,11 @@ import Link from '@docusaurus/Link';
 <div className="cardsGrid">
   <Link className="card" to="/blog/welcome">
     <h3>Brain Blog</h3>
-    <p>A public blog and notebook with learning journeys, study notes, and project documentation.</p>
+    <p>This site! A public blog and notebook.</p>
   </Link>
   <Link className="card" to="/notes/speakup-palmas">
     <h3>SpeakUp Palmas</h3>
-    <p>A free community connecting people to practice English conversation, online or in-person.</p>
+    <p>A free community connecting people to practice English conversation, online and in-person.</p>
   </Link>
 </div>
 
