@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 description: "Standardized messages, posts, and communication templates."
-sidebar_position: 2
+sidebar_position: 5
 image: /img/speakup/speakup-og.png
 ---
 

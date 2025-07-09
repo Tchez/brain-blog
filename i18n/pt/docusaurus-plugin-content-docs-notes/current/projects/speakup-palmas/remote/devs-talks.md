@@ -1,7 +1,7 @@
 ---
 title: "Tech Talks para Devs"
 description: "Dinâmicas para desenvolvedores praticarem inglês técnico com conteúdo relevante."
-sidebar_position: 6
+sidebar_position: 4
 image: /img/speakup/speakup-og.png
 ---
 
@@ -18,7 +18,9 @@ Espaço para encontros mensais ou quinzenais voltados exclusivamente para a comu
 
 ### Objetivos
 
-- Praticar vocabulário técnico em inglês  
-- Desenvolver habilidade de fala pública (public speaking)  
-- Criar uma rede de apoio entre devs que também querem se desenvolver no idioma  
-- Estimular o compartilhamento de experiências reais do dia a dia da profissão  
+- Praticar vocabulário técnico em inglês
+- Desenvolver habilidade de fala pública (public speaking)
+- Criar uma rede de apoio entre devs que também querem se desenvolver no idioma
+- Estimular o compartilhamento de experiências reais do dia a dia da profissão
+
+<!-- TODO: Juntar em atividades, deixar como seção das Atividades e Dinâmicas -->

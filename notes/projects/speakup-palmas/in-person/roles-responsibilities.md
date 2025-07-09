@@ -19,7 +19,7 @@ image: /img/speakup/speakup-og.png
 
 **Role:** Manage SpeakUp Palmas’ digital presence, driving engagement and event promotion.
 
-**Who can be:** Anyone interested in communication, social media, audiovisual creation or content-marketing.  
+**Who can be one:** Anyone interested in communication, social media, audiovisual creation or content-marketing.  
 Each admin may focus on one or several fronts depending on skills and time.
 
 **Responsibilities:**
@@ -41,7 +41,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 **Role:** Plan, refresh and execute the activities run during the meetups.
 
-**Who can be:** Creative, communicative people who enjoy proposing or leading group activities.
+**Who can be one:** Creative, communicative people who enjoy proposing or leading group activities.
 
 **Responsibilities:**
 
@@ -59,7 +59,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 **Role:** Ensure the physical event setup is organized and adequate.
 
-**Who can be:** Organized, proactive people who are good at solving last-minute issues.
+**Who can be one:** Organized, proactive people who are good at solving last-minute issues.
 
 **Responsibilities:**
 
@@ -77,7 +77,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 **Role:** Lead, delegate and track deliveries for their team.
 
-**Who can be:** Committed, organized people with leadership skills.
+**Who can be one:** Committed, organized people with leadership skills.
 
 **Responsibilities:**
 
@@ -96,7 +96,7 @@ Each admin may focus on one or several fronts depending on skills and time.
 
 **Role:** Contribute on an ad-hoc basis — attending, suggesting or promoting.
 
-**Who can be:** Anyone willing to help but without the time / desire to hold an admin role.
+**Who can be one:** Anyone willing to help but without the time / desire to hold an admin role.
 
 **Responsibilities:**
 

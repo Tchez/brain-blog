@@ -1,7 +1,7 @@
 ---
 title: "Tech Talks for Devs"
 description: "Sessions for developers to practice technical English through engaging content."
-sidebar_position: 6
+sidebar_position: 4
 image: /img/speakup/speakup-og.png
 ---
 

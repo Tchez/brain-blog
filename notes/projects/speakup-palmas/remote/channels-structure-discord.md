@@ -1,7 +1,7 @@
 ---
 title: "Discord Channels and Structure"
 description: "Organization and structure of the SpeakUp server on Discord."
-sidebar_position: 4
+sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 

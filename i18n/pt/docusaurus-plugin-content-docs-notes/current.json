@@ -3,37 +3,9 @@
     "message": "Próximo",
     "description": "The label for version current"
   },
-  "sidebar.notesSidebar.category.Foundations": {
-    "message": "Fundamentos",
-    "description": "The label for category Foundations in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Foundations.link.generated-index.title": {
-    "message": "Fundamentos",
-    "description": "The generated-index page title for category Foundations in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Journeys": {
-    "message": "Jornadas",
-    "description": "The label for category Journeys in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Journeys.link.generated-index.title": {
-    "message": "Jornadas",
-    "description": "The generated-index page title for category Journeys in sidebar notesSidebar"
-  },
   "sidebar.notesSidebar.category.Projects": {
     "message": "Projetos",
     "description": "The label for category Projects in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Projects.link.generated-index.title": {
-    "message": "Projetos",
-    "description": "The generated-index page title for category Projects in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Learning AI": {
-    "message": "Learning AI",
-    "description": "The label for category Learning AI in sidebar notesSidebar"
-  },
-  "sidebar.notesSidebar.category.Learning AI.link.generated-index.title": {
-    "message": "Learning AI",
-    "description": "The generated-index page title for category Learning AI in sidebar notesSidebar"
   },
   "sidebar.notesSidebar.category.SpeakUp Palmas": {
     "message": "SpeakUp Palmas",
