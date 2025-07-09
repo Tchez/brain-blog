@@ -1,4 +1,7 @@
 {
   "label": "Projetos",
-  "link": { "type": "generated-index", "title": "Projetos" }
+  "link": {
+    "type": "doc",
+    "id": "intro"
+  }
 }

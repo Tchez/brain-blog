@@ -17,7 +17,7 @@ import Link from '@docusaurus/Link';
 
 <div className="cardsGrid">
 
-<Link className="card" to="/notes/category/projects">
+<Link className="card" to="/notes/projects/intro">
   <h3>Projects</h3>
   <p>Build diaries and ideas in progress – the first one is this very Brain Blog.</p>
 </Link>
