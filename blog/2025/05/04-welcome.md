@@ -44,14 +44,12 @@ import TabItem from "@theme/TabItem";
   <TabItem value="notes" label="Notes">
     <br/>
     > A structured knowledge vault.
-    
-    I publish notes, summaries and references from everything I study,
-    turning them into a reusable base.
-    
-    Notes are split into three sections:
-    
-    - **[Foundations](/notes/foundations/intro)** – core explanations of fundamentals (math, algorithms, protocols…).
-    - **[Projects](/notes/projects/intro)** – write‑ups of things I’m building or ideas I’m exploring.
-    - **[Journeys](/notes/journeys/intro)** – step‑by‑step road‑maps of mastering a specific topic, linking to resources and notes.
+
+    Here you’ll find study notes, summaries and references on topics I’m exploring. The goal is to create a knowledge repository that’s useful for me and others.
+
+    For now, this section includes just my projects:
+
+    - **[Projects](/notes/projects/intro)** – write‑ups and documentation of things I’m building or ideas I’m exploring.
+
   </TabItem>
 </Tabs>
