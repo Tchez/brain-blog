@@ -19,25 +19,6 @@ Below are the roles that help the club to run smoothly, kindly, and purposefully
 
 ---
 
-## Host {#host}
-
-<div className="alert alert--info" role="alert">Facilitates English conversation sessions in a welcoming and engaging way.</div>
-
-<br/>
-
-**Role**: Guide the sessions in a welcoming way, promoting a safe and engaging environment.  
-**Who can be one**: Anyone with intermediate English proficiency and a willingness to chat with the group.
-
-**Responsibilities**:
-
-- Start and end sessions at the agreed time.
-- Suggest topics (we can help with ideas too!).
-- Encourage participation with empathy.
-- Handle pauses or discomfort gently.
-- Keep the session dynamic and enjoyable.
-
----
-
 ## Moderator {#moderator}
 
 <div className="alert alert--info" role="alert">Organize and ensures the well-being of the community.</div>

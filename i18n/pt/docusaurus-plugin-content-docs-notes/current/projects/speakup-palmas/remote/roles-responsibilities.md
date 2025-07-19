@@ -19,25 +19,6 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Host {#host}
-
-<div className="alert alert--info" role="alert">Conduz os encontros de conversação em inglês com leveza e presença.</div>
-
-<br/>
-
-**Função**: Guiar os encontros de forma acolhedora, promovendo um ambiente seguro e participativo.  
-**Quem pode ser**: Qualquer pessoa com inglês intermediário e disposição pra conversar com o grupo.
-
-**Responsabilidades**:
-
-- Abrir e encerrar encontros no horário combinado.
-- Sugerir temas (a gente ajuda com ideias!).
-- Estimular a participação de todos com empatia.
-- Lidar com pausas ou desconfortos de forma leve.
-- Manter a dinâmica fluida e agradável.
-
----
-
 ## Monitor(a) {#moderator}
 
 <div className="alert alert--info" role="alert">Zela pelo bem-estar e organização da comunidade.</div>
