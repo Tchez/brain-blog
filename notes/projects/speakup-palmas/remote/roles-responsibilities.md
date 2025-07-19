@@ -71,6 +71,28 @@ Below are the roles that help the club to run smoothly, kindly, and purposefully
 
 ---
 
+## Marketing & Social Media {#marketing}
+
+<div className="alert alert--info" role="alert">Promotes SpeakUp Palmas online and keeps the community engaged.</div>
+
+<br/>
+
+**Role:** Manage SpeakUp Palmas’ digital presence, driving engagement and event promotion.
+
+**Who can be one:** Anyone interested in communication, social media, audiovisual creation or content-marketing.  
+Each admin may focus on one or several fronts depending on skills and time.
+
+**Responsibilities:**
+
+- Publish templates and content on social platforms (Instagram, LinkedIn, WhatsApp, etc.).
+- Keep the online community active and engaged.
+- Suggest viral-video ideas and organize the shoots.
+- Edit video material.
+- Reply to messages and comments on the networks.
+- Create artwork and visual assets.
+
+---
+
 ## Area Lead {#leadership}
 
 <div className="alert alert--info" role="alert">Coordinates and makes sure the tasks of their area move forward.</div>

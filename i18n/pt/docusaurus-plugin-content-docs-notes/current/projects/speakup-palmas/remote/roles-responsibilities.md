@@ -19,7 +19,7 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Monitor(a) {#moderator}
+## Moderator {#moderator}
 
 <div className="alert alert--info" role="alert">Zela pelo bem-estar e organização da comunidade.</div>
 
@@ -37,7 +37,7 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Facilitador(a) de Sala {#room-facilitator}
+## Room Facilitator {#room-facilitator}
 
 <div className="alert alert--info" role="alert">Cria e movimenta uma sala temática do servidor.</div>
 
@@ -54,7 +54,7 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Organizador(a) {#organizer}
+## Organizer {#organizer}
 
 <div className="alert alert--info" role="alert">Cuida da estrutura e bastidores do clube.</div>
 
@@ -71,7 +71,28 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Liderança de Área {#leadership}
+## Marketing & Social Media {#marketing}
+
+<div className="alert alert--info" role="alert">Promove o SpeakUp Palmas online e mantém a comunidade engajada.</div>
+
+<br/>
+
+**Função**: Gerenciar a presença digital do SpeakUp Palmas, promovendo engajamento e divulgação dos eventos.
+
+**Quem pode ser**: Pessoas com interesse em comunicação, mídias sociais, audiovisual ou criatividade para conteúdo. Cada ADM pode atuar em uma ou mais frentes, conforme sua afinidade e disponibilidade.
+
+**Responsabilidades:**
+
+- Postar templates e conteúdos nas redes sociais (Instagram, LinkedIn, WhatsApp, etc.).
+- Movimentar e engajar a comunidade online.
+- Sugerir ideias para vídeos virais e organizar a gravação dos mesmos.
+- Editar vídeos.
+- Responder mensagens e comentários nas redes sociais.
+- Criar artes e materiais visuais.
+
+---
+
+## Area Lead {#leadership}
 
 <div className="alert alert--info" role="alert">Responsável por coordenar e garantir o andamento das tarefas da sua área.</div>
 
@@ -90,7 +111,7 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ---
 
-## Voluntário(a) {#volunteer}
+## Volunteer {#volunteer}
 
 <div className="alert alert--info" role="alert">Apoia quando e como puder.</div>
 
