@@ -287,12 +287,12 @@ Estamos compartilhando o link para as fotos do nosso último encontro, sintam-se
 
 **Descrição:** Um modelo de mensagem para compartilhar o formulário de feedback do encontro.
 
-**Objetivo:** Coletar opiniões e sugestões para melhorar eventos futuros.
+**Objetivo:** Coletar opiniões e sugestões de quem não preencheu o formulário no dia do encontro.
 
 ```plaintext
 Olá, pessoal!
 
-Criamos um formulário bem rapidinho (menos de 5 minutos) pra coletar o feedback de vocês sobre o nosso último encontro e ajudar a melhorar os próximos eventos.
+Aos que não tiveram a oportunidade de preencher o formulário de feedback no dia do encontro, por favor, dediquem um momento (menos de 5 minutos) para compartilhar suas opiniões e sugestões, elas são muito importantes para que possamos ouvir vocês e melhorar nossos próximos eventos!
 
 É só clicar no link abaixo para responder:
 
@@ -435,3 +435,13 @@ Hashtags sugeridas:
 ```plaintext
 #speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
+
+---
+
+## QR Code | Formulário de feedback {#qr-code-feedback-form}
+
+**Descrição:** Um modelo de card para o QR Code do formulário de feedback.
+
+**Objetivo:** Facilitar o acesso ao formulário de feedback durante o encontro.
+
+![Placeholder Image](https://placehold.co/540x540) <!-- //TODO: Criar template visual para este card -->

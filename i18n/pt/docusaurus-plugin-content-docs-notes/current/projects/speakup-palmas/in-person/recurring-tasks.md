@@ -274,7 +274,31 @@ Postar um Story com contagem regressiva no dia do encontro.
 </details>
 
 <details id="w3-t2">
-<summary><strong>Garantir registros durante o encontro · #3.2</strong> <Badge type="marketing" /> <Badge type="activities" /></summary>
+<summary><strong>Organizar o drive e criar planilha de feedbacks · #3.2</strong> <Badge type="logistics" /></summary>
+
+Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
+
+```plaintext
+📂 Xth Meetup
+   ├── 📂 Videos
+   │   ├── 📂 Raw      -> vídeos brutos gravados pelos ADMs
+   │   └── 📂 Edited   -> vídeos editados
+   ├── 📂 Xth Meetup Photos       -> pasta pública, para que os participantes compartilhem as fotos
+   └── 📂 Feedback
+       ├── Feedback spreadsheet   -> planilha para coletar feedbacks dos participantes
+       └── Form responses         -> respostas do formulário de feedback (gerada automaticamente pelo Google Forms)
+```
+
+Gerar o QR Code para a planilha de feedbacks para facilitar o acesso dos participantes durante o encontro.
+
+**Templates utilizados:**
+
+- <Link to="../templates#qr-code-feedback-form">QR Code | Formulário de feedback</Link>
+
+</details>
+
+<details id="w3-t3">
+<summary><strong>Garantir registros durante o encontro · #3.3</strong> <Badge type="marketing" /> <Badge type="activities" /></summary>
 
 Gravar vídeos curtos e tirar fotos durante o encontro, para registrar os momentos importantes e criar conteúdo para as redes sociais.
 Sempre que possível, fazer alguns vídeos mais descontraídos, como trends do TikTok, desafios, etc. Visando maior engajamento.
@@ -282,30 +306,33 @@ Sempre que possível, fazer alguns vídeos mais descontraídos, como trends do T
 <div className="alert alert--info" role="alert">
 Não esquecer de fazer a foto com todos os participantes no final do encontro.
 </div>
+
 <br/>
 
 <div className="alert alert--info" role="alert">
 Lembrar de gravar o trecho inicial do vídeo, com o 'Está acontecendo nosso x° encontro do SpeakUp, vem conferir com a gente o que está acontecendo por aqui!'. [Exemplo de formato de vídeo](https://www.youtube.com/shorts/9xKB7x6U3r8).
 </div>
+
 <br/>
 
 </details>
 
-<details id="w3-t3">
-<summary><strong>Fazer avisos iniciais durante o encontro · #3.3</strong> <Badge type="activities" /></summary>
+<details id="w3-t4">
+<summary><strong>Fazer avisos durante o encontro · #3.4</strong> <Badge type="activities" /></summary>
 
-Fazer avisos iniciais durante o encontro, como consentimento de imagem, regras do encontro, lembretes, etc.
+Fazer avisos durante o encontro, como consentimento de imagem, regras do encontro, lembretes, etc.
 
 **Avisos**
 
 - **Consentimento de imagem:** avisar que o encontro será gravado e que as imagens poderão ser utilizadas nas redes sociais do projeto. Caso alguém não queira aparecer, é só avisar.
 - **Regras do encontro:** garantir ambiente livre de julgamentos, e com respeito mútuo entre todos os participantes.
 - **Lembretes:** avisar sobre registrar momentos no encontro, pra poder participar de trends futuras, como o 'Sua vez' do Instagram.
+- **QR Code do formulário de feedback:** Ao final do encontro, passar o QR Code do formulário de feedback para que os participantes possam avaliar o encontro e sugerir melhorias.
 
 </details>
 
-<details id="w3-t4">
-<summary><strong>Após o encontro, postar Story com a foto do grupo · #3.4</strong> <Badge type="marketing" /></summary>
+<details id="w3-t5">
+<summary><strong>Postar Story com a foto do grupo · #3.5</strong> <Badge type="marketing" /></summary>
 
 Postar um Story com a foto do grupo após o encontro, para agradecer a presença de todos e engajar a comunidade.
 
@@ -323,25 +350,16 @@ Postar um Story com a foto do grupo após o encontro, para agradecer a presença
 _Objetivo: organizar o drive, coletar feedbacks e analisar insights._
 
 <details id="w4-t1">
-<summary><strong>Organizar o drive + planilha de feedbacks · #4.1</strong> <Badge type="logistics" /></summary>
 
-Criar pasta do encontro no Google Drive, seguindo a estrutura abaixo:
+<summary><strong>Compartilhar sobre o link das fotos e feedbacks · #4.1</strong> <Badge type="marketing" /></summary>
 
-```plaintext
-📂 Xth Meetup
-   ├── 📂 Videos
-   │   ├── 📂 Raw      -> vídeos brutos gravados pelos ADMs
-   │   └── 📂 Edited   -> vídeos editados
-   ├── 📂 Xth Meetup Photos       -> pasta pública, para que os participantes compartilhem as fotos
-   └── 📂 Feedback
-       ├── Feedback spreadsheet   -> planilha para coletar feedbacks dos participantes
-       └── Form responses         -> respostas do formulário de feedback
-```
+Mandar mensagem no WhatsApp informando que o link das fotos do encontro já está disponível e reforçando a importância do preenchimento do formulário de feedbacks para quem não preencheu no dia do encontro, incentivando os participantes a enviarem suas fotos e preencherem o formulário de feedback.
 
-<!-- TODO: Deixar modelo de planilha público -->
-<!-- TODO: Organizar drive atual para essa estrutura -->
+<div className="alert alert--info" role="alert">
+Depende da tarefa <strong>#3.2</strong> (Organizar o drive e criar planilha de feedbacks).
+</div>
 
-Após criada a estrutura, compartilhar o link da pasta de fotos e da planilha de feedbacks com os participantes do encontro, para que possam enviar suas fotos e preencher o formulário.
+<br/>
 
 **Templates utilizados:**
 
@@ -400,7 +418,10 @@ Caso a data do próximo encontro coincida com um feriado ou evento importante, r
 
 Analisar os feedbacks coletados na planilha e anotar os insights e sugestões para melhorar os próximos encontros. Anotar feedbacks das dinâmicas, organização do evento e local.
 
-<!-- TODO: Padronizar modelo no drive para anotar feedbacks, tanto para atividade quanto local -->
+<div className="alert alert--info" role="alert">
+Já existe um documento no Google Drive com as anotações dos encontros anteriores, tanto das atividades quanto dos locais. Adicione as novas informações lá seguindo a mesma estrutura, não crie um novo documento.
+</div>
+<br/>
 
 </details>
 

@@ -272,7 +272,32 @@ Post a final countdown Story on the meetup day itself.
 </details>
 
 <details id="w3-t2">
-<summary><strong>Record moments during the meetup · #3.2</strong> <Badge type="marketing" /> <Badge type="activities" /></summary>
+<summary><strong>Organize drive and create feedback spreadsheet · #3.2</strong> <Badge type="logistics" /></summary>
+
+Create a Google Drive folder for the meetup, following the structure below:
+
+```plaintext
+📂 Xth Meetup
+      ├── 📂 Videos
+      │  ├── 📂 Raw      -> raw videos recorded by the admins
+      │  └── 📂 Edited   -> edited videos
+      ├── 📂 Xth Meetup Photos        -> public folder for participants to share their photos
+      └── 📂 Feedback
+         ├── Feedback spreadsheet   -> spreadsheet to collect participant feedback
+         └── Form responses         -> feedback form responses (automatically created by Google Forms)
+
+```
+
+After this, generate the QR code for the feedback form to facilitate access for participants during the meetup.
+
+**Templates used:**
+
+- <Link to="../templates#qr-code-feedback-form">QR Code | Feedback Form</Link>
+
+</details>
+
+<details id="w3-t3">
+<summary><strong>Record moments during the meetup · #3.3</strong> <Badge type="marketing" /> <Badge type="activities" /></summary>
 
 Take short videos and photos to capture key moments and generate content.
 
@@ -288,8 +313,8 @@ Be sure to record the intro clip: “This is our Xth SpeakUp meetup—come see w
 
 </details>
 
-<details id="w3-t3">
-<summary><strong>Give initial announcements during the event · #3.3</strong> <Badge type="activities" /></summary>
+<details id="w3-t4">
+<summary><strong>Give initial announcements during the event · #3.4</strong> <Badge type="activities" /></summary>
 
 Make the initial announcements: media consent, meetup rules, reminders, etc.
 
@@ -298,11 +323,12 @@ Make the initial announcements: media consent, meetup rules, reminders, etc.
 - **Media consent:** inform participants that the event is being recorded and images may be used online. If anyone doesn’t want to appear, just let an admin know.
 - **Meetup rules:** maintain a judgment-free space with mutual respect.
 - **Reminders:** encourage attendees to capture moments for future Instagram trends like “Add Yours”.
+- **Feedback form:** At the end of the meetup, remind participants to fill out the feedback form, using the QR code provided.
 
 </details>
 
-<details id="w3-t4">
-<summary><strong>Post group photo after the meetup · #3.4</strong> <Badge type="marketing" /></summary>
+<details id="w3-t5">
+<summary><strong>Post group photo after the meetup · #3.5</strong> <Badge type="marketing" /></summary>
 
 Share the group photo on Stories as a thank-you and community boost.
 
@@ -319,26 +345,20 @@ Share the group photo on Stories as a thank-you and community boost.
 _Goal: organize files, gather feedback, and extract insights._
 
 <details id="w4-t1">
-<summary><strong>Organize drive + feedback spreadsheet · #4.1</strong> <Badge type="logistics" /></summary>
 
-Create a folder structure on Google Drive for the meetup as follows:
+<summary><strong>Share the photos and feedback form link · #4.1</strong> <Badge type="marketing" /></summary>
 
-```plaintext
-📂 Xth Meetup
-    ├── 📂 Videos
-    │   ├── 📂 Raw      -> raw videos recorded by the admins
-    │   └── 📂 Edited   -> edited videos
-    ├── 📂 Xth Meetup Photos        -> public folder for participants to share their photos
-    └── 📂 Feedback
-         ├── Feedback spreadsheet   -> spreadsheet to collect participant feedback
-         └── Form responses         -> feedback form responses
-```
+Send a WhatsApp message to participants with the link to the photos and the feedback form.
 
-After creating the folders, share links to the photo folder and feedback form with attendees.
+<div className="alert alert--info" role="alert">
+This task depends on task <strong>#3.2</strong> (organize drive and create feedback spreadsheet).
+</div>
+
+<br/>
 
 **Templates used:**
 
-- <Link to="../templates#wpp-msg-photos-drive">WhatsApp - Message | Meetup Photos</Link>
+- <Link to="../templates#wpp-msg-photos-drive">WhatsApp - Message | Photos Drive</Link>
 - <Link to="../templates#wpp-msg-feedback-form">WhatsApp - Message | Feedback Form</Link>
 
 </details>
@@ -390,6 +410,11 @@ If a date change is necessary, take the following actions:
 <summary><strong>Analyze feedback and note insights · #4.4</strong> <Badge type="activities" /> <Badge type="logistics" /></summary>
 
 Review feedback from the spreadsheet and extract insights and suggestions to improve future meetups (activities, structure, venue, etc.).
+
+<div className="alert alert--info" role="alert">
+There’s already a document in Google Drive with notes from previous meetups. Add the new insights there, following the same structure. Don’t create a new document.
+</div>
+<br/>
 
 </details>
 
