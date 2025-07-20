@@ -58,8 +58,6 @@ _**Goal:** Set date and location + initiate community engagement._
 
 Announce the date of the next meetup on Instagram and WhatsApp to engage the community and ensure everyone is aware of the upcoming event so they can plan to attend.
 
-Conduct a poll on WhatsApp to estimate how many people will attend.
-
 <div className="alert alert--info" role="alert">
 Depends on task <strong>#4.3</strong> (validate next meetup date).
 </div>
@@ -69,7 +67,6 @@ Depends on task <strong>#4.3</strong> (validate next meetup date).
 
 - <Link to="../templates#insta-story-save-the-date">Insta - Story | Save the Date</Link>
 - <Link to="../templates#wpp-msg-save-the-date">WhatsApp - Message | Save the Date</Link>
-- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Message | Attendance Poll</Link>
 
 </details>
 
@@ -186,6 +183,8 @@ Some activities may require input or help from group members. In these cases, co
 
 Share the confirmation artwork for the meetup (date, time, and location) on Instagram, LinkedIn, and WhatsApp.
 
+Conduct a poll on WhatsApp to estimate how many people will attend.
+
 <div className="alert alert--info" role="alert">
 Depends on task <strong>#1.2</strong> (venue and time already defined).
 </div>
@@ -197,6 +196,7 @@ Depends on task <strong>#1.2</strong> (venue and time already defined).
 - <Link to="../templates#insta-story-meeting-confirmation">Insta - Story | Meetup Confirmation</Link>
 - <Link to="../templates#linkedin-msg-meeting-confirmation">LinkedIn - Message | Meetup Confirmation</Link>
 - <Link to="../templates#wpp-msg-meeting-confirmation">WhatsApp - Message | Meetup Confirmation</Link>
+- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Message | Attendance Poll</Link>
 
 </details>
 

@@ -57,8 +57,6 @@ _**Objetivo:** definir data e local do encontro + engajamento inicial._
 
 Divulgar a data do próximo encontro no Instagram e WhatsApp para engajar a comunidade e garantir que todos estejam cientes do próximo evento, para que possam se programar e participar.
 
-Fazer votação de presença no WhatsApp, para ter uma ideia de quantas pessoas irão participar do próximo encontro.
-
 <div className="alert alert--info" role="alert">
 Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 </div>
@@ -68,7 +66,6 @@ Depende da tarefa <strong>#4.3</strong> (validar data do próximo encontro).
 
 - <Link to="../templates#insta-story-save-the-date">Insta - Story | Salve a data!</Link>
 - <Link to="../templates#wpp-msg-save-the-date">WhatsApp - Mensagem | Salve a data!</Link>
-- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Mensagem | Votação de presença</Link>
 
 </details>
 
@@ -188,6 +185,8 @@ Pra preparação de algumas dinâmicas pode ser preciso a opinião ou ajuda dos 
 
 Postar a arte de confirmação do encontro no Instagram, LinkedIn e WhatsApp, informando a data, local e horário definidos.
 
+Fazer também a votação de presença no WhatsApp, para ter uma ideia de quantas pessoas irão participar do próximo encontro.
+
 <div className="alert alert--info" role="alert">
 Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro já definidos).
 </div>
@@ -199,6 +198,7 @@ Depende da tarefa <strong>#1.2</strong> (local e horário do próximo encontro j
 - <Link to="../templates#insta-story-meeting-confirmation">Insta - Story | Confirmação de encontro</Link>
 - <Link to="../templates#linkedin-msg-meeting-confirmation">LinkedIn - Mensagem | Confirmação do encontro</Link>
 - <Link to="../templates#wpp-msg-meeting-confirmation">WhatsApp - Mensagem | Confirmação do encontro</Link>
+- <Link to="../templates#wpp-msg-poll-attendance">WhatsApp - Mensagem | Votação de presença</Link>
 
 </details>
 
