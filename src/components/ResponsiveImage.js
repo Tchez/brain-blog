@@ -27,7 +27,7 @@ export default function ResponsiveImage({
     // Monta as classes do container dinamicamente com clsx
     const containerClasses = clsx(
         styles.imageContainer,
-        styles[`justify--${justify}`]
+        styles[`align--${justify}`]
     );
 
     const ImageComponent = <IdealImage img={img} alt={alt} className={styles.image} />;
