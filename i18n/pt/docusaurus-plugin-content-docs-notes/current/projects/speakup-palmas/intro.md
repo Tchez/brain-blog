@@ -48,7 +48,7 @@ Assista alguns momentos dos encontros do SpeakUp Palmas:
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
 
-<Tabs defaultValue="video4">
+<Tabs defaultValue="remote">
   <TabItem value="video1" label="1º encontro">
     <iframe
       width="315"
@@ -99,6 +99,24 @@ import TabItem from "@theme/TabItem";
       height="560"
       src="https://www.youtube.com/embed/IKH8rx69kxo"
       title="SpeakUp Palmas – 5º encontro"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+  <TabItem value="video6" label="6º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/cjnKu5mJc3Q"
+      title="SpeakUp Palmas – 6º encontro"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
+  <TabItem value="remote" label="Aviso Importante">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/rdPe3w23FDc"
+      title="SpeakUp Palmas – Aviso Importante"
       allowfullscreen
     ></iframe>
   </TabItem>
