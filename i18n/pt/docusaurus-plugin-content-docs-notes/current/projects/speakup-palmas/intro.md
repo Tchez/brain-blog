@@ -120,6 +120,15 @@ import TabItem from "@theme/TabItem";
       allowfullscreen
     ></iframe>
   </TabItem>
+  <TabItem value="video7" label="7º encontro">
+    <iframe
+      width="315"
+      height="560"
+      src="https://www.youtube.com/embed/QEzWMcmq-3w"
+      title="SpeakUp Palmas – 7º encontro"
+      allowfullscreen
+    ></iframe>
+  </TabItem>
 </Tabs>
 
 Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
