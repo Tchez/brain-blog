@@ -124,8 +124,8 @@ export default function Home(): ReactNode {
           <div className={styles.projectCard}>
             <h3 className={styles.projectCardTitle}>{t('SpeakUp Community', 'SpeakUp Community')}</h3>
             <p className={styles.projectCardDescription}>
-              {t('A free community that connects people to practice English conversation, online or in person.',
-                'Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.')}
+              {t('A free community that connects people to practice English conversation, online and in person.',
+                'Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online e presencialmente.')}
             </p>
             <Link className="button button--primary" to="/notes/speakup-community">
               {t('Learn more', 'Saiba mais')}

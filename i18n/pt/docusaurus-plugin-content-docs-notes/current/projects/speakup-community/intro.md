@@ -147,7 +147,7 @@ Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@speakup_cmty)
 
 - Instagram – [@speakup_cmty](https://instagram.com/speakup_cmty)
 - Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
-- LinkedIn – [SpeakUp Community](https://www.linkedin.com/company/speakup-community)
+- LinkedIn – [SpeakUp Community](https://www.linkedin.com/company/speakup-cmty)
 - WhatsApp – [Grupo SpeakUp Community](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
 ---
