@@ -122,12 +122,12 @@ export default function Home(): ReactNode {
         >{t('Featured Projects', 'Projetos de Destaque')}</h2>
         <div className={styles.projectGrid}>
           <div className={styles.projectCard}>
-            <h3 className={styles.projectCardTitle}>{t('SpeakUp Palmas', 'SpeakUp Palmas')}</h3>
+            <h3 className={styles.projectCardTitle}>{t('SpeakUp Community', 'SpeakUp Community')}</h3>
             <p className={styles.projectCardDescription}>
               {t('A free community that connects people to practice English conversation, online or in person.',
                 'Uma comunidade gratuita que conecta pessoas para praticar conversação em inglês, online ou presencialmente.')}
             </p>
-            <Link className="button button--primary" to="/notes/speakup-palmas">
+            <Link className="button button--primary" to="/notes/speakup-community">
               {t('Learn more', 'Saiba mais')}
             </Link>
           </div>

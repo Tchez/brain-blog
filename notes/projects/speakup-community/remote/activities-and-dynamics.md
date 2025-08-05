@@ -40,7 +40,7 @@ These sessions are more relaxed, focused on light and spontaneous English practi
 - **Movie Club** — Conversations about movies or TV series
 - **Practice Room** — Open voice chat for casual conversation
 - **Devs Room** — Tech conversations in English for developers
-  > 💡 For structured tech activities, check out the [Tech Talks for Devs](/notes/projects/speakup-palmas/remote/devs-talks) page
+  > 💡 For structured tech activities, check out the [Tech Talks for Devs](/notes/projects/speakup-community/remote/devs-talks) page
 
 ---
 

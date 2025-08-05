@@ -16,7 +16,7 @@ import Badge from '@site/src/components/Badge';
 
 <br/>
 
-O _SpeakUp Palmas_ realiza **encontros presenciais mensais**.  
+O _SpeakUp Community_ realiza **encontros presenciais mensais**.  
 Para garantir que tudo ocorra bem, é importante seguir um cronograma de tarefas recorrentes.
 
 ## Divisão semanal
@@ -374,7 +374,7 @@ Depende da tarefa <strong>#3.2</strong> (Organizar o drive e criar planilha de f
 Editar e postar os vídeos do encontro nas redes sociais, para engajar a comunidade e manter o interesse pelo projeto.
 
 <div className="alert alert--info" role="alert">
-Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_palmas), [LinkedIn](https://linkedin.com/company/speakup-palmas), [YouTube](https://youtube.com/@SpeakUpPalmas) e [TikTok](https://tiktok.com/@speakup.palmas).
+Fazer para todas as redes sociais: [Instagram](https://instagram.com/speakup_cmty), [LinkedIn](https://linkedin.com/company/speakup-cmty), [YouTube](https://youtube.com/@speakup_cmty) e [TikTok](https://tiktok.com/@speakup_community).
 </div>
 
 <br/>

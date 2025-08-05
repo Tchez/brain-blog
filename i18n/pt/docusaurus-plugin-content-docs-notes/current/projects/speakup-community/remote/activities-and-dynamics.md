@@ -40,7 +40,7 @@ Esses encontros são mais livres, focados em prática leve e espontânea:
 - **Movie Club** — Conversa sobre filmes ou séries assistidos
 - **Practice Room** — Sala de voz aberta para bate-papo
 - **Devs Room** — Conversa técnica para devs em inglês
-  > 💡 Para atividades técnicas estruturadas, confira a página [Tech Talks para Devs](/notes/projects/speakup-palmas/remote/devs-talks)
+  > 💡 Para atividades técnicas estruturadas, confira a página [Tech Talks para Devs](/notes/projects/speakup-community/remote/devs-talks)
 
 ---
 

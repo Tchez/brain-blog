@@ -1,10 +1,18 @@
 ---
-title: SpeakUp Palmas
+title: SpeakUp Community
 description: A free community that connects people to practice English conversation, in-person and online.
 image: /img/speakup/speakup-og.png
-slug: /speakup-palmas
+slug: /speakup-community
 keywords:
-  [palmas, speakup, community, english, conversation, speak up, speakup palmas]
+  [
+    palmas,
+    speakup,
+    community,
+    english,
+    conversation,
+    speak up,
+    SpeakUp Community,
+  ]
 ---
 
 import Link from '@docusaurus/Link';
@@ -12,14 +20,14 @@ import Link from '@docusaurus/Link';
 <p align="center">
   <img
     src="/img/speakup/speakup-round.png"
-    alt="SpeakUp Palmas logo"
+    alt="SpeakUp Community logo"
     width="180"
     height="180"
     loading="lazy"
   />
 </p>
 
-**SpeakUp Palmas** is a **non-profit** community that brings together people who want to **practice spoken English** in a friendly, fun and welcoming environment.
+**SpeakUp Community** is a **non-profit** community that brings together people who want to **practice spoken English** in a friendly, fun and welcoming environment.
 
 Founded in **January 2025**, the project runs **monthly in-person meet-ups in Palmas – TO** and, more recently, **online events on Discord**, so anyone can join from anywhere.
 
@@ -55,7 +63,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/mtzZ51Rx4tg"
-      title="SpeakUp Palmas – 1st meet-up"
+      title="SpeakUp Community – 1st meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -64,7 +72,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/vCriukRXD7s"
-      title="SpeakUp Palmas – 2nd meet-up"
+      title="SpeakUp Community – 2nd meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -73,7 +81,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/bZaLznhUhI0"
-      title="SpeakUp Palmas – 3rd meet-up"
+      title="SpeakUp Community – 3rd meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -82,7 +90,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/9xKB7x6U3r8"
-      title="SpeakUp Palmas – 4th meet-up"
+      title="SpeakUp Community – 4th meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -91,7 +99,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/IKH8rx69kxo"
-      title="SpeakUp Palmas – 5th meet-up"
+      title="SpeakUp Community – 5th meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -100,7 +108,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/cjnKu5mJc3Q"
-      title="SpeakUp Palmas – 6th meet-up"
+      title="SpeakUp Community – 6th meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -109,7 +117,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/rdPe3w23FDc"
-      title="SpeakUp Palmas – Important Notice"
+      title="SpeakUp Community – Important Notice"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -118,28 +126,28 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/QEzWMcmq-3w"
-      title="SpeakUp Palmas – 7th meet-up"
+      title="SpeakUp Community – 7th meet-up"
       allowfullscreen
     ></iframe>
   </TabItem>
 </Tabs>
 
-More videos on our <Link to="https://www.youtube.com/@SpeakUpPalmas">YouTube channel</Link>.
+More videos on our <Link to="https://www.youtube.com/@speakup_cmty">YouTube channel</Link>.
 
 ---
 
 ## Social & contact
 
-- Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
+- Instagram – [@speakup_cmty](https://instagram.com/speakup_cmty)
 - Discord – [Join the server](https://discord.gg/Rj6vNuzBEY)
-- LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
+- LinkedIn – [SpeakUp Community](https://www.linkedin.com/company/speakup-community)
 - WhatsApp – [Community group](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
 ---
 
 ## Project documentation
 
-The organization of SpeakUp Palmas is documented in two sections:
+The organization of SpeakUp Community is documented in two sections:
 
 - <Link to="/notes/category/remote">Remote</Link>: roles, tasks, templates, and ideas for the online events organization.
 - <Link to="/notes/category/in-person">In-person</Link>: roles, tasks, templates, and ideas for the in-person events organization.

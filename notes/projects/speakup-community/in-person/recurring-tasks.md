@@ -16,7 +16,7 @@ import Badge from '@site/src/components/Badge';
 
 <br/>
 
-_SpeakUp Palmas_ holds **monthly in-person meetings**.  
+_SpeakUp Community_ holds **monthly in-person meetings**.  
 To ensure everything goes smoothly, it's important to follow a schedule of recurring tasks.
 
 ## Weekly Breakdown
@@ -369,7 +369,7 @@ This task depends on task <strong>#3.2</strong> (organize drive and create feedb
 Edit and post videos from the meetup to keep engagement high.
 
 <div className="alert alert--info" role="alert">
-Post across all platforms: [Instagram](https://instagram.com/speakup_palmas), [LinkedIn](https://linkedin.com/company/speakup-palmas), [YouTube](https://youtube.com/@SpeakUpPalmas), and [TikTok](https://tiktok.com/@speakup.palmas).
+Post across all platforms: [Instagram](https://instagram.com/speakup_cmty), [LinkedIn](https://linkedin.com/company/speakup-cmty), [YouTube](https://youtube.com/@speakup_cmty), and [TikTok](https://tiktok.com/@speakup_community).
 </div>
 <br/>
 

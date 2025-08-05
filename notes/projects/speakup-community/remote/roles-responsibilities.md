@@ -73,11 +73,11 @@ Below are the roles that help the club to run smoothly, kindly, and purposefully
 
 ## Marketing & Social Media {#marketing}
 
-<div className="alert alert--info" role="alert">Promotes SpeakUp Palmas online and keeps the community engaged.</div>
+<div className="alert alert--info" role="alert">Promotes SpeakUp Community online and keeps the community engaged.</div>
 
 <br/>
 
-**Role:** Manage SpeakUp Palmas’ digital presence, driving engagement and event promotion.
+**Role:** Manage SpeakUp Community’ digital presence, driving engagement and event promotion.
 
 **Who can be one:** Anyone interested in communication, social media, audiovisual creation or content-marketing.  
 Each admin may focus on one or several fronts depending on skills and time.

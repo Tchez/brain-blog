@@ -8,32 +8,32 @@ const BADGE_TYPES = {
     marketing: {
         label: 'Marketing',
         className: styles.marketing,
-        href: '/notes/projects/speakup-palmas/in-person/roles-responsibilities#marketing-and-social-media',
+        href: '/notes/projects/speakup-community/in-person/roles-responsibilities#marketing-and-social-media',
     },
     activities: {
         label: 'Activities',
         className: styles.dinamicas,
-        href: '/notes/projects/speakup-palmas/in-person/roles-responsibilities#activities-and-dynamics',
+        href: '/notes/projects/speakup-community/in-person/roles-responsibilities#activities-and-dynamics',
     },
     logistics: {
         label: 'Logistics',
         className: styles.logistica,
-        href: '/notes/projects/speakup-palmas/in-person/roles-responsibilities#organization-and-logistics',
+        href: '/notes/projects/speakup-community/in-person/roles-responsibilities#organization-and-logistics',
     },
     leadership: {
         label: 'Leadership',
         className: styles.lideranca,
-        href: '/notes/projects/speakup-palmas/in-person/roles-responsibilities#area-leadership',
+        href: '/notes/projects/speakup-community/in-person/roles-responsibilities#area-leadership',
     },
     volunteer: {
         label: 'Volunteer',
         className: styles.voluntario,
-        href: '/notes/projects/speakup-palmas/in-person/roles-responsibilities#volunteer',
+        href: '/notes/projects/speakup-community/in-person/roles-responsibilities#volunteer',
     },
 };
 
 /**
- * Badge component for SpeakUp Palmas
+ * Badge component for SpeakUp Community
  * @param {string} type - Badge type (marketing, activities, logistics, leadership, volunteer)
  * @param {string} [href] - Custom link for the badge (optional, overrides default)
  */

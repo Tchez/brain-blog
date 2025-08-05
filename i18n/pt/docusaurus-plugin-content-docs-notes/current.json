@@ -7,9 +7,9 @@
     "message": "Projetos",
     "description": "The label for category Projects in sidebar notesSidebar"
   },
-  "sidebar.notesSidebar.category.SpeakUp Palmas": {
-    "message": "SpeakUp Palmas",
-    "description": "The label for category SpeakUp Palmas in sidebar notesSidebar"
+  "sidebar.notesSidebar.category.SpeakUp Community": {
+    "message": "SpeakUp Community",
+    "description": "The label for category SpeakUp Community in sidebar notesSidebar"
   },
   "sidebar.notesSidebar.category.Remote": {
     "message": "Remoto",

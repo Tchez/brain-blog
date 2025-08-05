@@ -1,10 +1,18 @@
 ---
-title: SpeakUp Palmas
+title: SpeakUp Community
 description: Comunidade gratuita que conecta pessoas para praticar conversação em inglês,presencialmente e on-line.
 image: /img/speakup/speakup-og.png
-slug: /speakup-palmas
+slug: /speakup-community
 keywords:
-  [palmas, speakup, comunidade, inglês, conversação, speak up, speakup palmas]
+  [
+    palmas,
+    speakup,
+    comunidade,
+    inglês,
+    conversação,
+    speak up,
+    speakup community,
+  ]
 ---
 
 import Link from '@docusaurus/Link';
@@ -12,14 +20,14 @@ import Link from '@docusaurus/Link';
 <p align="center">
   <img 
     src="/img/speakup/speakup-round.png"
-    alt="Logotipo SpeakUp Palmas"
+    alt="Logotipo SpeakUp Community"
     width="180"
     height="180"
     loading="lazy"
   />
 </p>
 
-**SpeakUp Palmas** é uma comunidade **sem fins lucrativos** que conecta pessoas interessadas em praticar **conversação em inglês** num ambiente leve, divertido e acolhedor.
+**SpeakUp Community** é uma comunidade **sem fins lucrativos** que conecta pessoas interessadas em praticar **conversação em inglês** num ambiente leve, divertido e acolhedor.
 
 Criado em **janeiro de 2025**, o projeto promove **encontros mensais presenciais em Palmas – TO** e, mais recentemente, **eventos remotos via Discord**, permitindo a participação de qualquer lugar.
 
@@ -43,7 +51,7 @@ A nossa missão é promover a prática do inglês em um ambiente descontraído, 
 
 ## Vídeos dos encontros
 
-Assista alguns momentos dos encontros do SpeakUp Palmas:
+Assista alguns momentos dos encontros do SpeakUp Community:
 
 import Tabs from "@theme/Tabs";
 import TabItem from "@theme/TabItem";
@@ -54,7 +62,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/mtzZ51Rx4tg"
-      title="1º encontro do SpeakUp Palmas"
+      title="1º encontro do SpeakUp Community"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -65,7 +73,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/vCriukRXD7s"
-      title="2º encontro do SpeakUp Palmas"
+      title="2º encontro do SpeakUp Community"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -76,7 +84,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/bZaLznhUhI0"
-      title="3º encontro do SpeakUp Palmas"
+      title="3º encontro do SpeakUp Community"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -87,7 +95,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/9xKB7x6U3r8"
-      title="4º encontro do SpeakUp Palmas"
+      title="4º encontro do SpeakUp Community"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
       allowfullscreen
@@ -98,7 +106,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/IKH8rx69kxo"
-      title="SpeakUp Palmas – 5º encontro"
+      title="SpeakUp Community – 5º encontro"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -107,7 +115,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/cjnKu5mJc3Q"
-      title="SpeakUp Palmas – 6º encontro"
+      title="SpeakUp Community – 6º encontro"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -116,7 +124,7 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/rdPe3w23FDc"
-      title="SpeakUp Palmas – Aviso Importante"
+      title="SpeakUp Community – Aviso Importante"
       allowfullscreen
     ></iframe>
   </TabItem>
@@ -125,28 +133,28 @@ import TabItem from "@theme/TabItem";
       width="315"
       height="560"
       src="https://www.youtube.com/embed/QEzWMcmq-3w"
-      title="SpeakUp Palmas – 7º encontro"
+      title="SpeakUp Community – 7º encontro"
       allowfullscreen
     ></iframe>
   </TabItem>
 </Tabs>
 
-Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@SpeakUpPalmas)
+Mais vídeos em: [Canal do YouTube](https://www.youtube.com/@speakup_cmty)
 
 ---
 
 ## Redes & contato
 
-- Instagram – [@speakup_palmas](https://instagram.com/speakup_palmas)
+- Instagram – [@speakup_cmty](https://instagram.com/speakup_cmty)
 - Discord – [Entrar no servidor](https://discord.gg/Rj6vNuzBEY)
-- LinkedIn – [SpeakUp Palmas](https://www.linkedin.com/company/speakup-palmas)
-- WhatsApp – [Grupo SpeakUp Palmas](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
+- LinkedIn – [SpeakUp Community](https://www.linkedin.com/company/speakup-community)
+- WhatsApp – [Grupo SpeakUp Community](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
 ---
 
 ## Documentação do projeto
 
-A organização do SpeakUp Palmas é documentada em duas seções:
+A organização do SpeakUp Community é documentada em duas seções:
 
 - <Link to="/notes/category/remote">Remoto</Link>: papéis, tarefas, templates e ideias para a organização dos eventos online.
 - <Link to="/notes/category/in-person">Presencial</Link>: papéis, tarefas, templates e ideias para a organização dos eventos presenciais.

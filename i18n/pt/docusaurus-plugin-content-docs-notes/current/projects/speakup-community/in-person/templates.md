@@ -1,15 +1,13 @@
 ---
 title: "Templates"
-description: "Standard message, post and communication templates."
+description: "Modelos padronizados de mensagens, posts e comunicações."
 sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 
 # Templates
 
-> Work in progress (for now, the templates are in Portuguese, but will be translated to English soon)
-
-<!-- TODO: Criar templates para publicações em inglês -->
+> Trabalho em andamento
 
 ---
 
@@ -158,7 +156,7 @@ href="https://www.canva.com/design/DAGq_sREVXw/DKRmTXzNjoeg6W73jWKCgw/edit?utm_c
 **Objetivo:** Padronizar a descrição e hashtags dos vídeos.
 
 ```plaintext
-O [NÚMERO DO ENCONTRO]º Encontro do SpeakUp Palmas foi um sucesso.
+O [NÚMERO DO ENCONTRO]º Encontro do SpeakUp Community foi um sucesso.
 
 🎥 Confira os melhores momentos!
 
@@ -171,7 +169,7 @@ Let’s SpeakUp!
 Hashtags sugeridas:
 
 ```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+#speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
 
 ---
@@ -289,12 +287,12 @@ Estamos compartilhando o link para as fotos do nosso último encontro, sintam-se
 
 **Descrição:** Um modelo de mensagem para compartilhar o formulário de feedback do encontro.
 
-**Objetivo:** Coletar opiniões e sugestões para melhorar eventos futuros.
+**Objetivo:** Coletar opiniões e sugestões de quem não preencheu o formulário no dia do encontro.
 
 ```plaintext
 Olá, pessoal!
 
-Criamos um formulário bem rapidinho (menos de 5 minutos) pra coletar o feedback de vocês sobre o nosso último encontro e ajudar a melhorar os próximos eventos.
+Aos que não tiveram a oportunidade de preencher o formulário de feedback no dia do encontro, por favor, dediquem um momento (menos de 5 minutos) para compartilhar suas opiniões e sugestões, elas são muito importantes para que possamos ouvir vocês e melhorar nossos próximos eventos!
 
 É só clicar no link abaixo para responder:
 
@@ -354,7 +352,7 @@ Let’s SpeakUp!
 Hashtags sugeridas:
 
 ```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+#speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
 
 ---
@@ -368,7 +366,7 @@ Hashtags sugeridas:
 ```plaintext
 🎥 Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial!
 
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+Esse é o SpeakUp Community, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
 Let’s SpeakUp!
 ```
@@ -376,7 +374,7 @@ Let’s SpeakUp!
 Hashtags sugeridas:
 
 ```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+#speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
 
 ---
@@ -390,15 +388,15 @@ Hashtags sugeridas:
 > Título
 
 ```plaintext
-[NÚMERO DO ENCONTRO]° Encontro Presencial do SpeakUp Palmas
+[NÚMERO DO ENCONTRO]° Encontro Presencial do SpeakUp Community
 ```
 
 > Descrição
 
 ```plaintext
-Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Palmas!
+Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial do SpeakUp Community!
 
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+Esse é o SpeakUp Community, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
 Let’s SpeakUp!
 ```
@@ -406,7 +404,7 @@ Let’s SpeakUp!
 > Hashtags sugeridas
 
 ```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+#speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
 
 > Outros passos
@@ -427,7 +425,7 @@ Let’s SpeakUp!
 ```plaintext
 🎥 Confira os melhores momentos do nosso [NÚMERO DO ENCONTRO]º encontro presencial!
 
-Esse é o SpeakUp Palmas, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
+Esse é o SpeakUp Community, uma comunidade de prática de conversação em inglês gratuita. Caso tenha interesse em participar, acompanhe nossas redes sociais para ficar por dentro dos próximos encontros!
 
 Let’s SpeakUp!
 ```
@@ -435,5 +433,15 @@ Let’s SpeakUp!
 Hashtags sugeridas:
 
 ```plaintext
-#speakup #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
+#speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
+
+---
+
+## QR Code | Formulário de feedback {#qr-code-feedback-form}
+
+**Descrição:** Um modelo de card para o QR Code do formulário de feedback.
+
+**Objetivo:** Facilitar o acesso ao formulário de feedback durante o encontro.
+
+![Placeholder Image](https://placehold.co/540x540) <!-- //TODO: Criar template visual para este card -->

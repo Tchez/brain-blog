@@ -94,12 +94,12 @@ const config: Config = {
       {
         redirects: [
           {
-            from: "/pt/notes/projects/speakup-palmas/intro",
-            to: "/notes/speakup-palmas",
+            from: "/pt/notes/projects/speakup-community/intro",
+            to: "/notes/speakup-community",
           },
           {
-            from: "/notes/projects/speakup-palmas/intro",
-            to: "/notes/speakup-palmas",
+            from: "/notes/projects/speakup-community/intro",
+            to: "/notes/speakup-community",
           },
         ],
       },
@@ -113,7 +113,7 @@ const config: Config = {
       {
         name: "keywords",
         content:
-          "ai, full-stack, blog, tutorials, speakup palmas, marco antônio, notes, portfolio",
+          "ai, full-stack, blog, tutorials, speakup, speakup community, palmas, marco antônio, notes, portfolio",
       },
       /* ---------- Open Graph base ---------- */
       /* ---------- Twitter Cards ---------- */

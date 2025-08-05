@@ -13,11 +13,11 @@ image: /img/speakup/speakup-og.png
 
 ## Marketing & Social Media {#marketing}
 
-<div className="alert alert--info" role="alert">Promove o SpeakUp Palmas nas redes sociais e engaja a comunidade online.</div>
+<div className="alert alert--info" role="alert">Promove o SpeakUp Community nas redes sociais e engaja a comunidade online.</div>
 
 <br/>
 
-**Função**: Gerenciar a presença digital do SpeakUp Palmas, promovendo engajamento e divulgação dos eventos.
+**Função**: Gerenciar a presença digital do SpeakUp Community, promovendo engajamento e divulgação dos eventos.
 
 **Quem pode ser**: Pessoas com interesse em comunicação, mídias sociais, audiovisual ou criatividade para conteúdo. Cada ADM pode atuar em uma ou mais frentes, conforme sua afinidade e disponibilidade.
 

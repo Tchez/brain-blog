@@ -73,11 +73,11 @@ Abaixo você encontra os papéis que ajudam o clube a funcionar de forma leve, a
 
 ## Marketing & Social Media {#marketing}
 
-<div className="alert alert--info" role="alert">Promove o SpeakUp Palmas online e mantém a comunidade engajada.</div>
+<div className="alert alert--info" role="alert">Promove o SpeakUp Community online e mantém a comunidade engajada.</div>
 
 <br/>
 
-**Função**: Gerenciar a presença digital do SpeakUp Palmas, promovendo engajamento e divulgação dos eventos.
+**Função**: Gerenciar a presença digital do SpeakUp Community, promovendo engajamento e divulgação dos eventos.
 
 **Quem pode ser**: Pessoas com interesse em comunicação, mídias sociais, audiovisual ou criatividade para conteúdo. Cada ADM pode atuar em uma ou mais frentes, conforme sua afinidade e disponibilidade.
 
