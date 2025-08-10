@@ -1,7 +1,7 @@
 ---
 title: "Templates"
 description: "Modelos padronizados de mensagens, posts e comunicações."
-sidebar_position: 5
+sidebar_position: 3
 image: /img/speakup/speakup-og.png
 ---
 
