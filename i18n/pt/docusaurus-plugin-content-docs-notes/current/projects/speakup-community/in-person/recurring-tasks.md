@@ -1,7 +1,7 @@
 ---
 title: "Tarefas Recorrentes"
 description: "Lista de tarefas que precisam ser feitas regularmente."
-sidebar_position: 1
+sidebar_position: 0
 image: /img/speakup/speakup-og.png
 ---
 

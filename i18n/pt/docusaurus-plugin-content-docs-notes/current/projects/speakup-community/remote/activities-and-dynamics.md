@@ -1,7 +1,7 @@
 ---
 title: "Atividades e Dinâmicas"
 description: "Formatos sugeridos e rotinas para os encontros do SpeakUp."
-sidebar_position: 2
+sidebar_position: 1
 image: /img/speakup/speakup-og.png
 ---
 

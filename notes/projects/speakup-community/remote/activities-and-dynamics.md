@@ -1,7 +1,7 @@
 ---
 title: "Activities & Dynamics"
 description: "Suggested formats and routines for SpeakUp meet-ups."
-sidebar_position: 2
+sidebar_position: 1
 image: /img/speakup/speakup-og.png
 ---
 
