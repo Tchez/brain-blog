@@ -4,6 +4,7 @@ description: "Suporte operacional aos clubes: onboarding, calendário/slots e mi
 slug: "clubs"
 sidebar_position: 8
 sidebar_label: "Clubes"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Comunidade & Clubes](/notes/projects/speakup-community/org/heads#head-community-clubs)

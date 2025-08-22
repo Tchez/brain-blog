@@ -4,6 +4,7 @@ description: "Segurança, acolhimento e co-facilitação para manter engajamento
 slug: "remote-moderation-facilitation"
 sidebar_position: 1
 sidebar_label: "Remoto - Moderação & Facilitação"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Encontros & Dinâmicas](/notes/projects/speakup-community/org/heads#head-events-activities)

@@ -4,6 +4,7 @@ description: "Campanhas da Remote Edition: D-7/D-2/D+1, assets e métricas."
 slug: "remote-marketing"
 sidebar_position: 5
 sidebar_label: "Remoto - Marketing"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Marketing](/notes/projects/speakup-community/org/heads#head-marketing)

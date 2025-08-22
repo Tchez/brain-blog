@@ -3,6 +3,7 @@ title: "Líderes de Área"
 description: "Escopo, interfaces e aprovações dos Líderes de Área."
 slug: "area-leads"
 sidebar_position: 2
+image: /img/speakup/speakup-og.png
 ---
 
 <div className="alert alert--info"><span>Líderes **não acumulam execução de rotina**: **planejam**, **delegam** para ADMs ou voluntários e **acompanham** prazos/checklists.</span></div>

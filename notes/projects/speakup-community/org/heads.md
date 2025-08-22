@@ -3,6 +3,7 @@ title: "Heads"
 description: "Definição e responsabilidades dos Heads do SpeakUp Community."
 slug: "heads"
 sidebar_position: 1
+image: /img/speakup/speakup-og.png
 ---
 
 <div className="alert alert--info"><span>Heads **não executam rotina**; **destravam**, **priorizam** e **cobram**.</span></div>

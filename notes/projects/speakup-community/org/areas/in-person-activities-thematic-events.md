@@ -4,6 +4,7 @@ description: "Roteiro e execução ao vivo dos encontros presenciais e eventos t
 slug: "in-person-activities-thematic-events"
 sidebar_position: 4
 sidebar_label: "Presencial - Dinâmicas & Eventos Temáticos"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Encontros & Dinâmicas](/notes/projects/speakup-community/org/heads#head-events-activities)

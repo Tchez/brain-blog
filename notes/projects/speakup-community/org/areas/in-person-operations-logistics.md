@@ -4,6 +4,7 @@ description: "Local, montagem, sinalização, recepção e plano B para encontro
 slug: "in-person-operations-logistics"
 sidebar_position: 3
 sidebar_label: "Presencial - Operações & Logística"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Encontros & Dinâmicas](/notes/projects/speakup-community/org/heads#head-events-activities)

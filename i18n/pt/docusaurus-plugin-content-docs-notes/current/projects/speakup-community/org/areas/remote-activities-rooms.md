@@ -4,6 +4,7 @@ description: "Desenho e execução da dinâmica principal ao vivo e gestão de s
 slug: "remote-activities-rooms"
 sidebar_position: 2
 sidebar_label: "Remoto - Dinâmicas & Salas"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Encontros & Dinâmicas](/notes/projects/speakup-community/org/heads#head-events-activities)

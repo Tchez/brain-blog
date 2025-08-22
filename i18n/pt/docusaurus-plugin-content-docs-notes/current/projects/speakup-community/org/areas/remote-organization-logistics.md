@@ -4,6 +4,7 @@ description: "Planejamento, cronograma e execução sem choque de horários da e
 slug: "remote-organization-logistics"
 sidebar_position: 0
 sidebar_label: "Remoto - Organização & Logística"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Encontros & Dinâmicas](/notes/projects/speakup-community/org/heads#head-events-activities)

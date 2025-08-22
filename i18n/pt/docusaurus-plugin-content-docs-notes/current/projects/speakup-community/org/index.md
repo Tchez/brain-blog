@@ -3,6 +3,7 @@ title: "Estrutura de Cargos — visão geral"
 description: "Como o SpeakUp Community se organiza: Heads, Líderes de Área, ADMs e Voluntários."
 slug: "/projects/speakup-community/org"
 sidebar_position: 0
+image: /img/speakup/speakup-og.png
 ---
 
 ## Navegação rápida

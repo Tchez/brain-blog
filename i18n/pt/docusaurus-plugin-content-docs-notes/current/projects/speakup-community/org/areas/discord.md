@@ -4,6 +4,7 @@ description: "Canais, roles, bots, convites e segurança; suporte a encontros e 
 slug: "discord"
 sidebar_position: 10
 sidebar_label: "Discord"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Plataforma & Infra](/notes/projects/speakup-community/org/heads#head-platform-infra)

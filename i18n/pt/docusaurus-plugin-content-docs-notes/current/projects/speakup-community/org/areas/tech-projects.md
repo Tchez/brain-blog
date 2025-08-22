@@ -4,6 +4,7 @@ description: "MVPs e automações; issues, PRs e templates."
 slug: "tech-projects"
 sidebar_position: 9
 sidebar_label: "Projetos Tech"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Plataforma & Infra](/notes/projects/speakup-community/org/heads#head-platform-infra)

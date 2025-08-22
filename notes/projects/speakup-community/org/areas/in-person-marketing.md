@@ -4,6 +4,7 @@ description: "Campanhas de encontros presenciais: teaser, lembrete e highlights 
 slug: "in-person-marketing"
 sidebar_position: 6
 sidebar_label: "Presencial - Marketing"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Marketing](/notes/projects/speakup-community/org/heads#head-marketing)

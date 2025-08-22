@@ -4,6 +4,7 @@ description: "Pipeline de pessoas, onboarding, clima/reconhecimento e integra√ß√
 slug: "community-hr"
 sidebar_position: 7
 sidebar_label: "RH (Comunidade)"
+image: /img/speakup/speakup-og.png
 ---
 
 **Head relacionado:** [Head de Comunidade & Clubes](/notes/projects/speakup-community/org/heads#head-community-clubs)
