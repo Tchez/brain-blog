@@ -7,11 +7,7 @@ sidebar_position: 0
 
 Este é meu caderno de anotações público — onde organizarei e documentarei meus projetos e aprendizados.
 
-<div className="alert alert--info">
-  <p>
-    Trabalho em andamento! No momento, esta seção inclui apenas meus projetos:
-  </p>
-</div>
+<div className="alert alert--info"><span>Trabalho em andamento! No momento, esta seção inclui apenas meus projetos:</span></div>
 
 import Link from '@docusaurus/Link';
 

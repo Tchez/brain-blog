@@ -7,11 +7,7 @@ sidebar_position: 0
 
 This is my public notebook — where I'll organize and document my projects and learnings.
 
-<div className="alert alert--info">
-  <p>
-    Work in progress! Currently, this section includes only my projects:
-  </p>
-</div>
+<div className="alert alert--info"><span>Work in progress! Currently, this section includes only my projects:</span></div>
 
 import Link from '@docusaurus/Link';
 
