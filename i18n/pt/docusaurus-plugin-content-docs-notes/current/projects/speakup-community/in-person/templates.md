@@ -139,16 +139,6 @@ href="https://www.canva.com/design/DAGq_sREVXw/DKRmTXzNjoeg6W73jWKCgw/edit?utm_c
 
 ---
 
-## Insta - Post | Confirmação do encontro {#insta-post-meeting-confirmation}
-
-**Descrição:** Um modelo de post para confirmar o encontro, com data, local e hora definidos.
-
-**Objetivo:** Informar os seguidores sobre o local, data e hora do encontro, garantindo que todos estejam cientes.
-
-![Placeholder Image](https://placehold.co/540x540) <!-- TODO: Criar template visual para este post (original é 2x -> 1080x1080) -->
-
----
-
 ## Insta - Mensagem | Descrição para reels do encontro {#insta-msg-video-description}
 
 **Descrição:** Um modelo de mensagem para os reels dos encontros.
@@ -444,4 +434,10 @@ Hashtags sugeridas:
 
 **Objetivo:** Facilitar o acesso ao formulário de feedback durante o encontro.
 
-![Placeholder Image](https://placehold.co/540x540) <!-- //TODO: Criar template visual para este card -->
+<ResponsiveImage
+img='/img/speakup/templates/qr-code-feedback-form.png'
+alt="Modelo de card para 'formulário de feedback'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGtho5-6Xw/ciqAbNS6P8MM8Ow728bpYw/edit?utm_content=DAGtho5-6Xw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
