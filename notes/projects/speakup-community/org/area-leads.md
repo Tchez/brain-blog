@@ -24,7 +24,7 @@ image: /img/speakup/speakup-og.png
 
 > Comunidade & Clubes
 
-- [RH (Comunidade)](#community-hr) · [Clubes](#clubs)
+- [Comunidade (RH)](#community-hr) · [Clubes](#clubs)
 
 > Plataforma & Infra
 
@@ -282,7 +282,7 @@ Entregar a **campanha** dos encontros presenciais com consistência de marca e C
 
 ---
 
-## Líder de RH (Comunidade) {#community-hr}
+## Líder de Comunidade (RH) {#community-hr}
 
 **Head relacionado:** [Head de Comunidade & Clubes](/notes/projects/speakup-community/org/heads#head-community-clubs)
 

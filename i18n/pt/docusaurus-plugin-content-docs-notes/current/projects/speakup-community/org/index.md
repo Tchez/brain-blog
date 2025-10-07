@@ -41,7 +41,7 @@ flowchart LR
   H2 --> L6["Líder de Marketing (remoto)"]
   H2 --> L7["Líder de Marketing (presencial)"]
 
-  H3 --> L8["Líder de Comunidade"]
+  H3 --> L8["Líder de Comunidade (RH)"]
   H3 --> L9["Líder de Clubes"]
 
   H4 --> L10["Líder de Projetos Tech"]
