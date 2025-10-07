@@ -139,6 +139,22 @@ href="https://www.canva.com/design/DAGq_sREVXw/DKRmTXzNjoeg6W73jWKCgw/edit?utm_c
 
 ---
 
+## QR Code | Formulário de feedback {#qr-code-feedback-form}
+
+**Descrição:** Um modelo de card para o QR Code do formulário de feedback.
+
+**Objetivo:** Facilitar o acesso ao formulário de feedback durante o encontro.
+
+<ResponsiveImage
+img='/img/speakup/templates/qr-code-feedback-form.png'
+alt="Modelo de card para 'formulário de feedback'"
+maxWidth={300}
+justify="start"
+href="https://www.canva.com/design/DAGtho5-6Xw/ciqAbNS6P8MM8Ow728bpYw/edit?utm_content=DAGtho5-6Xw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+/>
+
+---
+
 ## Insta - Mensagem | Descrição para reels do encontro {#insta-msg-video-description}
 
 **Descrição:** Um modelo de mensagem para os reels dos encontros.
@@ -425,19 +441,3 @@ Hashtags sugeridas:
 ```plaintext
 #speakup #speakup_community #speakup_palmas #speakuppalmas #palmas #palmastocantins #pratiqueingles #comunidade #fluenciaemingles #inglêsnaprática #conversaçãoeminglês #englishconversation #learningenglish #english
 ```
-
----
-
-## QR Code | Formulário de feedback {#qr-code-feedback-form}
-
-**Descrição:** Um modelo de card para o QR Code do formulário de feedback.
-
-**Objetivo:** Facilitar o acesso ao formulário de feedback durante o encontro.
-
-<ResponsiveImage
-img='/img/speakup/templates/qr-code-feedback-form.png'
-alt="Modelo de card para 'formulário de feedback'"
-maxWidth={300}
-justify="start"
-href="https://www.canva.com/design/DAGtho5-6Xw/ciqAbNS6P8MM8Ow728bpYw/edit?utm_content=DAGtho5-6Xw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
-/>

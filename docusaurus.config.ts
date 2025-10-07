@@ -17,10 +17,12 @@ const config: Config = {
   projectName: "brain-blog",
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
 
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
   themes: ["@docusaurus/theme-mermaid"],
