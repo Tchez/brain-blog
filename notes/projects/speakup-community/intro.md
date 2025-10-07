@@ -138,8 +138,8 @@ More videos on our <Link to="https://www.youtube.com/@speakup_cmty">YouTube chan
 
 ## Social & contact
 
-- Instagram – [@speakup_br](https://instagram.com/speakup_br)
-- Discord – [Join the server](https://discord.gg/Rj6vNuzBEY)
+- Instagram – [@speakup_cmty](https://instagram.com/speakup_cmty)
+- Discord – [Join the server](https://discord.com/invite/azsgD8T5tP)
 - LinkedIn – [SpeakUp Community](https://www.linkedin.com/company/speakup-cmty)
 - WhatsApp – [Community group](https://chat.whatsapp.com/FHcDBYw1NIV3Ihxzy8sfLn)
 
@@ -149,10 +149,17 @@ More videos on our <Link to="https://www.youtube.com/@speakup_cmty">YouTube chan
 
 The organization of SpeakUp Community is documented in two sections:
 
-- <Link to="/notes/category/remote">Remote</Link>: roles, tasks, templates, and ideas for the online events organization.
-- <Link to="/notes/category/in-person">In-person</Link>: roles, tasks, templates, and ideas for the in-person events organization.
+<div className="cardsGrid">
+  <Link className="card" to="/notes/category/remote">
+    <h3>Remote edition</h3>
+    <p>Templates to facilitate collaboration and project continuity.</p>
+  </Link>
 
-Each section brings examples, suggestions, and templates to facilitate collaboration and project continuity.
+  <Link className="card" to="/notes/category/in-person">
+    <h3>In-person edition</h3>
+    <p>Templates to facilitate collaboration and project continuity.</p>
+  </Link>
+</div>
 
 <br/>
 
