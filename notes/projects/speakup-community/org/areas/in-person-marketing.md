@@ -7,6 +7,8 @@ sidebar_label: "Presencial - Marketing"
 image: /img/speakup/speakup-og.png
 ---
 
+<div className="alert alert--warning"><span>⚠️ **Página desatualizada.** Descreve o modelo Heads → Líderes de Área → ADMs → Voluntários com cadência de campanha D-7/D-5/D-2/D-1/D+1, que o SpeakUp Community **não segue mais** desde agosto de 2026 (execução de evento passou para o Trello). Fica publicada como registro histórico até ser revisada — ver task "Organizar e atualizar templates, tasks e documentação do projeto" no vault.</span></div>
+
 **Head relacionado:** [Head de Marketing](/notes/projects/speakup-community/org/heads#head-marketing)
 
 **Líder relacionado:** [Líder de Marketing (presencial)](/notes/projects/speakup-community/org/area-leads#in-person-marketing)

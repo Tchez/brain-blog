@@ -6,6 +6,8 @@ sidebar_position: 2
 image: /img/speakup/speakup-og.png
 ---
 
+<div className="alert alert--warning"><span>⚠️ **Página desatualizada.** Descreve o modelo Heads → Líderes de Área → ADMs → Voluntários com cadência de campanha D-7/D-5/D-2/D-1/D+1, que o SpeakUp Community **não segue mais** desde agosto de 2026 (execução de evento passou para o Trello). Fica publicada como registro histórico até ser revisada — ver task "Organizar e atualizar templates, tasks e documentação do projeto" no vault.</span></div>
+
 <div className="alert alert--info"><span>Líderes **não acumulam execução de rotina**: **planejam**, **delegam** para ADMs ou voluntários e **acompanham** prazos/checklists.</span></div>
 
 ## Navegação rápida
