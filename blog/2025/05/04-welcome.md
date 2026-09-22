@@ -30,26 +30,7 @@ organize references and document learning journeys.
 
 ### Content structure
 
-import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
+> My personal stream of ideas and experience.
 
-<Tabs defaultValue="blog">
-  <TabItem value="blog" label="Blog">
-    <br/>
-    > My personal stream of ideas and experience.
-    
-    You’ll read articles, tutorials and reflections on topics that excite me,
-    plus lessons learned from real‑world projects.
-  </TabItem>
-  <TabItem value="notes" label="Notes">
-    <br/>
-    > A structured knowledge vault.
-
-    Here you’ll find study notes, summaries and references on topics I’m exploring. The goal is to create a knowledge repository that’s useful for me and others.
-
-    For now, this section includes just my projects:
-
-    - **[Projects](/notes/projects/intro)** – write‑ups and documentation of things I’m building or ideas I’m exploring.
-
-  </TabItem>
-</Tabs>
+You’ll read articles, tutorials and reflections on topics that excite me,
+plus lessons learned from real‑world projects.
