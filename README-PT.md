@@ -8,7 +8,7 @@
 
 > Brain Blog: meu “segundo cérebro” público – artigos, tutoriais e reflexões.
 
-O Brain Blog é um **blog estático** onde compartilho o que estou aprendendo e construindo.
+O Brain Blog é onde compartilho o que estou aprendendo e construindo.
 
 O blog reúne:
 
@@ -49,7 +49,7 @@ docusaurus.config.ts
 ## Como contribuir
 
 Encontrou um erro ou tem uma sugestão?
-Abra uma issue ou envie um pull-request — toda melhoria é bem-vinda!
+Abra uma issue ou envie uma PR, toda melhoria é bem-vinda!
 
 ---
 
