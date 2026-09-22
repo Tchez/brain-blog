@@ -4,7 +4,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-brain-blog is a personal knowledge vault at **tchez.dev**, built with Docusaurus 3.9.1 + React 19. It has two content pillars: **Blog** (articles/tutorials) and **Notes** (structured documentation organized as Foundations, Journeys, and Projects). The site is bilingual (English default, Portuguese secondary).
+brain-blog is a personal blog at **blog.tchez.dev**, built with Docusaurus 3.9.1 + React 19. The site is bilingual (English default, Portuguese secondary).
+
+The blog owns the site root (`routeBasePath: "/"`, since 2026-09-22) — there is no separate custom homepage. What used to be `src/pages/index.tsx` (hero + featured projects) moved to the `Portfolio` project, which now owns the `tchez.dev` apex domain.
 
 ## Commands
 
@@ -19,14 +21,12 @@ brain-blog is a personal knowledge vault at **tchez.dev**, built with Docusaurus
 
 **Content-driven static site** using Docusaurus plugins:
 - `@docusaurus/preset-classic` — blog + theme
-- `@docusaurus/plugin-content-docs` (id: "notes") — structured notes at `/notes/`
 - `@docusaurus/plugin-ideal-image` — responsive image optimization
 - `@docusaurus/plugin-client-redirects` — legacy URL redirects
 - `@docusaurus/theme-mermaid` — diagram rendering in MDX
 
 **Key config:** `docusaurus.config.ts` controls everything: i18n locales, navbar, footer, plugins, blog settings, redirects, and theme customization.
 
-**Sidebars:** Both `sidebars.ts` and `sidebars-notes.ts` use Docusaurus autogeneration — ordering is controlled by `sidebar_position` in frontmatter and `_category_.json` files.
 
 ## Content Conventions
 
@@ -36,21 +36,17 @@ brain-blog is a personal knowledge vault at **tchez.dev**, built with Docusaurus
 - Use `<!-- truncate -->` for excerpt separator
 - Images use `import Image from "@theme/IdealImage"` for optimization
 
-### Notes (`notes/`)
-- Hierarchical structure with `_category_.json` for section metadata
-- Use `sidebar_position` in frontmatter to control ordering
-- Category JSON format: `{"label": "...", "position": N, "link": {"type": "generated-index", "title": "..."}}`
-
 ### Internationalization
-- English content lives in `blog/` and `notes/` directly
-- Portuguese translations go in `i18n/pt/docusaurus-plugin-content-blog/` and `i18n/pt/docusaurus-plugin-content-docs-notes/current/`
+- English content lives in `blog/` directly
+- Portuguese translations go in `i18n/pt/docusaurus-plugin-content-blog/`
 - Theme string translations: `i18n/pt/code.json`
-
-## Custom Components
-
-- **`src/components/Badge.js`** — role badges for SpeakUp Community docs (marketing, activities, logistics, leadership, volunteer)
-- **`src/components/ResponsiveImage.js`** — wrapper around `@theme/IdealImage` with alignment (`justify`) and optional link (`href`) props
 
 ## Deployment
 
-GitHub Pages with custom domain (`tchez.dev`). Static files in `static/` include `CNAME`, `robots.txt`, and `.nojekyll`. No CI/CD pipeline — deployment is manual via `npm run deploy`.
+GitHub Pages with custom domain `blog.tchez.dev`, deployed by `.github/workflows/deploy.yml`:
+
+- Push/merge to `main` → typecheck + build + deploy (Pages source must be set to **GitHub Actions** in the repo settings).
+- Pull request to `main` → typecheck + build only, no deploy. `onBrokenLinks: "throw"` makes a broken internal link fail the PR check.
+- Day-to-day work happens on `develop`; `main` is what's live.
+
+Don't use `npm run deploy`: it pushes to the `gh-pages` branch, which Pages no longer serves from. With the Actions source, the custom domain comes from the repo's Pages settings — `static/CNAME` is kept only as a record and is ignored by GitHub. When a post's slug changes, add a redirect in `plugin-client-redirects` (see the existing `/blog/<slug>` entries).

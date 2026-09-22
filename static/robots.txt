@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tchez.dev/sitemap.xml
+Sitemap: https://blog.tchez.dev/sitemap.xml

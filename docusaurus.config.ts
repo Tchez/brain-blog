@@ -8,7 +8,7 @@ const config: Config = {
   favicon: "/img/favicon.ico",
 
   /* GitHub Pages */
-  url: "https://tchez.dev",
+  url: "https://blog.tchez.dev",
   baseUrl: "/",
 
   trailingSlash: true,
@@ -56,11 +56,11 @@ const config: Config = {
       {
         docs: false,
         blog: {
+          routeBasePath: "/",
           showReadingTime: true,
           feedOptions: { type: ["rss", "atom"], xslt: true },
           editUrl: "https://github.com/tchez/brain-blog/edit/main/",
         },
-        theme: { customCss: "./src/css/custom.css" },
         sitemap: {
           changefreq: "daily",
           priority: 0.7,
@@ -71,16 +71,6 @@ const config: Config = {
   ],
 
   plugins: [
-    [
-      "@docusaurus/plugin-content-docs",
-      {
-        id: "notes",
-        path: "notes",
-        routeBasePath: "notes",
-        sidebarPath: "./sidebars-notes.ts",
-        editUrl: "https://github.com/tchez/brain-blog/edit/main/",
-      },
-    ],
     [
       "@docusaurus/plugin-ideal-image",
       {
@@ -95,14 +85,10 @@ const config: Config = {
       "@docusaurus/plugin-client-redirects",
       {
         redirects: [
-          {
-            from: "/pt/notes/projects/speakup-community/intro",
-            to: "/notes/speakup-community",
-          },
-          {
-            from: "/notes/projects/speakup-community/intro",
-            to: "/notes/speakup-community",
-          },
+          /* Blog moved off tchez.dev root: routeBasePath went from "blog" to "/" (2026-09-22) */
+          { from: "/blog/welcome", to: "/welcome" },
+          { from: "/blog/dunder-methods", to: "/dunder-methods" },
+          { from: "/blog/vector-database", to: "/vector-database" },
         ],
       },
     ],
@@ -114,27 +100,20 @@ const config: Config = {
       /* ---------- SEO base ---------- */
       {
         name: "keywords",
-        content:
-          "ai, full-stack, blog, tutorials, speakup, speakup community, palmas, marco antônio, notes, portfolio",
+        content: "ai, full-stack, blog, tutorials, marco antônio",
       },
       /* ---------- Open Graph base ---------- */
       /* ---------- Twitter Cards ---------- */
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:creator", content: "@_tchez" },
-      { name: "twitter:title", content: "Brain Blog – AI, Notes & Projects" },
+      { name: "twitter:title", content: "Brain Blog – AI & Tutorials" },
       {
         name: "twitter:description",
-        content:
-          "Articles, structured notes and project logs by Marco Antônio.",
+        content: "Articles, tutorials and reflections by Marco Antônio.",
       },
       { name: "twitter:image", content: "/img/logo-og.png" },
     ],
     deploymentBranch: "gh-pages",
-    docs: {
-      sidebar: {
-        hideable: true,
-      },
-    },
     colorMode: {
       defaultMode: "dark",
       respectPrefersColorScheme: true,
@@ -143,13 +122,7 @@ const config: Config = {
       title: "Brain Blog",
       logo: { alt: "Brain Blog Logo", src: "/img/logo.png" },
       items: [
-        { to: "/blog/welcome", label: "About Brain Blog", position: "left" },
-        {
-          to: "/notes/intro",
-          label: "Notes",
-          position: "left",
-        },
-        { to: "/blog", label: "Blog", position: "left" },
+        { to: "/welcome", label: "About Brain Blog", position: "left" },
 
         /* idioma + redes */
         { type: "localeDropdown", position: "right" },

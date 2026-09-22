@@ -6,25 +6,22 @@
 
 ![Brain Blog logo](./static/img/logo.png)
 
-> Brain Blog: My public “second brain” – articles, structured notes and project logs.
+> Brain Blog: My public “second brain” – articles, tutorials and reflections.
 
-Brain Blog is a **static knowledge vault** where I capture what I’m learning and building.
+Brain Blog is a **static blog** where I share what I’m learning and building.
 
-Content is split into two pillars:
+The blog contains:
 
-| Section   | What you’ll find                                                                                                     |
-| --------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Blog**  | Articles, tutorials, reflections                                                                                     |
-| **Notes** | • **Foundations** – atomic concepts<br>• **Journeys** – learning road-maps<br>• **Projects** – build diaries & ideas |
+- Articles and tutorials
+- Reflections and lessons learned from real-world projects
 
 ---
 
 ## Quick links
 
-| **Live site**    | <https://tchez.dev>                             |
+| **Live site**    | <https://blog.tchez.dev>                        |
 | ---------------- | ----------------------------------------------- |
-| **Welcome post** | [`/blog/welcome`](./blog/2025-05-04-welcome.md) |
-| **Notes home**   | [`/notes/intro`](./notes/intro.md)              |
+| **Welcome post** | [`/welcome`](./blog/2025-05-04-welcome.md)      |
 
 ## Local development
 
@@ -42,9 +39,7 @@ npm run serve                 # preview build
 
 ```
 blog/          # MD(X) posts
-notes/         # Docs plugin – structured notes
 i18n/pt/       # Portuguese translations
-src/           # React pages & CSS
 static/        # Images, favicon
 docusaurus.config.ts
 ```

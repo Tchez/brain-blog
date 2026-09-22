@@ -36,25 +36,6 @@ A ideia do Brain Blog é fazer um 'backup' do meu cérebro, onde anoto meus est
 
 ### Estrutura do conteúdo
 
-import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
+> Meu espaço pessoal para compartilhar ideias e conhecimento.
 
-<Tabs defaultValue="blog">
- <TabItem value="blog" label="Blog">
-    <br/>
-    > Meu espaço pessoal para compartilhar ideias e conhecimento.
-    
-    Aqui você encontrará artigos, tutoriais e reflexões sobre temas que me interessam. Compartilharei também experiências e aprendizados que considero relevantes.
-  </TabItem>
-  <TabItem value="notes" label="Notas">
-    <br/>
-    > Meu espaço pessoal para organizar conhecimento.
-
-    Aqui você encontrará anotações, resumos e referências sobre temas que estou estudando. O objetivo é criar um repositório de conhecimento que possa ser útil para mim e para outras pessoas.
-
-    Por enquanto, esta seção inclui apenas meus projetos:
-
-    - **[Projetos](/notes/projects/intro)**: anotações sobre projetos que estou desenvolvendo ou ideias que estou explorando.
-
-  </TabItem>
-</Tabs>
+Aqui você encontrará artigos, tutoriais e reflexões sobre temas que me interessam. Compartilharei também experiências e aprendizados que considero relevantes.
