@@ -100,8 +100,9 @@ const config: Config = {
       /* ---------- SEO base ---------- */
       {
         name: "keywords",
-        content: "ai, full-stack, blog, tutorials, marco antônio",
+        content: "ai, full-stack, blog, tutorials, marco netto, tchez",
       },
+      { name: "author", content: "Marco Netto" },
       /* ---------- Open Graph base ---------- */
       /* ---------- Twitter Cards ---------- */
       { name: "twitter:card", content: "summary_large_image" },
@@ -109,7 +110,7 @@ const config: Config = {
       { name: "twitter:title", content: "Brain Blog – AI & Tutorials" },
       {
         name: "twitter:description",
-        content: "Articles, tutorials and reflections by Marco Antônio.",
+        content: "Articles, tutorials and reflections by Marco Netto.",
       },
       { name: "twitter:image", content: "/img/logo-og.png" },
     ],
