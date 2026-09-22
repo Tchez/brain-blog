@@ -53,4 +53,4 @@ Abra uma issue ou envie uma PR, toda melhoria é bem-vinda!
 
 ---
 
-MIT © Marco Antônio ([@tchez](https://github.com/tchez))
+MIT © Marco Netto ([@tchez](https://github.com/tchez))
