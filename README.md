@@ -8,7 +8,7 @@
 
 > Brain Blog: My public “second brain” – articles, tutorials and reflections.
 
-Brain Blog is a **static blog** where I share what I’m learning and building.
+Brain Blog is where I share what I’m learning and building.
 
 The blog contains:
 
@@ -49,7 +49,7 @@ docusaurus.config.ts
 ## Contributing
 
 Spotted a typo or have an idea?
-Open an issue or send a pull-request—every improvement helps!
+Open an issue or send a PR, every improvement helps!
 
 ---
 
