@@ -94,6 +94,25 @@ const config: Config = {
     ],
   ],
 
+  /* Structured data and icons for search engines and AI readers (2026-09-30): the blog belongs to the same person as
+     tchez.dev (one @id), and Google needs a favicon at a multiple of 48 px. */
+  headTags: [
+    { tagName: "link", attributes: { rel: "icon", type: "image/png", sizes: "48x48", href: "/img/favicon-48.png" } },
+    {
+      tagName: "script",
+      attributes: { type: "application/ld+json" },
+      innerHTML: JSON.stringify({
+        "@context": "https://schema.org",
+        "@graph": [
+          { "@type": "Blog", "@id": "https://blog.tchez.dev/#blog", name: "Brain Blog", url: "https://blog.tchez.dev/",
+            inLanguage: ["en", "pt-BR"], author: { "@id": "https://tchez.dev/#person" }, publisher: { "@id": "https://tchez.dev/#person" } },
+          { "@type": "Person", "@id": "https://tchez.dev/#person", name: "Marco Netto", alternateName: "tchez", url: "https://tchez.dev/",
+            image: "https://tchez.dev/marco-netto.jpg", sameAs: ["https://www.linkedin.com/in/tchez/", "https://github.com/tchez", "https://blog.tchez.dev/"] },
+        ],
+      }),
+    },
+  ],
+
   themeConfig: {
     image: "/img/logo-og.png",
     metadata: [
@@ -127,6 +146,7 @@ const config: Config = {
 
         /* idioma + redes */
         { type: "localeDropdown", position: "right" },
+        { href: "https://tchez.dev/", label: "tchez.dev", position: "right" },
         {
           href: "https://www.linkedin.com/in/tchez/",
           label: "LinkedIn",

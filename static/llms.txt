@@ -1,0 +1,23 @@
+# Brain Blog
+
+> Articles, tutorials and reflections on AI and software by Marco Netto (tchez), in English and Portuguese.
+
+The author's site, with his projects, papers and talks, is https://tchez.dev/ (summary for AI readers: https://tchez.dev/llms.txt).
+
+## Posts (English)
+
+- [From Data to Knowledge: The Power of Vector Databases](https://blog.tchez.dev/vector-database/): vector databases, embeddings and similarity search, and how they store knowledge rather than only data.
+- [Do you know what magic methods are in Python? Hint: You use them every day!](https://blog.tchez.dev/dunder-methods/): Python's magic (dunder) methods, what they are for and how to use them.
+- [Welcome to Brain Blog](https://blog.tchez.dev/welcome/): what the blog is and what to expect.
+
+## Posts (Português)
+
+- [Como armazenar conhecimento com bancos de dados vetoriais?](https://blog.tchez.dev/pt/vector-database/): bancos de dados vetoriais, embeddings e busca por similaridade.
+- [Você sabe o que são métodos mágicos em Python? Dica: Você usa todos os dias!](https://blog.tchez.dev/pt/dunder-methods/): os métodos mágicos (dunder) do Python.
+- [Bem-vindo ao Brain Blog](https://blog.tchez.dev/pt/welcome/): o que é o blog.
+
+## Elsewhere
+
+- [Marco Netto](https://tchez.dev/): the author's site
+- [LinkedIn](https://www.linkedin.com/in/tchez/)
+- [GitHub](https://github.com/tchez)

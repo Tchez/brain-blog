@@ -19,9 +19,7 @@ image: /img/logo-og.png
 
 Olá, mundo! 👋
 
-<!-- TODO: Adicionar link para o about me depois -->
-
-Sou [Marco Antônio](https://www.linkedin.com/in/tchez) e este é o meu **Brain Blog**.
+Sou [Marco Netto](https://tchez.dev/pt/) e este é o meu **Brain Blog**.
 
 Esta publicação é uma explicação do que você vai encontrar por aqui.
 

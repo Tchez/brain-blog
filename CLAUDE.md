@@ -50,3 +50,10 @@ GitHub Pages with custom domain `blog.tchez.dev`, deployed by `.github/workflows
 - Day-to-day work happens on `develop`; `main` is what's live.
 
 Don't use `npm run deploy`: it pushes to the `gh-pages` branch, which Pages no longer serves from. With the Actions source, the custom domain comes from the repo's Pages settings — `static/CNAME` is kept only as a record and is ignored by GitHub. When a post's slug changes, add a redirect in `plugin-client-redirects` (see the existing `/blog/<slug>` entries).
+
+## SEO and AI readers (2026-09-30)
+
+- `static/llms.txt` lists every post for AI readers; add a line (EN and PT) when a post is published.
+- `static/robots.txt` allows everyone and names the AI crawlers.
+- `headTags` in `docusaurus.config.ts` add a 48px favicon (Google shows favicons only at multiples of 48 px) and JSON-LD that ties the blog to the same person as tchez.dev (`https://tchez.dev/#person`). The author entry in `blog/authors.yml` points at tchez.dev and its portrait.
+- Public name is **Marco Netto**. Images must carry no metadata: Canva exports embed the account's full name in XMP, so re-encode them (for example with sharp) before committing.

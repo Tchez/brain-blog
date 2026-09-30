@@ -12,9 +12,7 @@ keywords: [brain blog, second brain, knowledge vault, learning, study notes]
 
 Hello, world! 👋
 
-<!-- TODO: Adicionar link para o about me depois -->
-
-I’m **[Marco Antônio](https://www.linkedin.com/in/tchez)** and this is my **Brain Blog**.
+I’m **[Marco Netto](https://tchez.dev/)** and this is my **Brain Blog**.
 
 This first post is a quick tour of what you’ll find here.
 
